@@ -1,0 +1,15 @@
+06:01:42.085 [VehicleDeleted] CivilianSedan_Wine (id=C80E90BD9A44C962BBB2C19C491C1DB6 pos=<13925.023438, 113.439125, 6884.992676>)
+06:01:42.085 [VehicleDeleted] CivilianSedan (id=A2FBF8B6874B411C2277EC9349BDF03E pos=<14900.001953, 98.025940, 8210.004883>)
+06:01:42.085 [VehicleDeleted] CivilianSedan_Wine (id=DF36A45F4641B95271FC6085BCAB88D3 pos=<14119.942383, 136.812408, 9414.949219>)
+06:01:42.085 [VehicleDeleted] CivilianSedan_Wine (id=45A066781F45DB4CEFDF1E82FBABED03 pos=<14254.981445, 145.555939, 12159.979492>)
+06:01:42.085 [VehicleDeleted] CivilianSedan_Black (id=B92B2FA9614281583BA8D8886981F42A pos=<15114.997070, 106.067047, 10060.027344>)
+06:01:42.087 [VehicleDeleted] CivilianSedan_Black (id=0B76052F30484CCDA6FB35A8933622D5 pos=<19165.003906, 127.769829, 1664.956177>)
+06:01:42.087 [VehicleDeleted] Hatchback_02_BanditKitty (id=06170E23954BC488D14C068E6453A6B2 pos=<14915.000000, 106.299782, 8339.996094>)
+06:01:42.087 [VehicleDeleted] Hatchback_02_Black (id=35DE1FB5F94331CAA9E9A781F6034C35 pos=<14890.025391, 87.334564, 9739.978516>)
+06:01:42.087 [VehicleDeleted] Hatchback_02_Black (id=6E8E4E25A34762BD756CA8B31823CBD9 pos=<14089.983398, 163.986755, 10915.008789>)
+06:01:42.087 [VehicleDeleted] Hatchback_02_Black (id=4557B2C820401AB8C8A20896570CD8F1 pos=<14900.007813, 130.805649, 10739.972656>)
+06:05:44.187 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Basebuilding
+07:33:22.185 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Military
+09:00:11.185 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Medical
+10:25:56.187 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Medical
+11:52:42.187 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Basebuilding

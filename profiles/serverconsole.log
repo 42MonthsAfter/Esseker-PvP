@@ -1,908 +1,792 @@
-﻿ 0:21:09 BattlEye server updated to version: 219
- 0:21:09 BattlEye Server: Initialized (v1.219, DayZ 1.23.157045)
- 0:21:09 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.23.157045)
- 0:21:09 BattlEye Server: Config entry: RConPassword 150c08f7143ebeb929955c118214b462
- 0:21:09 BattlEye Server: Config entry: RConPort 2305
- 0:21:09 BattlEye Server: Config entry: RestrictRCon 0
- 0:21:09 Roles assigned.
- 0:21:09 Reading mission ...
- 0:21:13 [CE][Hive] :: Initializing OFFLINE
- 0:21:13 [StorageDirs] :: Selected storage directory: C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\
- 0:21:13 [CE][Hive] :: Loading core data ... 
- 0:21:13 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
- 0:21:13 [CE][offlineDB] :: Conversion of characters started.
- 0:21:13 [CE][offlineDB] :: Processing 0 players.
- 0:21:13 [CE][offlineDB] :: Conversion of characters successfully completed.
- 0:21:16 [CE][TypeSetup] :: 437 classes setuped...
- 0:21:16 [CE][TypeSetup] :: 97 classes setuped...
- 0:21:17 [CE][RegisterBind] :: 0 classes binded...
- 0:21:17 [CE][RegisterConfig] :: 11416 config classes registered, 1 sub-counters...
- 0:21:17 [CE][Hive] :: Loading map data ... 
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'vehicleparts'.
- 0:21:17 !!! [CE] :: Unknown category: 'bags'.
- 0:21:17 !!! [CE] :: Unknown category: 'rifles'.
- 0:21:17 !!! [CE] :: Unknown category: 'bags'.
- 0:21:17 !!! [CE] :: Unknown category: 'rifles'.
- 0:21:17 [CE][LoadPrototype] :: loaded 349 prototypes
- 0:21:17   733 containers, 9715 points
- 0:21:17   30 dispatches, 111 proxies
- 0:21:17 !!! [CE][LoadPrototype] 10 groups have no points...
- 0:21:17 [CE][LoadPrototype] :: last group name: Land_Tenement_Small...
- 0:21:17 [CE][LoadPrototype] :: loaded 0 prototypes
- 0:21:17   55 containers, 232 points
- 0:21:17   0 dispatches, 0 proxies
- 0:21:17 [CE][LoadPrototype] :: last group name: Rail9...
- 0:21:17 [CE][LoadMap] "Group" :: loaded 2776 groups, groups failed: 0, largest group range: 33.9
- 0:21:17 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 33.9
- 0:21:17 [CE][LoadClusters] "Cluster" :: Loading files...
- 0:21:17 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 2 types, 83 instances
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\types.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\types.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\types.002"
- 0:21:17 !!! [CE][offlineDB] :: No Shutdown message present.
- 0:21:17 [CE][offlineDB] :: Loaded 35 dynamic events 227 total types.
- 0:21:17 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
- 0:21:17 [CE][offlineDB] :: Loaded 45 dynamic events 284 total types.
- 0:21:17 !!! [CE][offlineDB] :: Type 'Bandage' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'BandanaMask_BlackPattern' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'BandanaMask_CamoPattern' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'BandanaMask_GreenPattern' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'BandanaMask_PolkaPattern' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'BandanaMask_RedPattern' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
- 0:21:17 !!! [CE][offlineDB] :: Type 'DallasMask' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE][offlineDB] :: Type 'HoxtonMask' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE][offlineDB] :: Type 'SharpLongWoodenStick' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'TransitBus' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
- 0:21:17 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
- 0:21:17 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
- 0:21:17 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
- 0:21:17 !!! [CE][offlineDB] :: Type 'WolfMask' will be ignored. (Type does not exist. (Typo?))
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE] :: Unknown usage: 'Lunapark'.
- 0:21:17 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
- 0:21:17 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
- 0:21:17 !!! [ERROR][XML] :: load [Esseker\ce\cfgeventgroups.xml] failed
- 0:21:17 !!! [ERROR][XML] :: Failed to open file
- 0:21:17 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleV3S'.
- 0:21:17 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleV3SChassis'.
- 0:21:17 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleV3SCargo'.
- 0:21:17 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
- 0:21:17 [CE][DE][SPAWNS] :: Total positions: 155
- 0:21:17 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\events.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\events.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\events.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_000.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_000.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_000.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_001.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_001.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_001.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_002.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_002.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_002.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_004.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_004.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_004.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_005.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_005.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_005.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_006.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_006.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_006.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_007.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_007.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_007.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_008.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_008.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_008.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_009.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_009.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_009.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_010.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_010.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_010.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_011.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_011.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_011.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\building.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\building.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\building.002"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\vehicles.bin"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\vehicles.001"
- 0:21:17 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\vehicles.002"
- 0:21:17 [CE][Hive] :: Empty storage folder, reinitializing ... 
- 0:21:17 [CE][Hive] :: Initializing ... 
- 0:21:17 [CE][InitializeMap] :: initialized: 0
- 0:21:17 [CE][Hive] :: Initializing spawners ... 
- 0:21:18 !!! [CE][DE] DynamicEvent "ItemPlanks" does not have position 'player', so it needs configured positions.
- 0:21:18 !!!!!! [CE][DE] DynamicEvent "ItemPlanks" setup is invalid, event will be disabled.
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "PumpkinSeedsPack"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "PumpkinSeedsPack"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "PumpkinSeedsPack"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "PumpkinSeedsPack"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "Truck_01_Door_1_1_GreenRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "CivSedanTrunk_WineRust"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "QuiltedJacket_Grey"
- 0:21:18 !!! [CE][Point] Removing 10683.575195, 5376.654785 from Land_Shed_W3
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "ExpansionSafeLarge"
- 0:21:18 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "Ammo_Expansion_M203_Smoke_Green"
- 0:21:18 !!! [CE][Point] Removing 9495.081055, 5378.989746 from Land_Slum_House2
- 0:21:18 !!! [CE][Point] Removing 9975.384766, 5420.694824 from Land_Boat_Small1
- 0:21:18 !!! [CE][Point] Removing 9977.635742, 5424.477539 from Land_Boat_Small1
- 0:21:18 !!! [CE][Point] Removing 9946.745117, 5419.052734 from Land_Boat_Small1
- 0:21:18 !!! [CE][Point] Removing 9991.860352, 5423.755371 from Land_Boat_Small1
- 0:21:18 !!! [CE][Point] Removing 9975.957031, 5419.744141 from Land_Boat_Small1
- 0:21:18 !!! [CE][Point] Removing 9989.627930, 5419.856934 from Land_Boat_Small1
- 0:21:18 !!! [CE][Point] Removing 9939.552734, 5422.864746 from Land_Boat_Small3
- 0:21:18 !!! [CE][Point] Removing 9492.821289, 5380.310059 from Land_Slum_House2
- 0:21:18 !!! [CE][Point] Removing 10682.837891, 5373.712891 from Land_Shed_W3
- 0:21:19 !!! [CE][Point] Removing 10682.876953, 5377.695801 from Land_Shed_W3
- 0:21:19 !!! [CE][Point] Removing 9938.777344, 5418.639648 from Land_Boat_Small1
- 0:21:19 !!! [CE][Point] Removing 10682.095703, 5376.651367 from Land_Shed_W3
- 0:21:19 !!! [CE][Point] Removing 10682.168945, 5374.997559 from Land_Shed_W3
- 0:21:19 !!! [CE][Point] Removing 9956.051758, 5423.054688 from Land_Boat_Small1
- 0:21:19 !!! [CE][Point] Removing 10681.336914, 5374.434082 from Land_Shed_W3
- 0:21:19 !!! [CE][Point] Removing 10683.278320, 5374.902832 from Land_Shed_W3
- 0:21:19 !!! [CE][Point] Removing 10681.788086, 5375.863770 from Land_Shed_W3
- 0:21:19 !!! [CE][Point] Removing 9895.392578, 5431.812988 from Land_Boat_Small1
- 0:21:19 !!! [CE][Point] Removing 9947.456055, 5418.201660 from Land_Boat_Small1
- 0:21:19 !!! [CE][Point] Removing 9978.127930, 5426.128418 from Land_Boat_Small1
- 0:21:19 !!! [CE][Point] Removing 9991.477539, 5424.796875 from Land_Boat_Small1
- 0:21:19 !!! [CE][Point] Removing 9989.671875, 5418.134766 from Land_Boat_Small1
- 0:21:19 !!! [CE][Point] Removing 9938.719727, 5425.465820 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9894.438477, 5430.422363 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9974.709961, 5418.609863 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9989.837891, 5419.231445 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9939.093750, 5424.421875 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9998.631836, 5426.252930 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9893.992188, 5432.816895 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9946.137695, 5419.310059 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9977.629883, 5425.137207 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9894.618164, 5432.606934 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9974.825195, 5421.042480 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9992.344727, 5423.307617 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9939.575195, 5423.970703 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10006.985352, 5411.306152 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9955.881836, 5423.691895 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9941.903320, 5419.904297 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10000.649414, 5424.589355 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10019.297852, 5406.559082 from Land_Boat_Small3
- 0:21:20 !!! [CE][Point] Removing 10005.158203, 5423.859375 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9938.998047, 5419.261719 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10006.512695, 5410.846191 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9956.117188, 5424.776367 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9942.113281, 5419.278809 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10000.910156, 5426.291992 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10004.972656, 5424.492188 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9937.970703, 5417.878418 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10005.452148, 5410.520020 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9941.947266, 5418.182129 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10000.553711, 5425.241699 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 10005.178711, 5425.582031 from Land_Boat_Small1
- 0:21:20 !!! [CE][Point] Removing 9893.130859, 5431.389160 from Land_Boat_Small1
- 0:21:20 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:12240, Nominal:23216, Total in Map: 11656 at 2 (sec)
- 0:21:20   tests:1054005, repeats:2253 fails:1039512, overtime:9695
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 15, deloot: 2, containermaxsum: 10
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (15 > 10)
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 13, deloot: 2, containermaxsum: 10
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (13 > 10)
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 15, deloot: 2, containermaxsum: 10
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:21:20 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (15 > 10)
- 0:21:20 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Init: "StaticPoliceCar" - There are not enough positions in "cfgeventspawns.xml", 3 < 10
- 0:21:20 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
- 0:21:20 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Init: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
- 0:21:20 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Init: "VehicleHatchback02" - There are not enough positions in "cfgeventspawns.xml", 6 < 10
- 0:21:20 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Init: "VehicleHatchback02" - Failed to spawn the requested amount (5 < 10) within 30 attempts.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleTruck01" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleTruck01" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleUAZ" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleUAZ" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleVodnik" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleVodnik" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleBus" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleBus" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleTractor" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleTractor" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleUtilityBoat" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleUtilityBoat" setup is invalid, event will be disabled.
- 0:21:20 !!! [CE][DE] DynamicEvent "VehicleZodiacBoat" does not have position 'player', so it needs configured positions.
- 0:21:20 !!!!!! [CE][DE] DynamicEvent "VehicleZodiacBoat" setup is invalid, event will be disabled.
- 0:21:20 [CE][DynEvent] :: 45 types
- 0:21:20 [00] AmbientHen
- 0:21:20   Primary Spawner: "Ambient", active: yes, repeat: 1
- 0:21:20 [01] AnimalBear
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [02] AnimalCow
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [03] AnimalDeer
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [04] AnimalGoat
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [05] AnimalPig
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [06] AnimalRoeDeer
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [07] AnimalSheep
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [08] AnimalWildBoar
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [09] AnimalWolf
- 0:21:20   Primary Spawner: "Animal", active: yes, repeat: 1
- 0:21:20 [10] InfectedArmy
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [11] InfectedArmyHard
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [12] InfectedCity
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [13] InfectedFirefighter
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [14] InfectedIndustrial
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [15] InfectedMedic
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [16] InfectedPolice
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [17] InfectedPoliceHard
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [18] InfectedPrisoner
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [19] InfectedReligious
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [20] InfectedSolitude
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [21] InfectedVillage
- 0:21:20   Primary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [22] ItemPlanks
- 0:21:20   Primary Spawner: "Item", active: no, repeat: 1
- 0:21:20 [23] Loot
- 0:21:20   Primary Spawner: "Loot", active: yes, repeat: 2
- 0:21:20 [24] StaticHeliCrash
- 0:21:20   Primary Spawner: "Static", active: yes, repeat: 1
- 0:21:20   Secondary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [25] StaticPoliceCar
- 0:21:20   Primary Spawner: "Static", active: yes, repeat: 1
- 0:21:20   Secondary Spawner: "Infected", active: yes, repeat: 1
- 0:21:20 [26] TrajectoryConiferous
- 0:21:20   Primary Spawner: "Trajectory", active: yes, repeat: 1
- 0:21:20 [27] TrajectoryDeciduous
- 0:21:20   Primary Spawner: "Trajectory", active: yes, repeat: 1
- 0:21:20 [28] TrajectoryHumus
- 0:21:20   Primary Spawner: "Trajectory", active: yes, repeat: 1
- 0:21:20 [29] TrajectoryStones
- 0:21:20   Primary Spawner: "Trajectory", active: yes, repeat: 1
- 0:21:20 [30] VehicleCivilianSedan
- 0:21:20   Primary Spawner: "Vehicle", active: yes, repeat: 1
- 0:21:20 [31] VehicleHatchback02
- 0:21:20   Primary Spawner: "Vehicle", active: yes, repeat: 1
- 0:21:20 [32] VehicleOffroadHatchback
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [33] VehicleSedan02
- 0:21:20   Primary Spawner: "Vehicle", active: yes, repeat: 1
- 0:21:20 [34] VehicleTruck01
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [35] VehicleUAZ
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [36] VehicleVodnik
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [37] VehicleBus
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [38] VehicleTractor
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [39] VehicleMH6Helicopter
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [40] VehicleMerlinHelicopter
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [41] VehicleUh1hHelicopter
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [42] VehicleGyroHelicopter
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [43] VehicleUtilityBoat
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [44] VehicleZodiacBoat
- 0:21:20   Primary Spawner: "Vehicle", active: no, repeat: 1
- 0:21:20 [CE][Hive] :: Initializing of spawners done.
- 0:21:20 [CE][Hive] :: Init sequence finished.
- 0:21:30 Average server FPS: 27176.10 (measured interval: 10 s)
- 0:21:40 Average server FPS: 26094.10 (measured interval: 10 s)
- 0:21:50 Average server FPS: 38477.10 (measured interval: 10 s)
- 0:22:00 Average server FPS: 45065.90 (measured interval: 10 s)
- 0:22:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 19, deloot: 2, containermaxsum: 10
- 0:22:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:22:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (19 > 10)
- 0:22:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 11, deloot: 2, containermaxsum: 10
- 0:22:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:22:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (11 > 10)
- 0:22:10 Average server FPS: 47485.10 (measured interval: 10 s)
- 0:22:10 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
- 0:22:10 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
- 0:22:12 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
- 0:22:20 Average server FPS: 46555.40 (measured interval: 10 s)
- 0:22:30 Average server FPS: 48561.10 (measured interval: 10 s)
- 0:22:40 Average server FPS: 50202.00 (measured interval: 10 s)
- 0:22:46 [IdleMode] Entering IN - save processed
- 0:22:50 Average server FPS: 49348.60 (measured interval: 10 s)
- 0:23:00 Average server FPS: 50835.70 (measured interval: 10 s)
- 0:23:10 Average server FPS: 51701.90 (measured interval: 10 s)
- 0:23:20 Average server FPS: 50425.50 (measured interval: 10 s)
- 0:23:30 Average server FPS: 52041.40 (measured interval: 10 s)
- 0:23:40 Average server FPS: 52490.00 (measured interval: 10 s)
- 0:23:50 Average server FPS: 50727.00 (measured interval: 10 s)
- 0:24:00 Average server FPS: 50330.30 (measured interval: 10 s)
- 0:24:10 Average server FPS: 49879.60 (measured interval: 10 s)
- 0:24:20 Average server FPS: 50808.60 (measured interval: 10 s)
- 0:24:30 Average server FPS: 51789.80 (measured interval: 10 s)
- 0:24:40 Average server FPS: 53427.60 (measured interval: 10 s)
- 0:24:50 Average server FPS: 52497.60 (measured interval: 10 s)
- 0:25:00 Average server FPS: 53274.60 (measured interval: 10 s)
- 0:25:10 Average server FPS: 53472.90 (measured interval: 10 s)
- 0:25:20 Average server FPS: 53502.30 (measured interval: 10 s)
- 0:25:30 Average server FPS: 53580.10 (measured interval: 10 s)
- 0:25:40 Average server FPS: 53475.90 (measured interval: 10 s)
- 0:25:50 Average server FPS: 53529.30 (measured interval: 10 s)
- 0:26:00 Average server FPS: 53390.70 (measured interval: 10 s)
- 0:26:10 Average server FPS: 53585.80 (measured interval: 10 s)
- 0:26:20 Average server FPS: 53541.40 (measured interval: 10 s)
- 0:26:30 Average server FPS: 52764.30 (measured interval: 10 s)
- 0:26:40 Average server FPS: 52704.80 (measured interval: 10 s)
- 0:26:50 Average server FPS: 52651.80 (measured interval: 10 s)
- 0:27:00 Average server FPS: 51306.40 (measured interval: 10 s)
- 0:27:10 Average server FPS: 51486.20 (measured interval: 10 s)
- 0:27:20 Average server FPS: 55184.30 (measured interval: 10 s)
- 0:27:30 Average server FPS: 55536.00 (measured interval: 10 s)
- 0:27:40 Average server FPS: 55568.30 (measured interval: 10 s)
- 0:27:50 Average server FPS: 55486.10 (measured interval: 10 s)
- 0:28:00 Average server FPS: 55545.20 (measured interval: 10 s)
- 0:28:10 Average server FPS: 55512.80 (measured interval: 10 s)
- 0:28:20 Average server FPS: 55573.70 (measured interval: 10 s)
- 0:28:30 Average server FPS: 54955.80 (measured interval: 10 s)
- 0:28:40 Average server FPS: 55438.70 (measured interval: 10 s)
- 0:28:50 Average server FPS: 55602.50 (measured interval: 10 s)
- 0:29:00 Average server FPS: 55415.20 (measured interval: 10 s)
- 0:29:10 Average server FPS: 55594.60 (measured interval: 10 s)
- 0:29:20 Average server FPS: 55583.50 (measured interval: 10 s)
- 0:29:30 Average server FPS: 55641.10 (measured interval: 10 s)
- 0:29:40 Average server FPS: 55601.40 (measured interval: 10 s)
- 0:29:50 Average server FPS: 55540.40 (measured interval: 10 s)
- 0:30:00 Average server FPS: 54717.00 (measured interval: 10 s)
- 0:30:10 Average server FPS: 37276.30 (measured interval: 10 s)
- 0:30:20 Average server FPS: 18024.00 (measured interval: 10 s)
- 0:30:30 Average server FPS: 53879.80 (measured interval: 10 s)
- 0:30:40 Average server FPS: 55561.40 (measured interval: 10 s)
- 0:30:50 Average server FPS: 55565.90 (measured interval: 10 s)
- 0:31:00 Average server FPS: 55601.50 (measured interval: 10 s)
- 0:31:10 Average server FPS: 55776.20 (measured interval: 10 s)
- 0:31:20 Average server FPS: 55680.30 (measured interval: 10 s)
- 0:31:30 Average server FPS: 55513.00 (measured interval: 10 s)
- 0:31:40 Average server FPS: 55624.00 (measured interval: 10 s)
- 0:31:50 Average server FPS: 55632.20 (measured interval: 10 s)
- 0:32:00 Average server FPS: 54392.90 (measured interval: 10 s)
- 0:32:10 Average server FPS: 55733.50 (measured interval: 10 s)
- 0:32:20 Average server FPS: 55852.10 (measured interval: 10 s)
- 0:32:30 Average server FPS: 55670.00 (measured interval: 10 s)
- 0:32:40 Average server FPS: 55674.30 (measured interval: 10 s)
- 0:32:50 Average server FPS: 55679.70 (measured interval: 10 s)
- 0:33:00 Average server FPS: 54325.20 (measured interval: 10 s)
- 0:33:10 Average server FPS: 55586.60 (measured interval: 10 s)
- 0:33:20 Average server FPS: 55650.10 (measured interval: 10 s)
- 0:33:30 Average server FPS: 55679.90 (measured interval: 10 s)
- 0:33:40 Average server FPS: 55668.60 (measured interval: 10 s)
- 0:33:50 Average server FPS: 55533.90 (measured interval: 10 s)
- 0:34:00 Average server FPS: 55242.30 (measured interval: 10 s)
- 0:34:10 Average server FPS: 52160.50 (measured interval: 10 s)
- 0:34:20 Average server FPS: 54219.20 (measured interval: 10 s)
- 0:34:30 Average server FPS: 54930.50 (measured interval: 10 s)
- 0:34:35 [Login]: Adding player [Admin] Bunker (23176862) to login queue at position 0
- 0:34:35 [LoginMachine]: Add player [Admin] Bunker (23176862 192.168.1.64:2304)
- 0:34:35 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid ) Entering AuthPlayerLoginState
- 0:34:35 BattlEye Server: Player #0 [Admin] Bunker (192.168.1.64:2304) connected
- 0:34:35 Player [Admin] Bunker connecting.
- 0:34:35 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid ) Entering WaitAuthPlayerLoginState
- 0:34:36 BattlEye Server: Connected to BE Master
- 0:34:36 BattlEye Server: Player #0 [Admin] Bunker - BE GUID: de14957533e35de36c2632310be2da2e
- 0:34:38 BattlEye Server: Verified GUID (de14957533e35de36c2632310be2da2e) of player #0 [Admin] Bunker
- 0:34:38 Player [Admin] Bunker connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=).
- 0:34:38 Player "[Admin] Bunker" is connected (steamID=76561198036774377)
- 0:34:38 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid ) Entering WaitPlayerAssignedLoginState
- 0:34:38 [IdleMode] Leaving OUT
- 0:34:39 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetLoginTimeLoginState
- 0:34:39 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBWaitLoginTimeLoginState
- 0:34:40 Average server FPS: 53622.30 (measured interval: 10 s)
- 0:34:50 Average server FPS: 51265.00 (measured interval: 10 s)
- 0:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetCharacterLoginState
- 0:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering CreateNetObjectsLoginState
- 0:34:54 Player [Admin] Bunker dpid=23176862 at pos (10131.7, 0.0, 10069.3) 
- 0:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering PreloadCamLoginState
- 0:34:54 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering WaitPreloadCamLoginState
- 0:34:59 [StateMachine]: Player [Admin] Bunker (dpnid 23176862 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering GetNewCharLoginState
- 0:34:59 <CREATE NEW CHAR>:
+﻿14:36:45 BattlEye Server: Initialized (v1.219, DayZ 1.23.157045)
+14:36:45 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.23.157045)
+14:36:45 BattlEye Server: Config entry: RConPassword 150c08f7143ebeb929955c118214b462
+14:36:45 BattlEye Server: Config entry: RConPort 2305
+14:36:45 BattlEye Server: Config entry: RestrictRCon 0
+14:36:45 Roles assigned.
+14:36:45 Reading mission ...
+14:36:49 [CE][Hive] :: Initializing OFFLINE
+14:36:49 [StorageDirs] :: Selected storage directory: C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\
+14:36:49 [CE][Hive] :: Loading core data ... 
+14:36:49 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+14:36:52 [CE][TypeSetup] :: 437 classes setuped...
+14:36:52 [CE][TypeSetup] :: 97 classes setuped...
+14:36:53 [CE][RegisterBind] :: 0 classes binded...
+14:36:53 [CE][RegisterConfig] :: 11429 config classes registered, 1 sub-counters...
+14:36:53 [CE][Hive] :: Loading map data ... 
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'vehicleparts'.
+14:36:53 !!! [CE] :: Unknown category: 'bags'.
+14:36:53 !!! [CE] :: Unknown category: 'rifles'.
+14:36:53 !!! [CE] :: Unknown category: 'bags'.
+14:36:53 !!! [CE] :: Unknown category: 'rifles'.
+14:36:53 [CE][LoadPrototype] :: loaded 349 prototypes
+14:36:53   733 containers, 9715 points
+14:36:53   30 dispatches, 111 proxies
+14:36:53 !!! [CE][LoadPrototype] 10 groups have no points...
+14:36:53 [CE][LoadPrototype] :: last group name: Land_Tenement_Small...
+14:36:53 [CE][LoadPrototype] :: loaded 0 prototypes
+14:36:53   55 containers, 232 points
+14:36:53   0 dispatches, 0 proxies
+14:36:53 [CE][LoadPrototype] :: last group name: Rail9...
+14:36:53 [CE][LoadMap] "Group" :: loaded 2776 groups, groups failed: 0, largest group range: 33.9
+14:36:53 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 33.9
+14:36:53 [CE][LoadClusters] "Cluster" :: Loading files...
+14:36:53 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 2 types, 83 instances
+14:36:53 [CE][Storage] ver:21 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\types.bin"
+14:36:53 [CE][Storage] ver:21 stamp:1772, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\types.001"
+14:36:53 [CE][Storage] ver:21 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\types.002"
+14:36:53 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\types.bin".
+14:36:53 !!! [CE][offlineDB] :: No Shutdown message present.
+14:36:53 [CE][offlineDB] :: Loaded 35 dynamic events 227 total types.
+14:36:53 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+14:36:53 [CE][offlineDB] :: Loaded 45 dynamic events 284 total types.
+14:36:53 !!! [CE][offlineDB] :: Type 'Bandage' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE][offlineDB] :: Type 'BandanaMask_BlackPattern' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE][offlineDB] :: Type 'BandanaMask_CamoPattern' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE][offlineDB] :: Type 'BandanaMask_GreenPattern' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE][offlineDB] :: Type 'BandanaMask_PolkaPattern' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE][offlineDB] :: Type 'BandanaMask_RedPattern' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+14:36:53 !!! [CE][offlineDB] :: Type 'DallasMask' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE][offlineDB] :: Type 'HoxtonMask' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE][offlineDB] :: Type 'SharpLongWoodenStick' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+14:36:53 !!! [CE][offlineDB] :: Type 'TransitBus' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+14:36:53 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+14:36:53 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+14:36:53 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+14:36:53 !!! [CE][offlineDB] :: Type 'WolfMask' will be ignored. (Type does not exist. (Typo?))
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE] :: Unknown usage: 'Lunapark'.
+14:36:53 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+14:36:53 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+14:36:53 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
+14:36:53 !!! [ERROR][XML] :: load [Esseker\ce\cfgeventgroups.xml] failed
+14:36:53 !!! [ERROR][XML] :: Failed to open file
+14:36:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleV3S'.
+14:36:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleV3SChassis'.
+14:36:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleV3SCargo'.
+14:36:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+14:36:53 [CE][DE][SPAWNS] :: Total positions: 155
+14:36:53 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+14:36:53 [CE][Storage] ver:21 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\events.bin"
+14:36:53 [CE][Storage] ver:21 stamp:1772, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\events.001"
+14:36:53 [CE][Storage] ver:21 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\events.002"
+14:36:53 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\events.bin".
+14:36:53 [CE][DynamicEvent] Load  Events:[45] Primary spawners: 45 Secondary spawners: 2
+14:36:53 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_000.bin"
+14:36:53 [CE][Storage] ver:25 stamp:1772, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_000.001"
+14:36:53 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_000.002"
+14:36:53 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_000.bin" 0 items.
+14:36:53   0 items loaded. (0 failed)
+14:36:53 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_001.bin"
+14:36:53 [CE][Storage] ver:25 stamp:1772, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_001.001"
+14:36:53 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_001.002"
+14:36:53 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_001.bin" 0 items.
+14:36:53   0 items loaded. (0 failed)
+14:36:53 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_002.bin"
+14:36:53 [CE][Storage] ver:25 stamp:1772, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_002.001"
+14:36:53 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_002.002"
+14:36:53 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_002.bin" 0 items.
+14:36:53   0 items loaded. (0 failed)
+14:36:53 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.bin"
+14:36:53 !!! [CE][Storage] Failed to read [Storage] data file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.001".
+14:36:53   File not closed...
+14:36:53 [CE][Storage] ver:25 stamp:1775, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.001"
+14:36:53 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.002"
+14:36:53 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_003.bin" 0 items.
+14:36:53   0 items loaded. (0 failed)
+14:36:53 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_004.bin"
+14:36:53 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_004.001"
+14:36:53 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_004.002"
+14:36:53 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_004.bin" 679 items.
+14:36:54   679 items loaded. (0 failed)
+14:36:54 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_005.bin"
+14:36:54 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_005.001"
+14:36:54 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_005.002"
+14:36:54 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_005.bin" 586 items.
+14:36:54   586 items loaded. (0 failed)
+14:36:54 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_006.bin"
+14:36:54 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_006.001"
+14:36:54 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_006.002"
+14:36:54 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_006.bin" 546 items.
+14:36:54   546 items loaded. (0 failed)
+14:36:54 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_007.bin"
+14:36:54 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_007.001"
+14:36:54 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_007.002"
+14:36:54 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_007.bin" 2018 items.
+14:36:55   2018 items loaded. (0 failed)
+14:36:55 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_008.bin"
+14:36:55 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_008.001"
+14:36:55 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_008.002"
+14:36:55 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_008.bin" 2275 items.
+14:36:55   2275 items loaded. (0 failed)
+14:36:55 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_009.bin"
+14:36:55 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_009.001"
+14:36:55 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_009.002"
+14:36:55 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_009.bin" 4566 items.
+14:36:56   4566 items loaded. (0 failed)
+14:36:56 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_010.bin"
+14:36:56 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_010.001"
+14:36:56 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_010.002"
+14:36:56 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_010.bin" 852 items.
+14:36:57   852 items loaded. (0 failed)
+14:36:57 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_011.bin"
+14:36:57 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_011.001"
+14:36:57 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_011.002"
+14:36:57 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\dynamic_011.bin" 657 items.
+14:36:57   657 items loaded. (0 failed)
+14:36:57 [CE][Storage] ver:26 stamp:1717, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\building.bin"
+14:36:57 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\building.001"
+14:36:57 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\building.002"
+14:36:57 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\building.bin" 2049 items.
+14:36:57   2049 items loaded. (0 failed)
+14:36:57 [CE][Storage] ver:25 stamp:1775, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\vehicles.bin"
+14:36:57 [CE][Storage] ver:25 stamp:1772, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\vehicles.001"
+14:36:57 [CE][Storage] ver:25 stamp:1773, valid:yes, name:"C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\vehicles.002"
+14:36:57 [CE][Storage] Restoring file "C:\Users\Admin\Documents\Esseker\servers\0\mpmissions\dayzOffline.Esseker\storage_1\data\vehicles.bin" 16 items.
+14:36:57   16 items loaded. (0 failed)
+14:36:57 [CE][Hive] :: Storage load took:3.34 seconds, recovery stamp:1775
+14:36:57   entity: 12600, building: 2049
+14:36:57   no lifetime: 4
+14:36:57   pathgraph's: 277
+14:36:57 [CE][Hive] :: Initializing ... 
+14:36:57 [CE][InitializeMap] :: initialized: 34
+14:36:57 [CE][Hive] :: Initializing spawners ... 
+14:36:57 !!! [CE][DE] DynamicEvent "ItemPlanks" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "ItemPlanks" setup is invalid, event will be disabled.
+14:36:57 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:23216, Total in Map: 12196 at 0 (sec)
+14:36:57   tests:0, repeats:0 fails:0, overtime:0
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleTruck01" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleTruck01" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleUAZ" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleUAZ" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleVodnik" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleVodnik" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleBus" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleBus" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleTractor" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleTractor" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleUtilityBoat" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleUtilityBoat" setup is invalid, event will be disabled.
+14:36:57 !!! [CE][DE] DynamicEvent "VehicleZodiacBoat" does not have position 'player', so it needs configured positions.
+14:36:57 !!!!!! [CE][DE] DynamicEvent "VehicleZodiacBoat" setup is invalid, event will be disabled.
+14:36:57 [CE][DynEvent] :: 45 types
+14:36:57 [00] AmbientHen
+14:36:57   Primary Spawner: "Ambient", active: yes, repeat: 1
+14:36:57 [01] AnimalBear
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [02] AnimalCow
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [03] AnimalDeer
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [04] AnimalGoat
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [05] AnimalPig
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [06] AnimalRoeDeer
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [07] AnimalSheep
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [08] AnimalWildBoar
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [09] AnimalWolf
+14:36:57   Primary Spawner: "Animal", active: yes, repeat: 1
+14:36:57 [10] InfectedArmy
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [11] InfectedArmyHard
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [12] InfectedCity
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [13] InfectedFirefighter
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [14] InfectedIndustrial
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [15] InfectedMedic
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [16] InfectedPolice
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [17] InfectedPoliceHard
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [18] InfectedPrisoner
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [19] InfectedReligious
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [20] InfectedSolitude
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [21] InfectedVillage
+14:36:57   Primary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [22] ItemPlanks
+14:36:57   Primary Spawner: "Item", active: no, repeat: 1
+14:36:57 [23] Loot
+14:36:57   Primary Spawner: "Loot", active: yes, repeat: 2
+14:36:57 [24] StaticHeliCrash
+14:36:57   Primary Spawner: "Static", active: yes, repeat: 1
+14:36:57   Secondary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [25] StaticPoliceCar
+14:36:57   Primary Spawner: "Static", active: yes, repeat: 1
+14:36:57   Secondary Spawner: "Infected", active: yes, repeat: 1
+14:36:57 [26] TrajectoryConiferous
+14:36:57   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:36:57 [27] TrajectoryDeciduous
+14:36:57   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:36:57 [28] TrajectoryHumus
+14:36:57   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:36:57 [29] TrajectoryStones
+14:36:57   Primary Spawner: "Trajectory", active: yes, repeat: 1
+14:36:57 [30] VehicleCivilianSedan
+14:36:57   Primary Spawner: "Vehicle", active: yes, repeat: 1
+14:36:57 [31] VehicleHatchback02
+14:36:57   Primary Spawner: "Vehicle", active: yes, repeat: 1
+14:36:57 [32] VehicleOffroadHatchback
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [33] VehicleSedan02
+14:36:57   Primary Spawner: "Vehicle", active: yes, repeat: 1
+14:36:57 [34] VehicleTruck01
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [35] VehicleUAZ
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [36] VehicleVodnik
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [37] VehicleBus
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [38] VehicleTractor
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [39] VehicleMH6Helicopter
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [40] VehicleMerlinHelicopter
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [41] VehicleUh1hHelicopter
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [42] VehicleGyroHelicopter
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [43] VehicleUtilityBoat
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [44] VehicleZodiacBoat
+14:36:57   Primary Spawner: "Vehicle", active: no, repeat: 1
+14:36:57 [CE][Hive] :: Initializing of spawners done.
+14:36:57 [CE][Hive] :: Init sequence finished.
+14:37:00 [UNLOCK] Server was unlocked.
+14:37:00 BattlEye Server: Command received: #unlock Result: OK
+14:37:08 Average server FPS: 33275.80 (measured interval: 10 s)
+14:37:13 [Login]: Adding player [Admin] Bunker (1183188741) to login queue at position 0
+14:37:13 [LoginMachine]: Add player [Admin] Bunker (1183188741 192.168.1.64:2304)
+14:37:13 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid ) Entering AuthPlayerLoginState
+14:37:14 BattlEye Server: Player #0 [Admin] Bunker (192.168.1.64:2304) connected
+14:37:14 Player [Admin] Bunker connecting.
+14:37:14 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid ) Entering WaitAuthPlayerLoginState
+14:37:14 BattlEye Server: Connected to BE Master
+14:37:15 BattlEye Server: Player #0 [Admin] Bunker - BE GUID: de14957533e35de36c2632310be2da2e
+14:37:16 BattlEye Server: Verified GUID (de14957533e35de36c2632310be2da2e) of player #0 [Admin] Bunker
+14:37:16 Player [Admin] Bunker connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=).
+14:37:16 Player "[Admin] Bunker" is connected (steamID=76561198036774377)
+14:37:16 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid ) Entering WaitPlayerAssignedLoginState
+14:37:18 Average server FPS: 47664.60 (measured interval: 10 s)
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Headtorch_Black"
+14:37:18 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Ammo_380"
+14:37:19 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "KitchenKnife"
+14:37:19 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Pipe"
+14:37:19 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "PowerGenerator"
+14:37:19 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "HuntingKnife"
+14:37:19 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "MakarovIJ70"
+14:37:19 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Mosin9130"
+14:37:20 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Compass"
+14:37:20 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "HandSaw"
+14:37:20 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "SmallProtectorCase"
+14:37:20 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "PipeWrench"
+14:37:20 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetLoginTimeLoginState
+14:37:20 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBWaitLoginTimeLoginState
+14:37:28 Average server FPS: 46306.90 (measured interval: 10 s)
+14:37:35 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetCharacterLoginState
+14:37:35 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering CreateNetObjectsLoginState
+14:37:35 Player [Admin] Bunker dpid=1183188741 at pos (11934.7, 75.9, 7780.5) 
+14:37:35 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering PreloadCamLoginState
+14:37:35 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering WaitPreloadCamLoginState
+14:37:37 [StateMachine]: Player [Admin] Bunker (dpnid 1183188741 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering GetLoadedCharLoginState
+14:37:37 <LOAD EXISTING CHAR>:
     charID 1
     playerID 1
-    dpnid 23176862
+    dpnid 1183188741
     uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
- 0:35:00 Average server FPS: 50546.00 (measured interval: 10 s)
- 0:35:10 Average server FPS: 30166.90 (measured interval: 10 s)
- 0:35:20 Average server FPS: 29480.30 (measured interval: 10 s)
- 0:35:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 10, deloot: 2, containermaxsum: 10
- 0:35:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:35:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 15, deloot: 2, containermaxsum: 10
- 0:35:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:35:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (15 > 10)
- 0:35:30 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
- 0:35:30 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
- 0:35:30 Average server FPS: 28654.30 (measured interval: 10 s)
- 0:35:38 [Disconnect]: Start script disconnect 23176862 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
- 0:35:40 Average server FPS: 26831.30 (measured interval: 10 s)
- 0:35:41 [Disconnect]: Client 23176862 disconnecting
- 0:35:41 [Disconnect]: Client 23176862 early disconnect
- 0:35:41 [Disconnect]: Start script disconnect 23176862 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
- 0:35:50 Average server FPS: 27320.40 (measured interval: 10 s)
- 0:35:52 [Disconnect]: No packets from 23176862
- 0:35:52 Player [Admin] Bunker (23176862) kicked from server: 4 (Connection with host has been lost.)
- 0:35:53 [Disconnect]: Finish script disconnect 23176862 (mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
- 0:35:53 [Disconnect]: DisconnectPlayerFinish 23176862
- 0:35:53 [Disconnect]: Remove player info 23176862
- 0:35:53 [Disconnect]: Player destroy 23176862 
- 0:35:53 Player [Admin] Bunker disconnected.
- 0:35:53 BattlEye Server: Player #0 [Admin] Bunker disconnected
- 0:35:56 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
- 0:36:00 Average server FPS: 39647.20 (measured interval: 10 s)
- 0:36:10 Average server FPS: 44093.00 (measured interval: 10 s)
- 0:36:20 Average server FPS: 45720.90 (measured interval: 10 s)
- 0:36:30 Average server FPS: 46089.20 (measured interval: 10 s)
- 0:36:40 Average server FPS: 45280.60 (measured interval: 10 s)
- 0:36:50 Average server FPS: 46129.20 (measured interval: 10 s)
- 0:36:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 14, deloot: 2, containermaxsum: 10
- 0:36:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 0:36:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (14 > 10)
- 0:36:51 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
- 0:36:51 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
- 0:36:59 [IdleMode] Entering IN - save processed
- 0:37:00 Average server FPS: 44411.00 (measured interval: 10 s)
- 0:37:10 Average server FPS: 45251.90 (measured interval: 10 s)
- 0:37:20 Average server FPS: 45233.10 (measured interval: 10 s)
- 0:37:30 Average server FPS: 45168.20 (measured interval: 10 s)
- 0:37:40 Average server FPS: 45277.90 (measured interval: 10 s)
- 0:37:50 Average server FPS: 45505.50 (measured interval: 10 s)
- 0:38:00 Average server FPS: 45545.30 (measured interval: 10 s)
- 0:38:10 Average server FPS: 44968.80 (measured interval: 10 s)
- 0:38:20 Average server FPS: 45459.30 (measured interval: 10 s)
- 0:38:30 Average server FPS: 45798.10 (measured interval: 10 s)
- 0:38:40 Average server FPS: 45791.30 (measured interval: 10 s)
- 0:38:50 Average server FPS: 45438.00 (measured interval: 10 s)
- 0:39:00 Average server FPS: 44554.30 (measured interval: 10 s)
- 0:39:10 Average server FPS: 45690.50 (measured interval: 10 s)
- 0:39:20 Average server FPS: 45003.40 (measured interval: 10 s)
- 0:39:30 Average server FPS: 44510.10 (measured interval: 10 s)
- 0:39:40 Average server FPS: 45226.80 (measured interval: 10 s)
- 0:39:50 Average server FPS: 45059.60 (measured interval: 10 s)
- 0:40:00 Average server FPS: 44791.20 (measured interval: 10 s)
- 0:40:10 Average server FPS: 45506.80 (measured interval: 10 s)
- 0:40:20 Average server FPS: 45552.50 (measured interval: 10 s)
- 0:40:30 Average server FPS: 45405.60 (measured interval: 10 s)
- 0:40:40 Average server FPS: 45597.10 (measured interval: 10 s)
- 0:40:50 Average server FPS: 45749.80 (measured interval: 10 s)
- 0:41:00 Average server FPS: 45064.10 (measured interval: 10 s)
- 0:41:10 Average server FPS: 45784.80 (measured interval: 10 s)
- 0:41:20 Average server FPS: 45624.10 (measured interval: 10 s)
- 0:41:30 Average server FPS: 45490.10 (measured interval: 10 s)
- 0:41:40 Average server FPS: 45445.80 (measured interval: 10 s)
- 0:41:50 Average server FPS: 45513.80 (measured interval: 10 s)
- 0:42:00 Average server FPS: 44381.40 (measured interval: 10 s)
- 0:42:10 Average server FPS: 45456.10 (measured interval: 10 s)
- 0:42:20 Average server FPS: 45523.70 (measured interval: 10 s)
- 0:42:30 Average server FPS: 45618.90 (measured interval: 10 s)
- 0:42:40 Average server FPS: 45625.70 (measured interval: 10 s)
- 0:42:50 Average server FPS: 45619.10 (measured interval: 10 s)
- 0:43:00 Average server FPS: 45873.80 (measured interval: 10 s)
- 0:43:10 Average server FPS: 45679.00 (measured interval: 10 s)
- 0:43:20 Average server FPS: 45672.40 (measured interval: 10 s)
- 0:43:30 Average server FPS: 45566.30 (measured interval: 10 s)
- 0:43:40 Average server FPS: 45531.80 (measured interval: 10 s)
- 0:43:50 Average server FPS: 45493.10 (measured interval: 10 s)
- 0:44:00 Average server FPS: 45292.20 (measured interval: 10 s)
- 0:44:10 Average server FPS: 42648.70 (measured interval: 10 s)
- 0:44:20 Average server FPS: 45352.10 (measured interval: 10 s)
- 0:44:30 Average server FPS: 45810.80 (measured interval: 10 s)
- 0:44:40 Average server FPS: 45924.70 (measured interval: 10 s)
- 0:44:50 Average server FPS: 45887.70 (measured interval: 10 s)
- 0:45:00 Average server FPS: 44672.00 (measured interval: 10 s)
- 0:45:10 Average server FPS: 45225.40 (measured interval: 10 s)
- 0:45:20 Average server FPS: 45375.80 (measured interval: 10 s)
- 0:45:30 Average server FPS: 46341.20 (measured interval: 10 s)
- 0:45:40 Average server FPS: 46330.10 (measured interval: 10 s)
- 0:45:50 Average server FPS: 46298.70 (measured interval: 10 s)
- 0:46:00 Average server FPS: 47078.70 (measured interval: 10 s)
- 0:46:10 Average server FPS: 48142.30 (measured interval: 10 s)
- 0:46:20 Average server FPS: 48188.00 (measured interval: 10 s)
- 0:46:30 Average server FPS: 48050.90 (measured interval: 10 s)
- 0:46:40 Average server FPS: 48068.00 (measured interval: 10 s)
- 0:46:50 Average server FPS: 47835.20 (measured interval: 10 s)
- 0:47:00 Average server FPS: 47230.80 (measured interval: 10 s)
- 0:47:10 Average server FPS: 48051.40 (measured interval: 10 s)
- 0:47:20 Average server FPS: 48117.90 (measured interval: 10 s)
- 0:47:30 Average server FPS: 48089.40 (measured interval: 10 s)
- 0:47:40 Average server FPS: 48065.00 (measured interval: 10 s)
- 0:47:50 Average server FPS: 48068.50 (measured interval: 10 s)
- 0:48:00 Average server FPS: 47267.00 (measured interval: 10 s)
- 0:48:10 Average server FPS: 48029.20 (measured interval: 10 s)
- 0:48:20 Average server FPS: 48173.60 (measured interval: 10 s)
- 0:48:30 Average server FPS: 48146.00 (measured interval: 10 s)
- 0:48:40 Average server FPS: 48014.00 (measured interval: 10 s)
- 0:48:50 Average server FPS: 48050.20 (measured interval: 10 s)
- 0:49:00 Average server FPS: 47072.20 (measured interval: 10 s)
- 0:49:10 Average server FPS: 48091.50 (measured interval: 10 s)
- 0:49:20 Average server FPS: 48077.10 (measured interval: 10 s)
- 0:49:30 Average server FPS: 47970.20 (measured interval: 10 s)
- 0:49:40 Average server FPS: 48010.00 (measured interval: 10 s)
- 0:49:50 Average server FPS: 47994.00 (measured interval: 10 s)
- 0:50:00 Average server FPS: 47361.20 (measured interval: 10 s)
- 0:50:10 Average server FPS: 48113.80 (measured interval: 10 s)
- 0:50:20 Average server FPS: 48164.60 (measured interval: 10 s)
- 0:50:30 Average server FPS: 48175.20 (measured interval: 10 s)
- 0:50:40 Average server FPS: 48073.20 (measured interval: 10 s)
- 0:50:50 Average server FPS: 48015.10 (measured interval: 10 s)
- 0:51:00 Average server FPS: 47923.60 (measured interval: 10 s)
- 0:51:10 Average server FPS: 48175.30 (measured interval: 10 s)
- 0:51:20 Average server FPS: 47977.80 (measured interval: 10 s)
- 0:51:30 Average server FPS: 48150.00 (measured interval: 10 s)
- 0:51:40 Average server FPS: 48139.70 (measured interval: 10 s)
- 0:51:50 Average server FPS: 47983.70 (measured interval: 10 s)
- 0:52:00 Average server FPS: 47565.70 (measured interval: 10 s)
- 0:52:10 Average server FPS: 48145.60 (measured interval: 10 s)
- 0:52:20 Average server FPS: 48168.00 (measured interval: 10 s)
- 0:52:30 Average server FPS: 48047.00 (measured interval: 10 s)
- 0:52:40 Average server FPS: 48101.50 (measured interval: 10 s)
- 0:52:50 Average server FPS: 48158.40 (measured interval: 10 s)
- 0:53:00 Average server FPS: 47136.50 (measured interval: 10 s)
- 0:53:10 Average server FPS: 48058.70 (measured interval: 10 s)
- 0:53:20 Average server FPS: 48175.70 (measured interval: 10 s)
- 0:53:30 Average server FPS: 48063.30 (measured interval: 10 s)
- 0:53:40 Average server FPS: 47978.90 (measured interval: 10 s)
- 0:53:50 Average server FPS: 48040.40 (measured interval: 10 s)
- 0:54:00 Average server FPS: 47898.30 (measured interval: 10 s)
- 0:54:10 Average server FPS: 45582.60 (measured interval: 10 s)
- 0:54:20 Average server FPS: 46773.10 (measured interval: 10 s)
- 0:54:30 Average server FPS: 47671.50 (measured interval: 10 s)
- 0:54:40 Average server FPS: 48661.20 (measured interval: 10 s)
- 0:54:50 Average server FPS: 48648.20 (measured interval: 10 s)
- 0:55:00 Average server FPS: 48687.60 (measured interval: 10 s)
- 0:55:10 Average server FPS: 48758.40 (measured interval: 10 s)
- 0:55:20 Average server FPS: 48807.80 (measured interval: 10 s)
- 0:55:30 Average server FPS: 48684.30 (measured interval: 10 s)
- 0:55:40 Average server FPS: 48800.90 (measured interval: 10 s)
- 0:55:50 Average server FPS: 49569.30 (measured interval: 10 s)
- 0:56:00 Average server FPS: 49623.10 (measured interval: 10 s)
- 0:56:10 Average server FPS: 49843.70 (measured interval: 10 s)
- 0:56:20 Average server FPS: 49813.50 (measured interval: 10 s)
- 0:56:30 Average server FPS: 49786.00 (measured interval: 10 s)
- 0:56:40 Average server FPS: 49888.40 (measured interval: 10 s)
- 0:56:50 Average server FPS: 49856.00 (measured interval: 10 s)
- 0:57:00 Average server FPS: 48704.10 (measured interval: 10 s)
- 0:57:10 Average server FPS: 49826.00 (measured interval: 10 s)
- 0:57:20 Average server FPS: 49877.30 (measured interval: 10 s)
- 0:57:30 Average server FPS: 49878.30 (measured interval: 10 s)
- 0:57:40 Average server FPS: 49778.40 (measured interval: 10 s)
- 0:57:50 Average server FPS: 49813.20 (measured interval: 10 s)
- 0:58:00 Average server FPS: 48818.10 (measured interval: 10 s)
- 0:58:10 Average server FPS: 49850.70 (measured interval: 10 s)
- 0:58:20 Average server FPS: 49900.50 (measured interval: 10 s)
- 0:58:30 Average server FPS: 49695.80 (measured interval: 10 s)
- 0:58:40 Average server FPS: 49812.10 (measured interval: 10 s)
- 0:58:50 Average server FPS: 49915.80 (measured interval: 10 s)
- 0:59:00 Average server FPS: 49898.40 (measured interval: 10 s)
- 0:59:10 Average server FPS: 49827.20 (measured interval: 10 s)
- 0:59:20 Average server FPS: 49831.90 (measured interval: 10 s)
- 0:59:30 Average server FPS: 49784.40 (measured interval: 10 s)
- 0:59:40 Average server FPS: 49789.80 (measured interval: 10 s)
- 0:59:50 Average server FPS: 49830.50 (measured interval: 10 s)
- 1:00:00 Average server FPS: 48720.30 (measured interval: 10 s)
- 1:00:10 Average server FPS: 49843.30 (measured interval: 10 s)
- 1:00:20 Average server FPS: 49879.60 (measured interval: 10 s)
- 1:00:30 Average server FPS: 49899.20 (measured interval: 10 s)
- 1:00:40 Average server FPS: 49842.80 (measured interval: 10 s)
- 1:00:50 Average server FPS: 49811.10 (measured interval: 10 s)
- 1:01:00 Average server FPS: 49766.10 (measured interval: 10 s)
- 1:01:10 Average server FPS: 49825.30 (measured interval: 10 s)
- 1:01:20 Average server FPS: 49828.30 (measured interval: 10 s)
- 1:01:30 Average server FPS: 49759.80 (measured interval: 10 s)
- 1:01:40 Average server FPS: 49813.80 (measured interval: 10 s)
- 1:01:50 Average server FPS: 49855.60 (measured interval: 10 s)
- 1:02:00 Average server FPS: 48934.20 (measured interval: 10 s)
- 1:02:10 Average server FPS: 49831.50 (measured interval: 10 s)
- 1:02:20 Average server FPS: 49826.90 (measured interval: 10 s)
- 1:02:30 Average server FPS: 49803.70 (measured interval: 10 s)
- 1:02:40 Average server FPS: 49770.80 (measured interval: 10 s)
- 1:02:50 Average server FPS: 49771.30 (measured interval: 10 s)
- 1:03:00 Average server FPS: 48758.20 (measured interval: 10 s)
- 1:03:10 Average server FPS: 49765.30 (measured interval: 10 s)
- 1:03:20 Average server FPS: 49817.50 (measured interval: 10 s)
- 1:03:30 Average server FPS: 49766.40 (measured interval: 10 s)
- 1:03:40 Average server FPS: 49777.90 (measured interval: 10 s)
- 1:03:50 Average server FPS: 49841.20 (measured interval: 10 s)
- 1:04:00 Average server FPS: 49712.40 (measured interval: 10 s)
- 1:04:10 Average server FPS: 47300.20 (measured interval: 10 s)
- 1:04:20 Average server FPS: 48138.50 (measured interval: 10 s)
- 1:04:30 Average server FPS: 49286.10 (measured interval: 10 s)
- 1:04:40 Average server FPS: 49462.70 (measured interval: 10 s)
- 1:04:50 Average server FPS: 49881.80 (measured interval: 10 s)
- 1:05:00 Average server FPS: 48724.10 (measured interval: 10 s)
- 1:05:10 Average server FPS: 49938.80 (measured interval: 10 s)
- 1:05:20 Average server FPS: 49923.50 (measured interval: 10 s)
- 1:05:30 Average server FPS: 49886.10 (measured interval: 10 s)
- 1:05:40 Average server FPS: 49836.70 (measured interval: 10 s)
- 1:05:50 Average server FPS: 49807.50 (measured interval: 10 s)
- 1:06:00 Average server FPS: 48801.40 (measured interval: 10 s)
- 1:06:10 Average server FPS: 49793.00 (measured interval: 10 s)
- 1:06:20 Average server FPS: 49872.90 (measured interval: 10 s)
- 1:06:30 Average server FPS: 49876.10 (measured interval: 10 s)
- 1:06:40 Average server FPS: 49828.00 (measured interval: 10 s)
- 1:06:50 Average server FPS: 49824.00 (measured interval: 10 s)
- 1:07:00 Average server FPS: 49602.90 (measured interval: 10 s)
- 1:07:10 Average server FPS: 49807.00 (measured interval: 10 s)
- 1:07:20 Average server FPS: 49949.90 (measured interval: 10 s)
- 1:07:30 Average server FPS: 49815.30 (measured interval: 10 s)
- 1:07:40 Average server FPS: 49854.00 (measured interval: 10 s)
- 1:07:50 Average server FPS: 49854.80 (measured interval: 10 s)
- 1:08:00 Average server FPS: 48960.30 (measured interval: 10 s)
- 1:08:10 Average server FPS: 49822.60 (measured interval: 10 s)
- 1:08:20 Average server FPS: 49803.30 (measured interval: 10 s)
- 1:08:30 Average server FPS: 49894.00 (measured interval: 10 s)
- 1:08:40 Average server FPS: 49688.00 (measured interval: 10 s)
- 1:08:50 Average server FPS: 49772.40 (measured interval: 10 s)
- 1:09:00 Average server FPS: 49806.60 (measured interval: 10 s)
- 1:09:10 Average server FPS: 49779.50 (measured interval: 10 s)
- 1:09:20 Average server FPS: 49789.20 (measured interval: 10 s)
- 1:09:30 Average server FPS: 49826.70 (measured interval: 10 s)
- 1:09:40 Average server FPS: 49804.30 (measured interval: 10 s)
- 1:09:50 Average server FPS: 49833.40 (measured interval: 10 s)
- 1:10:00 Average server FPS: 48917.40 (measured interval: 10 s)
- 1:10:10 Average server FPS: 49879.50 (measured interval: 10 s)
- 1:10:20 Average server FPS: 49886.70 (measured interval: 10 s)
- 1:10:30 Average server FPS: 49803.30 (measured interval: 10 s)
- 1:10:40 Average server FPS: 49853.80 (measured interval: 10 s)
- 1:10:50 Average server FPS: 49768.70 (measured interval: 10 s)
- 1:11:00 Average server FPS: 49605.80 (measured interval: 10 s)
- 1:11:10 Average server FPS: 49795.40 (measured interval: 10 s)
- 1:11:20 Average server FPS: 49746.60 (measured interval: 10 s)
- 1:11:30 Average server FPS: 49785.90 (measured interval: 10 s)
- 1:11:40 Average server FPS: 49761.40 (measured interval: 10 s)
- 1:11:50 Average server FPS: 49929.20 (measured interval: 10 s)
- 1:12:00 Average server FPS: 49753.60 (measured interval: 10 s)
- 1:12:10 Average server FPS: 49853.70 (measured interval: 10 s)
- 1:12:20 Average server FPS: 49864.40 (measured interval: 10 s)
- 1:12:30 Average server FPS: 49868.60 (measured interval: 10 s)
- 1:12:40 Average server FPS: 49815.80 (measured interval: 10 s)
- 1:12:50 Average server FPS: 49807.70 (measured interval: 10 s)
- 1:13:00 Average server FPS: 49561.90 (measured interval: 10 s)
- 1:13:10 Average server FPS: 49713.70 (measured interval: 10 s)
- 1:13:20 Average server FPS: 49678.50 (measured interval: 10 s)
- 1:13:30 Average server FPS: 49639.00 (measured interval: 10 s)
- 1:13:40 Average server FPS: 49785.40 (measured interval: 10 s)
- 1:13:50 Average server FPS: 49753.80 (measured interval: 10 s)
- 1:14:00 Average server FPS: 49635.70 (measured interval: 10 s)
- 1:14:10 Average server FPS: 47655.40 (measured interval: 10 s)
- 1:14:20 Average server FPS: 47747.70 (measured interval: 10 s)
- 1:14:30 Average server FPS: 49273.10 (measured interval: 10 s)
- 1:14:40 Average server FPS: 49837.40 (measured interval: 10 s)
- 1:14:50 Average server FPS: 49835.10 (measured interval: 10 s)
- 1:15:00 Average server FPS: 49815.90 (measured interval: 10 s)
- 1:15:10 Average server FPS: 49394.50 (measured interval: 10 s)
- 1:15:20 Average server FPS: 48622.30 (measured interval: 10 s)
- 1:15:30 Average server FPS: 48769.50 (measured interval: 10 s)
- 1:15:40 Average server FPS: 49210.20 (measured interval: 10 s)
- 1:15:50 Average server FPS: 49850.20 (measured interval: 10 s)
- 1:16:00 Average server FPS: 48582.10 (measured interval: 10 s)
- 1:16:10 Average server FPS: 49792.70 (measured interval: 10 s)
- 1:16:20 Average server FPS: 49808.70 (measured interval: 10 s)
- 1:16:30 Average server FPS: 49656.80 (measured interval: 10 s)
- 1:16:40 Average server FPS: 49756.50 (measured interval: 10 s)
- 1:16:50 Average server FPS: 49880.00 (measured interval: 10 s)
- 1:17:00 Average server FPS: 49866.60 (measured interval: 10 s)
- 1:17:10 Average server FPS: 49482.80 (measured interval: 10 s)
- 1:17:20 Average server FPS: 48723.00 (measured interval: 10 s)
- 1:17:30 Average server FPS: 48780.50 (measured interval: 10 s)
- 1:17:40 Average server FPS: 48717.10 (measured interval: 10 s)
- 1:17:48 [Login]: Adding player [Admin] Bunker (22854966) to login queue at position 0
- 1:17:48 [LoginMachine]: Add player [Admin] Bunker (22854966 192.168.1.64:2304)
- 1:17:48 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid ) Entering AuthPlayerLoginState
- 1:17:49 BattlEye Server: Player #0 [Admin] Bunker (192.168.1.64:2304) connected
- 1:17:49 Player [Admin] Bunker connecting.
- 1:17:49 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid ) Entering WaitAuthPlayerLoginState
- 1:17:50 [IdleMode] Leaving OUT
- 1:17:50 Average server FPS: 48594.30 (measured interval: 10 s)
- 1:17:50 BattlEye Server: Player #0 [Admin] Bunker - BE GUID: f03027f3c4a1fc307650b9e64a3a689c
- 1:17:51 BattlEye Server: Verified GUID (f03027f3c4a1fc307650b9e64a3a689c) of player #0 [Admin] Bunker
- 1:17:51 Player [Admin] Bunker connected (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=).
- 1:17:51 Player "[Admin] Bunker" is connected (steamID=76561199112746320)
- 1:17:51 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid ) Entering WaitPlayerAssignedLoginState
- 1:17:52 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetLoginTimeLoginState
- 1:17:52 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBWaitLoginTimeLoginState
- 1:18:00 Average server FPS: 47843.20 (measured interval: 10 s)
- 1:18:07 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetCharacterLoginState
- 1:18:07 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering CreateNetObjectsLoginState
- 1:18:07 Player [Admin] Bunker dpid=22854966 at pos (11778.2, 0.0, 7717.8) 
- 1:18:07 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering PreloadCamLoginState
- 1:18:07 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering WaitPreloadCamLoginState
- 1:18:10 Average server FPS: 48197.10 (measured interval: 10 s)
- 1:18:13 [StateMachine]: Player [Admin] Bunker (dpnid 22854966 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering GetNewCharLoginState
- 1:18:13 <CREATE NEW CHAR>:
-    charID 2
-    playerID 2
-    dpnid 22854966
-    uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
- 1:18:15 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
- 1:18:20 Average server FPS: 33391.60 (measured interval: 10 s)
- 1:18:29 [Disconnect]: Start script disconnect 22854966 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
- 1:18:30 Average server FPS: 27530.80 (measured interval: 10 s)
- 1:18:31 [Disconnect]: Client 22854966 disconnecting
- 1:18:31 [Disconnect]: Client 22854966 early disconnect
- 1:18:31 [Disconnect]: Start script disconnect 22854966 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
- 1:18:40 Average server FPS: 28777.30 (measured interval: 10 s)
- 1:18:41 [Disconnect]: No packets from 22854966
- 1:18:41 Player [Admin] Bunker (22854966) kicked from server: 4 (Connection with host has been lost.)
- 1:18:42 [Disconnect]: Remove player info 22854966
- 1:18:42 [Disconnect]: Player destroy 22854966 
- 1:18:42 Player [Admin] Bunker disconnected.
- 1:18:42 BattlEye Server: Player #0 [Admin] Bunker disconnected
- 1:18:44 [Disconnect]: Finish script disconnect -1 (BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=)
- 1:18:50 Average server FPS: 44321.50 (measured interval: 10 s)
- 1:19:00 Average server FPS: 47621.70 (measured interval: 10 s)
- 1:19:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 12, deloot: 2, containermaxsum: 10
- 1:19:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
- 1:19:10 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (12 > 10)
- 1:19:10 Average server FPS: 48664.80 (measured interval: 10 s)
- 1:19:10 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
- 1:19:10 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
- 1:19:20 Average server FPS: 48434.40 (measured interval: 10 s)
- 1:19:30 Average server FPS: 48330.10 (measured interval: 10 s)
- 1:19:36 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
- 1:19:40 Average server FPS: 47792.10 (measured interval: 10 s)
- 1:19:44 [IdleMode] Entering IN - save processed
- 1:19:50 Average server FPS: 46661.30 (measured interval: 10 s)
- 1:20:00 Average server FPS: 48233.50 (measured interval: 10 s)
- 1:20:10 Average server FPS: 48268.40 (measured interval: 10 s)
- 1:20:20 Average server FPS: 45084.70 (measured interval: 10 s)
- 1:20:30 Average server FPS: 48300.80 (measured interval: 10 s)
- 1:20:40 Average server FPS: 48234.60 (measured interval: 10 s)
- 1:20:50 Average server FPS: 48328.10 (measured interval: 10 s)
- 1:21:00 Average server FPS: 48007.90 (measured interval: 10 s)
- 1:21:10 Average server FPS: 48296.70 (measured interval: 10 s)
- 1:21:20 Average server FPS: 48276.90 (measured interval: 10 s)
- 1:21:30 Average server FPS: 48312.80 (measured interval: 10 s)
- 1:21:40 Average server FPS: 48355.60 (measured interval: 10 s)
- 1:21:50 Average server FPS: 48286.00 (measured interval: 10 s)
- 1:22:00 Average server FPS: 48230.30 (measured interval: 10 s)
- 1:22:10 Average server FPS: 48230.20 (measured interval: 10 s)
- 1:22:20 Average server FPS: 48281.80 (measured interval: 10 s)
- 1:22:30 Average server FPS: 48155.50 (measured interval: 10 s)
- 1:22:40 Average server FPS: 48297.20 (measured interval: 10 s)
- 1:22:50 Average server FPS: 48217.10 (measured interval: 10 s)
- 1:23:00 Average server FPS: 48119.90 (measured interval: 10 s)
- 1:23:10 Average server FPS: 48322.10 (measured interval: 10 s)
- 1:23:20 Average server FPS: 48313.20 (measured interval: 10 s)
- 1:23:30 Average server FPS: 48343.40 (measured interval: 10 s)
- 1:23:40 Average server FPS: 48236.90 (measured interval: 10 s)
- 1:23:50 Average server FPS: 48269.40 (measured interval: 10 s)
- 1:24:00 Average server FPS: 48070.60 (measured interval: 10 s)
- 1:24:10 Average server FPS: 46795.90 (measured interval: 10 s)
- 1:24:20 Average server FPS: 45909.90 (measured interval: 10 s)
- 1:24:30 Average server FPS: 47626.80 (measured interval: 10 s)
- 1:24:40 Average server FPS: 48369.00 (measured interval: 10 s)
- 1:24:50 Average server FPS: 48320.80 (measured interval: 10 s)
- 1:25:00 Average server FPS: 48383.40 (measured interval: 10 s)
- 1:25:10 Average server FPS: 48300.20 (measured interval: 10 s)
- 1:25:20 Average server FPS: 48330.50 (measured interval: 10 s)
- 1:25:30 Average server FPS: 48239.90 (measured interval: 10 s)
- 1:25:40 Average server FPS: 48302.90 (measured interval: 10 s)
- 1:25:50 Average server FPS: 48239.10 (measured interval: 10 s)
- 1:26:00 Average server FPS: 47436.20 (measured interval: 10 s)
- 1:26:10 Average server FPS: 48368.50 (measured interval: 10 s)
- 1:26:20 Average server FPS: 47882.70 (measured interval: 10 s)
- 1:26:30 Average server FPS: 47331.50 (measured interval: 10 s)
- 1:26:40 Average server FPS: 47906.90 (measured interval: 10 s)
- 1:26:50 Average server FPS: 48040.90 (measured interval: 10 s)
- 1:27:00 Average server FPS: 48171.30 (measured interval: 10 s)
- 1:27:10 Average server FPS: 48204.60 (measured interval: 10 s)
- 1:27:20 Average server FPS: 48210.10 (measured interval: 10 s)
- 1:27:30 Average server FPS: 48222.40 (measured interval: 10 s)
- 1:27:40 Average server FPS: 48231.00 (measured interval: 10 s)
- 1:27:50 Average server FPS: 48239.10 (measured interval: 10 s)
- 1:28:00 Average server FPS: 48171.90 (measured interval: 10 s)
- 1:28:10 Average server FPS: 48362.20 (measured interval: 10 s)
- 1:28:20 Average server FPS: 46229.90 (measured interval: 10 s)
- 1:28:30 Average server FPS: 43948.70 (measured interval: 10 s)
- 1:28:40 Average server FPS: 43888.60 (measured interval: 10 s)
- 1:28:50 Average server FPS: 42742.00 (measured inte
+14:37:38 Average server FPS: 44706.80 (measured interval: 10 s)
+14:37:45 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Wrench"
+14:37:45 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "Rangefinder"
+14:37:45 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "Fabric"
+14:37:45 BattlEye Server: RCon admin #0: (To [Admin] Bunker) Welcome on 42 Months After | Esseker PvP | AI | Expansion
+14:37:45 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "Spotlight"
+14:37:46 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Matchbox"
+14:37:46 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Ammo_762x54"
+14:37:46 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "CarBattery"
+14:37:46 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "HeadlightH7_Box"
+14:37:48 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 11, deloot: 2, containermaxsum: 10
+14:37:48 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:37:48 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (11 > 10)
+14:37:48 Average server FPS: 24456.70 (measured interval: 10 s)
+14:37:48 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:37:48 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:37:50 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:37:58 Average server FPS: 25297.40 (measured interval: 10 s)
+14:38:08 Average server FPS: 27257.80 (measured interval: 10 s)
+14:38:18 Average server FPS: 28579.60 (measured interval: 10 s)
+14:38:28 Average server FPS: 28449.50 (measured interval: 10 s)
+14:38:38 Average server FPS: 28760.20 (measured interval: 10 s)
+14:38:48 Average server FPS: 28576.20 (measured interval: 10 s)
+14:38:58 Average server FPS: 28116.40 (measured interval: 10 s)
+14:39:08 Average server FPS: 28777.40 (measured interval: 10 s)
+14:39:09 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 18, deloot: 2, containermaxsum: 10
+14:39:09 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:39:09 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (18 > 10)
+14:39:09 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:39:09 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:39:18 Average server FPS: 27353.20 (measured interval: 10 s)
+14:39:28 Average server FPS: 35145.20 (measured interval: 10 s)
+14:39:35 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:39:38 Average server FPS: 38632.60 (measured interval: 10 s)
+14:39:48 Average server FPS: 38423.60 (measured interval: 10 s)
+14:39:58 Average server FPS: 39163.40 (measured interval: 10 s)
+14:40:08 Average server FPS: 38922.60 (measured interval: 10 s)
+14:40:18 Average server FPS: 37984.80 (measured interval: 10 s)
+14:40:28 Average server FPS: 39337.30 (measured interval: 10 s)
+14:40:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 15, deloot: 2, containermaxsum: 10
+14:40:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:40:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (15 > 10)
+14:40:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 17, deloot: 2, containermaxsum: 10
+14:40:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:40:30 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (17 > 10)
+14:40:30 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:40:30 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:40:38 Average server FPS: 38531.70 (measured interval: 10 s)
+14:40:48 Average server FPS: 38334.60 (measured interval: 10 s)
+14:40:56 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:40:58 Average server FPS: 38102.20 (measured interval: 10 s)
+14:41:08 Average server FPS: 37552.00 (measured interval: 10 s)
+14:41:18 Average server FPS: 38560.90 (measured interval: 10 s)
+14:41:28 Average server FPS: 39334.20 (measured interval: 10 s)
+14:41:38 Average server FPS: 35062.20 (measured interval: 10 s)
+14:41:48 Average server FPS: 36274.70 (measured interval: 10 s)
+14:41:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 12, deloot: 2, containermaxsum: 10
+14:41:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:41:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (12 > 10)
+14:41:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 18, deloot: 2, containermaxsum: 10
+14:41:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:41:51 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (18 > 10)
+14:41:52 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:41:52 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:41:58 Average server FPS: 36287.20 (measured interval: 10 s)
+14:42:08 Average server FPS: 35967.00 (measured interval: 10 s)
+14:42:17 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:42:18 Average server FPS: 36237.40 (measured interval: 10 s)
+14:42:28 Average server FPS: 34478.70 (measured interval: 10 s)
+14:42:38 Average server FPS: 35038.80 (measured interval: 10 s)
+14:42:48 Average server FPS: 35926.50 (measured interval: 10 s)
+14:42:58 Average server FPS: 35785.00 (measured interval: 10 s)
+14:43:08 Average server FPS: 35730.60 (measured interval: 10 s)
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 13, deloot: 2, containermaxsum: 10
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (13 > 10)
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 12, deloot: 2, containermaxsum: 10
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (12 > 10)
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 15, deloot: 2, containermaxsum: 10
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:43:13 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (15 > 10)
+14:43:18 Average server FPS: 35127.10 (measured interval: 10 s)
+14:43:28 Average server FPS: 34681.50 (measured interval: 10 s)
+14:43:37 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:43:37 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:43:38 Average server FPS: 36610.30 (measured interval: 10 s)
+14:43:39 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (3 < 9) within 27 attempts.
+14:43:44 [Login]: Adding player (ADMIN)BLUE (24604939) to login queue at position 0
+14:43:44 [LoginMachine]: Add player (ADMIN)BLUE (24604939 69.145.224.158:2304)
+14:43:44 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid ) Entering AuthPlayerLoginState
+14:43:46 BattlEye Server: Player #1 (ADMIN)BLUE (69.145.224.158:2304) connected
+14:43:46 Player (ADMIN)BLUE connecting.
+14:43:46 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid ) Entering WaitAuthPlayerLoginState
+14:43:48 BattlEye Server: Player #1 (ADMIN)BLUE - BE GUID: 3b093429d5a32ebc672956263a92be78
+14:43:48 Average server FPS: 32172.70 (measured interval: 10 s)
+14:43:49 BattlEye Server: Verified GUID (3b093429d5a32ebc672956263a92be78) of player #1 (ADMIN)BLUE
+14:43:49 Player (ADMIN)BLUE connected (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=).
+14:43:49 Player "(ADMIN)BLUE" is connected (steamID=76561199108250772)
+14:43:49 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid ) Entering WaitPlayerAssignedLoginState
+14:43:50 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) Entering DBGetLoginTimeLoginState
+14:43:50 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) Entering DBWaitLoginTimeLoginState
+14:43:58 Average server FPS: 32632.70 (measured interval: 10 s)
+14:44:05 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) Entering DBGetCharacterLoginState
+14:44:05 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) Entering CreateNetObjectsLoginState
+14:44:05 Player (ADMIN)BLUE dpid=24604939 at pos (8603.2, 88.1, 5966.1) 
+14:44:05 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) Entering PreloadCamLoginState
+14:44:05 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) Entering WaitPreloadCamLoginState
+14:44:08 Average server FPS: 33162.90 (measured interval: 10 s)
+14:44:14 [StateMachine]: Player (ADMIN)BLUE (dpnid 24604939 uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) Entering GetLoadedCharLoginState
+14:44:14 <LOAD EXISTING CHAR>:
+    charID 3
+    playerID 3
+    dpnid 24604939
+    uid OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:44:18 Average server FPS: 28939.90 (measured interval: 10 s)
+14:44:28 Average server FPS: 21669.00 (measured interval: 10 s)
+14:44:30 BattlEye Server: RCon admin #0: (To (ADMIN)BLUE) Welcome on 42 Months After | Esseker PvP | AI | Expansion
+14:44:38 Average server FPS: 22396.90 (measured interval: 10 s)
+14:44:48 Average server FPS: 22014.40 (measured interval: 10 s)
+14:44:58 Average server FPS: 21994.50 (measured interval: 10 s)
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 11, deloot: 2, containermaxsum: 10
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (11 > 10)
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 14, deloot: 2, containermaxsum: 10
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (14 > 10)
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 13, deloot: 2, containermaxsum: 10
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:44:58 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (13 > 10)
+14:44:58 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+14:44:58 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:45:00 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:45:08 Average server FPS: 20429.30 (measured interval: 10 s)
+14:45:18 Average server FPS: 21559.40 (measured interval: 10 s)
+14:45:28 Average server FPS: 22533.40 (measured interval: 10 s)
+14:45:38 Average server FPS: 22192.40 (measured interval: 10 s)
+14:45:48 Average server FPS: 20405.70 (measured interval: 10 s)
+14:45:58 Average server FPS: 22814.90 (measured interval: 10 s)
+14:46:08 Average server FPS: 22152.10 (measured interval: 10 s)
+14:46:18 Average server FPS: 23237.40 (measured interval: 10 s)
+14:46:19 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 10, deloot: 2, containermaxsum: 10
+14:46:19 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:46:19 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 19, deloot: 2, containermaxsum: 10
+14:46:19 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:46:19 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (19 > 10)
+14:46:20 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:46:20 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:46:28 Average server FPS: 22097.10 (measured interval: 10 s)
+14:46:38 Average server FPS: 22474.80 (measured interval: 10 s)
+14:46:45 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (3 < 9) within 27 attempts.
+14:46:48 Average server FPS: 22559.60 (measured interval: 10 s)
+14:46:58 Average server FPS: 22307.60 (measured interval: 10 s)
+14:47:08 Average server FPS: 22769.60 (measured interval: 10 s)
+14:47:18 Average server FPS: 23108.90 (measured interval: 10 s)
+14:47:28 Average server FPS: 22877.70 (measured interval: 10 s)
+14:47:38 Average server FPS: 22981.50 (measured interval: 10 s)
+14:47:41 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 19, deloot: 2, containermaxsum: 10
+14:47:41 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:47:41 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (19 > 10)
+14:47:41 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 10, deloot: 2, containermaxsum: 10
+14:47:41 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:47:41 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:47:41 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:47:48 Average server FPS: 22881.00 (measured interval: 10 s)
+14:47:58 Average server FPS: 22554.90 (measured interval: 10 s)
+14:48:07 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:48:08 Average server FPS: 22656.10 (measured interval: 10 s)
+14:48:18 Average server FPS: 21420.50 (measured interval: 10 s)
+14:48:28 Average server FPS: 21849.10 (measured interval: 10 s)
+14:48:38 Average server FPS: 22975.30 (measured interval: 10 s)
+14:48:48 Average server FPS: 22423.10 (measured interval: 10 s)
+14:48:58 Average server FPS: 22580.90 (measured interval: 10 s)
+14:49:02 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 10, deloot: 2, containermaxsum: 10
+14:49:02 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:49:02 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 14, deloot: 2, containermaxsum: 10
+14:49:02 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:49:02 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (14 > 10)
+14:49:02 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+14:49:02 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:49:08 Average server FPS: 22561.30 (measured interval: 10 s)
+14:49:18 Average server FPS: 22103.70 (measured interval: 10 s)
+14:49:28 Average server FPS: 22452.60 (measured interval: 10 s)
+14:49:28 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:49:38 Average server FPS: 20934.00 (measured interval: 10 s)
+14:49:48 Average server FPS: 21912.60 (measured interval: 10 s)
+14:49:58 Average server FPS: 22597.00 (measured interval: 10 s)
+14:50:08 Average server FPS: 22219.20 (measured interval: 10 s)
+14:50:18 Average server FPS: 22606.10 (measured interval: 10 s)
+14:50:23 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 13, deloot: 2, containermaxsum: 10
+14:50:23 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:50:23 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (13 > 10)
+14:50:28 Average server FPS: 22444.90 (measured interval: 10 s)
+14:50:38 Average server FPS: 21304.20 (measured interval: 10 s)
+14:50:47 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+14:50:47 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:50:48 Average server FPS: 19899.40 (measured interval: 10 s)
+14:50:49 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:50:58 Average server FPS: 20812.10 (measured interval: 10 s)
+14:51:08 Average server FPS: 22125.30 (measured interval: 10 s)
+14:51:18 Average server FPS: 22651.40 (measured interval: 10 s)
+14:51:28 Average server FPS: 22470.30 (measured interval: 10 s)
+14:51:38 Average server FPS: 22396.00 (measured interval: 10 s)
+14:51:48 Average server FPS: 22709.80 (measured interval: 10 s)
+14:51:58 Average server FPS: 22459.40 (measured interval: 10 s)
+14:52:08 Average server FPS: 25835.00 (measured interval: 10 s)
+14:52:08 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 14, deloot: 2, containermaxsum: 10
+14:52:08 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+14:52:08 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y :: !!! Wanting to spawn more loot than possible (14 > 10)
+14:52:09 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:52:09 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:52:11 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:52:18 Average server FPS: 27636.40 (measured interval: 10 s)
+14:52:28 Average server FPS: 28752.90 (measured interval: 10 s)
+14:52:38 Average server FPS: 29007.40 (measured interval: 10 s)
+14:52:48 Average server FPS: 28468.00 (measured interval: 10 s)
+14:52:58 Average server FPS: 28506.80 (measured interval: 10 s)
+14:53:08 Average server FPS: 28491.30 (measured interval: 10 s)
+14:53:18 Average server FPS: 27970.30 (measured interval: 10 s)
+14:53:28 Average server FPS: 28787.70 (measured interval: 10 s)
+14:53:30 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+14:53:30 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:53:38 Average server FPS: 28770.50 (measured interval: 10 s)
+14:53:48 Average server FPS: 28813.60 (measured interval: 10 s)
+14:53:56 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:53:58 Average server FPS: 29241.70 (measured interval: 10 s)
+14:54:08 Average server FPS: 28499.10 (measured interval: 10 s)
+14:54:18 Average server FPS: 26548.60 (measured interval: 10 s)
+14:54:28 Average server FPS: 25384.20 (measured interval: 10 s)
+14:54:38 Average server FPS: 29067.30 (measured interval: 10 s)
+14:54:48 Average server FPS: 28631.90 (measured interval: 10 s)
+14:54:51 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+14:54:51 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:54:58 Average server FPS: 30015.10 (measured interval: 10 s)
+14:55:08 Average server FPS: 30012.70 (measured interval: 10 s)
+14:55:17 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:55:18 Average server FPS: 30409.60 (measured interval: 10 s)
+14:55:28 Average server FPS: 28995.70 (measured interval: 10 s)
+14:55:38 Average server FPS: 30320.10 (measured interval: 10 s)
+14:55:48 Average server FPS: 30752.80 (measured interval: 10 s)
+14:55:58 Average server FPS: 30013.70 (measured interval: 10 s)
+14:56:08 Average server FPS: 28505.40 (measured interval: 10 s)
+14:56:13 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:56:13 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:56:18 Average server FPS: 28250.10 (measured interval: 10 s)
+14:56:28 Average server FPS: 27759.50 (measured interval: 10 s)
+14:56:38 Average server FPS: 28715.00 (measured interval: 10 s)
+14:56:38 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:56:48 Average server FPS: 27117.50 (measured interval: 10 s)
+14:56:58 Average server FPS: 29174.50 (measured interval: 10 s)
+14:57:08 Average server FPS: 29925.90 (measured interval: 10 s)
+14:57:18 Average server FPS: 30181.30 (measured interval: 10 s)
+14:57:28 Average server FPS: 30190.30 (measured interval: 10 s)
+14:57:38 Average server FPS: 30388.70 (measured interval: 10 s)
+14:57:48 Average server FPS: 29396.70 (measured interval: 10 s)
+14:57:58 Average server FPS: 29488.70 (measured interval: 10 s)
+14:57:58 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+14:57:58 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:58:00 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:58:08 Average server FPS: 27718.20 (measured interval: 10 s)
+14:58:18 Average server FPS: 28518.20 (measured interval: 10 s)
+14:58:28 Average server FPS: 29504.40 (measured interval: 10 s)
+14:58:38 Average server FPS: 28871.30 (measured interval: 10 s)
+14:58:48 Average server FPS: 28929.50 (measured interval: 10 s)
+14:58:58 Average server FPS: 28308.00 (measured interval: 10 s)
+14:59:08 Average server FPS: 28578.20 (measured interval: 10 s)
+14:59:18 Average server FPS: 30185.20 (measured interval: 10 s)
+14:59:19 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+14:59:19 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+14:59:21 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+14:59:28 Average server FPS: 27994.30 (measured interval: 10 s)
+14:59:38 Average server FPS: 28384.30 (measured interval: 10 s)
+14:59:48 Average server FPS: 28449.40 (measured interval: 10 s)
+14:59:58 Average server FPS: 28391.00 (measured interval: 10 s)
+15:00:08 Average server FPS: 28195.90 (measured interval: 10 s)
+15:00:18 Average server FPS: 28695.90 (measured interval: 10 s)
+15:00:28 Average server FPS: 27706.00 (measured interval: 10 s)
+15:00:38 Average server FPS: 28468.30 (measured interval: 10 s)
+15:00:40 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+15:00:40 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+15:00:48 Average server FPS: 27773.70 (measured interval: 10 s)
+15:00:58 Average server FPS: 29332.10 (measured interval: 10 s)
+15:01:06 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+15:01:08 Average server FPS: 29825.40 (measured interval: 10 s)
+15:01:18 Average server FPS: 29223.30 (measured interval: 10 s)
+15:01:28 Average server FPS: 29651.90 (measured interval: 10 s)
+15:01:38 Average server FPS: 30568.50 (measured interval: 10 s)
+15:01:48 Average server FPS: 30171.40 (measured interval: 10 s)
+15:01:58 Average server FPS: 29849.10 (measured interval: 10 s)
+15:02:02 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+15:02:02 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+15:02:08 Average server FPS: 28774.90 (measured interval: 10 s)
+15:02:18 Average server FPS: 27777.30 (measured interval: 10 s)
+15:02:27 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+15:02:28 Average server FPS: 28566.40 (measured interval: 10 s)
+15:02:28 !!! [CE][VehicleRespawner] (PRISedan02) :: Respawning: "VehicleSedan02" - Failed to spawn the requested amount (6 < 7) within 21 attempts.
+15:02:38 Average server FPS: 26846.60 (measured interval: 10 s)
+15:02:48 Average server FPS: 28643.90 (measured interval: 10 s)
+15:02:58 Average server FPS: 28671.20 (measured interval: 10 s)
+15:03:08 Average server FPS: 27948.70 (measured interval: 10 s)
+15:03:18 Average server FPS: 28078.90 (measured interval: 10 s)
+15:03:23 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+15:03:23 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+15:03:28 Average server FPS: 28021.20 (measured interval: 10 s)
+15:03:38 Average server FPS: 27844.30 (measured interval: 10 s)
+15:03:48 Average server FPS: 28395.50 (measured interval: 10 s)
+15:03:49 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+15:03:58 Average server FPS: 27085.20 (measured interval: 10 s)
+15:04:08 Average server FPS: 27817.20 (measured interval: 10 s)
+15:04:18 Average server FPS: 30083.20 (measured interval: 10 s)
+15:04:28 Average server FPS: 29648.60 (measured interval: 10 s)
+15:04:38 Average server FPS: 28707.80 (measured interval: 10 s)
+15:04:48 Average server FPS: 28014.70 (measured interval: 10 s)
+15:04:58 Average server FPS: 28608.40 (measured interval: 10 s)
+15:05:08 Average server FPS: 28072.60 (measured interval: 10 s)
+15:05:08 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+15:05:08 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+15:05:10 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+15:05:18 Average server FPS: 28183.60 (measured interval: 10 s)
+15:05:28 Average server FPS: 27443.00 (measured interval: 10 s)
+15:05:38 Average server FPS: 30062.10 (measured interval: 10 s)
+15:05:48 Average server FPS: 28778.10 (measured interval: 10 s)
+15:05:58 Average server FPS: 28362.70 (measured interval: 10 s)
+15:06:08 Average server FPS: 27939.50 (measured interval: 10 s)
+15:06:18 Average server FPS: 26387.10 (measured interval: 10 s)
+15:06:28 Average server FPS: 28109.70 (measured interval: 10 s)
+15:06:30 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+15:06:30 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+15:06:31 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+15:06:38 Average server FPS: 28955.50 (measured interval: 10 s)
+15:06:38 [Disconnect]: Start script disconnect 24604939 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+15:06:48 Average server FPS: 28752.20 (measured interval: 10 s)
+15:06:53 [Disconnect]: Finish script disconnect 24604939 (OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)
+15:06:53 [Disconnect]: DisconnectPlayerFinish 24604939
+15:06:54 [Disconnect]: Remove player info 24604939
+15:06:54 [Disconnect]: Player destroy 24604939 
+15:06:54 Player (ADMIN)BLUE disconnected.
+15:06:54 BattlEye Server: Player #1 (ADMIN)BLUE disconnected
+15:06:58 Average server FPS: 31968.10 (measured interval: 10 s)
+15:06:58 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+15:07:08 Average server FPS: 34616.40 (measured interval: 10 s)
+15:07:18 Average server FPS: 34694.10 (measured interval: 10 s)
+15:07:28 Average server FPS: 35083.10 (measured interval: 10 s)
+15:07:38 Average server FPS: 34590.00 (measured interval: 10 s)
+15:07:41 [Disconnect]: Start script disconnect 1183188741 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+15:07:42 [Disconnect]: Client 1183188741 disconnecting
+15:07:42 [Disconnect]: Client 1183188741 early disconnect
+15:07:42 [Disconnect]: Start script disconnect 1183188741 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+15:07:48 Average server FPS: 34967.30 (measured interval: 10 s)
+15:07:51 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban1_police', failed to spawn loot
+15:07:51 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+15:07:53 [Disconnect]: No packets from 1183188741
+15:07:53 Player [Admin] Bunker (1183188741) kicked from server: 4 (Connection with host has been lost.)
+15:07:54 [Disconnect]: Remove player info 1183188741
+15:07:54 [Disconnect]: Player destroy 1183188741 
+15:07:54 Player [Admin] Bunker disconnected.
+15:07:54 BattlEye Server: Player #0 [Admin] Bunker disconnected
+15:07:56 [Disconnect]: Finish script disconnect -1 (mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
+15:07:58 Average server FPS: 37633.70 (measured interval: 10 s)
+15:08:08 Average server FPS: 44285.70 (measured interval: 10 s)
+15:08:17 !!! [CE][VehicleRespawner] (PRIHatchback02) :: Respawning: "VehicleHatchback02" - Failed to spawn the requested amount (4 < 9) within 27 attempts.
+15:08:17 !!! [CE][VehicleRespawner] (PRISedan02) :: Respawning: "VehicleSedan02" - Failed to spawn the requested amount (6 < 7) within 21 attempts.
+15:08:18 Average server FPS: 45096.50 (measured interval: 10 s)
+15:08:28 Average server FPS: 44400.70 (measured interval: 10 s)
+15:08:38 Average server FPS: 45176.00 (measured interval: 10 s)
+15:08:48 Average server FPS: 45985.20 (measured interval: 10 s)
+15:08:58 Average server FPS: 45566.70 (measured interval: 10 s)
+15:09:08 Average server FPS: 45645.00 (measured interval: 10 s)
+15:09:12 [CE][SpawnRandomLoot] (StaticPoliceCar) :: !!! No group configured for 'Land_Wreck_hb01_aban2_police', failed to spawn loot
+15:09:12 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+15:09:18 Average server FPS: 45949.80 (measured interval: 10 s)
+15:09:20 [IdleMode] Entering IN - save processed
+15:09:28 Average server FPS: 44856.40 (measured interval: 10 s)
+15:09:38 Average server FPS: 45969.20 (measured interval: 10 s)
+15:09:48 Average server FPS: 45808.90 (measured interval: 10 s)
+15:09:58 Average server FPS: 45684.30 (measured interval: 10 s)
+15:10:08 Average server FPS: 45717.60 (measured interval: 10 s)
+15:10:18 Average server FPS: 45819.40 (measured interval: 10 s)
+15:10:28 Average server FPS: 45912.30 (measured interval: 10 s)
+15:10:38 Average server FPS: 45966.10 (measured interval: 10 s)
+15:10:48 Average server FPS: 45750.90 (measured interval: 10 s)
+15:10:58 Average server FPS: 46355.50 (measured interval: 10 s)
+15:11:08 Average server FPS: 48179.40 (measured interval: 10 s)
+15:11:18 Average server FPS: 48364.20 (measured interval: 10 s)
+15:11:28 Average server FPS: 48382.20 (measured interval: 10 s)
+15:11:38 Average server FPS: 48457.50 (measured interval: 10 s)
+15:11:48 Average server FPS: 48347.00 (measured interval: 10 s)
+15:11:58 Average server FPS: 47606.40 (measured interval: 10 s)
+15:12:08 Average server FPS: 47267.70 (measured interval: 10 s)
+15:12:18 Average server FPS: 47520.80 (measured interval: 10 s)
+15:12:28 Average server FPS: 48189.30 (measured interval: 10 s)
+15:12:38 Average server FPS: 48257.30 (measured interval: 10 s)
+15:12:48 Average server FPS: 48246.10 (measured interval: 10 s)
+15:12:58 Average server FPS: 47556.80 (measured interval: 10 s)
+15:13:08 Average server FPS: 48106.70 (measured interval: 10 s)
+15:13:13 BattlEye Server: RCon admin #1 (127.0.0.1:51836) logged in
+15:13:13 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:13 [LOCK] Server was locked.
+15:13:13 BattlEye Server: Command received: #lock Result: OK
+15:13:14 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:15 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:16 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:17 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:18 Average server FPS: 44980.90 (measured interval: 10 s)
+15:13:18 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:19 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:20 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:21 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:22 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+15:13:24 BattlEye Server: Command received: #shutdown Result: OK

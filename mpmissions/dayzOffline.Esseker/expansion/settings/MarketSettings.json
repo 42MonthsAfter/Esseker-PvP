@@ -1,9 +1,9 @@
 {
     "m_Version": 13,
-    "MarketSystemEnabled": 1,
+    "MarketSystemEnabled": 0,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
-    "ATMSystemEnabled": 1,
+    "ATMSystemEnabled": 0,
     "MaxDepositMoney": 100000,
     "DefaultDepositMoney": 10000,
     "ATMPlayerTransferEnabled": 1,
