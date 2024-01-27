@@ -1,0 +1,24 @@
+{
+    "Enabled": 1,
+    "Weight": 1.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Pilana Sawmill",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "FallSpeed": 4.5,
+    "DropLocation": {
+        "x": 9112.919921875,
+        "z": 8000.43994140625,
+        "Name": "Pilana Sawmill",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

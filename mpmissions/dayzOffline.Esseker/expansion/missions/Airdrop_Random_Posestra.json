@@ -1,0 +1,24 @@
+{
+    "Enabled": 1,
+    "Weight": 1.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Posestra",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "FallSpeed": 4.5,
+    "DropLocation": {
+        "x": 7953.34765625,
+        "z": 6708.73046875,
+        "Name": "Posestra",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

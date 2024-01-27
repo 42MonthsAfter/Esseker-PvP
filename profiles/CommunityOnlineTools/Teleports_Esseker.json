@@ -1,0 +1,282 @@
+{
+    "Types": [
+        "",
+        "Airport",
+        "City",
+        "Marine",
+        "RockArea",
+        "Village"
+    ],
+    "Locations": [
+        {
+            "Type": "City",
+            "Name": "Adela Airfield",
+            "Position": [
+                10121.25,
+                0.0,
+                4869.6298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Bondstil Military Base",
+            "Position": [
+                7674.35986328125,
+                0.0,
+                7599.52001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Borosh",
+            "Position": [
+                10194.669921875,
+                0.0,
+                9758.3603515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Chardak Resort",
+            "Position": [
+                10131.8603515625,
+                0.0,
+                7931.14990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Airport",
+            "Name": "Esseker City",
+            "Position": [
+                9875.990234375,
+                0.0,
+                5670.2998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Esseker East",
+            "Position": [
+                10812.3203125,
+                0.0,
+                5416.77001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Esseker Industrial Zone",
+            "Position": [
+                8153.490234375,
+                0.0,
+                5629.009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Esseker West",
+            "Position": [
+                8951.66015625,
+                0.0,
+                5697.64990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Esseker Zoo",
+            "Position": [
+                8881.8798828125,
+                0.0,
+                5441.8701171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Gargata",
+            "Position": [
+                9601.6201171875,
+                0.0,
+                8527.83984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Gromada",
+            "Position": [
+                9949.009765625,
+                0.0,
+                10871.599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Gulash",
+            "Position": [
+                6431.3701171875,
+                0.0,
+                6136.10009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "In Memoria Titanis",
+            "Position": [
+                208067.9375,
+                0.0,
+                9511.0615234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Kamen Quarry",
+            "Position": [
+                11058.1396484375,
+                0.0,
+                9117.669921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Kozara Mountains",
+            "Position": [
+                10418.259765625,
+                0.0,
+                6968.10986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Kozara Radar Station",
+            "Position": [
+                10946.75,
+                0.0,
+                6571.60986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Kula",
+            "Position": [
+                4878.740234375,
+                0.0,
+                5095.41015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Lokve",
+            "Position": [
+                10081.16015625,
+                0.0,
+                10140.5595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Lug",
+            "Position": [
+                6190.7001953125,
+                0.0,
+                6895.4599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Maksimilian Resort",
+            "Position": [
+                8358.26953125,
+                0.0,
+                8623.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Neptune Resort",
+            "Position": [
+                6433.35986328125,
+                0.0,
+                5525.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Novi Grad",
+            "Position": [
+                11881.7802734375,
+                0.0,
+                7977.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Pakshu",
+            "Position": [
+                4996.5498046875,
+                0.0,
+                8785.3095703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Pilana Sawmill",
+            "Position": [
+                9012.919921875,
+                0.0,
+                7900.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Posestra",
+            "Position": [
+                7785.16015625,
+                0.0,
+                6881.6298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "River Drava",
+            "Position": [
+                8838.2099609375,
+                0.0,
+                5078.580078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Tuk",
+            "Position": [
+                207144.46875,
+                0.0,
+                9327.91015625
+            ],
+            "Radius": 4.0
+        }
+    ]
+}
