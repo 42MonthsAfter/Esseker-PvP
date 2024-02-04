@@ -1,0 +1,187 @@
+---------------------------------------------
+Log C:\Users\Admin\Documents\Esseker\servers\0\profiles\crash_2024-02-04_12-00-24.log started at 04.02. 12:00:47
+
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:47
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:47
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:57
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:57
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:57
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:57
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:57
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:57
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:00:57
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+CHERNO-SERVER, 04.02 2024 12:01:36
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:52
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Esseker;@GameLabs;@42 Months After Esseker Mod Pack;@FlipTransport; 

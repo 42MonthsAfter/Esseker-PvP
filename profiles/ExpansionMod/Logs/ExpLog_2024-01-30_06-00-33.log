@@ -1,0 +1,5 @@
+11:53:03.414 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+11:53:03.414 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+11:53:03.421 [Expansion Quests] - CompleteQuest - Player with UID VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA= has completed quest 14
+11:58:04.953 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Medical
+11:58:14.949 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Military

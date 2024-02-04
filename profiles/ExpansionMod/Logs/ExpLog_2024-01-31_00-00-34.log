@@ -1,0 +1,101 @@
+00:06:09.669 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+00:06:09.670 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:06:09.670 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+00:06:09.670 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+00:06:09.670 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+00:09:03.002 [AI Patrol] Spawning 3 Shamans bots at <7745.471191, 244.354660, 7590.853027>
+00:10:47.107 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:10:47.107 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:10:47.107 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:10:47.107 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:10:47.108 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:11:15.634 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Military
+00:11:25.632 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Military
+00:30:48.787 [AI Patrol] Spawning 3 Shamans bots at <11986.190430, 80.440392, 7962.136230>
+00:42:46.477 [AI Patrol] Spawning 3 Shamans bots at <9804.097656, 80.068199, 5562.190918>
+00:59:41.456 [AI Patrol] Spawning 3 Shamans bots at <10498.023438, 59.849998, 5521.551270>
+01:00:24.608 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): YOU TOO
+01:08:01.431 [AI Patrol] Spawning 3 Shamans bots at <10095.223633, 73.459999, 4849.053223>
+01:43:48.662 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Medical
+01:44:08.662 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Military
+01:56:39.504 [Killfeed] Ragacious got killed by Survivor (Shamans) with M16-A2 from a distance of 33 m.
+02:26:39.824 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive LandMineTrap<c81040c0>
+02:26:39.824 [ExplosionDamageSystem] Overriding LandMineTrap<c81040c0> damage dealt to ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> 14.1184 -> 14.1262
+02:26:39.824 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:26:39.825 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:26:39.825 [BaseBuildingRaiding] They dealt 14.1262 * 17 = 240.146 damage with LandMineExplosion from LandMineTrap
+02:26:39.825 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20000 to 19759.9
+02:26:39.825 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:37:49.138 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive LandMineTrap<c8104cd0>
+02:37:49.139 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:37:49.139 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:37:49.139 [BaseBuildingRaiding] They dealt 17 * 17 = 289 damage with LandMineExplosion from LandMineTrap
+02:37:49.139 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19759.9 to 19470.9
+02:37:49.139 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:48:26.359 [ExplosionDamageSystem] About to explode Explosion_40mm_Ammo from M79<727dd80> at <10102.3, 82.67, 9897.43> EXPLOSION range 20 dropoff 5
+02:48:26.360 [ExplosionDamageSystem] Queued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 1
+02:48:26.393 [ExplosionDamageSystem] ExpansionSafeLarge<d68ac60> at <10100.6, 78.87, 9896.08> was not hit by Explosion_40mm_Ammo from M79<727dd80> at <10102.3, 82.67, 9897.43> - applying direct EXPLOSION damage coef 1
+02:48:26.393 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive M79<727dd80>
+02:48:26.393 [ExplosionDamageSystem] Dequeued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 0
+02:48:26.393 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:48:26.393 [BaseBuildingRaiding] Player "Ragacious" (ID M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=) at <10115.1, 75.92, 9912.1> damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:48:26.393 [BaseBuildingRaiding] They dealt 50 * 17 = 850 damage with Explosion_40mm_Ammo from M79
+02:48:26.394 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 19470.9 to 18620.9
+02:48:26.394 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:48:39.739 [ExplosionDamageSystem] About to explode Explosion_40mm_Ammo from M79<727dd80> at <10102.4, 82.3, 9896.37> EXPLOSION range 20 dropoff 5
+02:48:39.740 [ExplosionDamageSystem] Queued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 1
+02:48:39.743 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive M79<727dd80>
+02:48:39.743 [ExplosionDamageSystem] Dequeued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 0
+02:48:39.743 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:48:39.743 [BaseBuildingRaiding] Player "Ragacious" (ID M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=) at <10115.6, 75.97, 9912.73> damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:48:39.744 [BaseBuildingRaiding] They dealt 50 * 17 = 850 damage with Explosion_40mm_Ammo from M79
+02:48:39.744 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 18620.9 to 17770.9
+02:48:39.744 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:48:39.750 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive LandMineTrap<c8101080>
+02:48:39.751 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:48:39.751 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:48:39.751 [BaseBuildingRaiding] They dealt 17 * 17 = 289 damage with LandMineExplosion from LandMineTrap
+02:48:39.751 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17770.9 to 17481.9
+02:48:39.751 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:48:39.754 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive LandMineTrap<c80ff860>
+02:48:39.754 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:48:39.754 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:48:39.754 [BaseBuildingRaiding] They dealt 17 * 17 = 289 damage with LandMineExplosion from LandMineTrap
+02:48:39.754 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17481.9 to 17192.9
+02:48:39.754 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:49:03.473 [ExplosionDamageSystem] About to explode Explosion_40mm_Ammo from M79<727dd80> at <10101.5, 82.3, 9895.67> EXPLOSION range 20 dropoff 5
+02:49:03.474 [ExplosionDamageSystem] Queued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 1
+02:49:03.477 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive M79<727dd80>
+02:49:03.478 [ExplosionDamageSystem] Dequeued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 0
+02:49:03.478 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:49:03.478 [BaseBuildingRaiding] Player "Ragacious" (ID M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=) at <10115.6, 75.97, 9912.73> damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:49:03.478 [BaseBuildingRaiding] They dealt 41.6666 * 17 = 708.332 damage with Explosion_40mm_Ammo from M79
+02:49:03.478 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 17192.9 to 16484.5
+02:49:03.478 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:50:19.966 [ExplosionDamageSystem] About to explode Explosion_40mm_Ammo from M79<727dd80> at <10102.5, 82.3, 9896.63> EXPLOSION range 20 dropoff 5
+02:50:19.967 [ExplosionDamageSystem] Queued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 1
+02:50:19.970 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive M79<727dd80>
+02:50:19.970 [ExplosionDamageSystem] Dequeued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 0
+02:50:19.970 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:50:19.971 [BaseBuildingRaiding] Player "Ragacious" (ID M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=) at <10116.7, 75.9, 9911.28> damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:50:19.971 [BaseBuildingRaiding] They dealt 50 * 17 = 850 damage with Explosion_40mm_Ammo from M79
+02:50:19.971 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 16484.5 to 15634.5
+02:50:19.971 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:50:31.967 [ExplosionDamageSystem] About to explode Explosion_40mm_Ammo from M79<727dd80> at <10102.7, 82.33, 9897.25> EXPLOSION range 20 dropoff 5
+02:50:31.968 [ExplosionDamageSystem] Queued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 1
+02:50:32.001 [ExplosionDamageSystem] ExpansionSafeLarge<d68ac60> at <10100.6, 78.87, 9896.08> was not hit by Explosion_40mm_Ammo from M79<727dd80> at <10102.7, 82.33, 9897.25> - applying direct EXPLOSION damage coef 1
+02:50:32.001 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<d68ac60> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive M79<727dd80>
+02:50:32.001 [ExplosionDamageSystem] Dequeued M79<727dd80> Explosion_40mm_Ammo for ExpansionSafeLarge<d68ac60> - count: 0
+02:50:32.001 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:50:32.001 [BaseBuildingRaiding] Player "Ragacious" (ID M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=) at <10116.3, 75.92, 9911.68> damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+02:50:32.001 [BaseBuildingRaiding] They dealt 50 * 17 = 850 damage with Explosion_40mm_Ammo from M79
+02:50:32.002 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 15634.5 to 14784.5
+02:50:32.002 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:51:08.130 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) player "Ragacious" (ID = "M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=" at <10101.933594, 78.912849, 9895.560547>) failed to enter the correct code.
+02:51:08.131 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) The correct code was 1776 and the player tried 0911
+02:51:15.590 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) player "Ragacious" (ID = "M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=" at <10101.933594, 78.912849, 9895.560547>) failed to enter the correct code.
+02:51:15.590 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) The correct code was 1776 and the player tried 1234
+02:51:24.514 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) player "Ragacious" (ID = "M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=" at <10101.933594, 78.912849, 9895.560547>) failed to enter the correct code.
+02:51:24.514 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) The correct code was 1776 and the player tried 4125
+02:51:30.213 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) player "Ragacious" (ID = "M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=" at <10101.933594, 78.912849, 9895.560547>) failed to enter the correct code.
+02:51:30.213 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) The correct code was 1776 and the player tried 0000

@@ -1,0 +1,27 @@
+12:01:38.468 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:01:38.468 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:01:38.468 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:01:38.468 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:01:38.468 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:04:01.039 [VehicleDeleted] ExpansionBigGyrocopter (id=F260C00A62477AC8C853EB81D8293C9E pos=<8669.126953, 101.693489, 4881.673828>)
+12:06:40.628 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+12:06:50.625 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Basebuilding
+12:12:51.812 [AI Patrol] Spawning 3 Shamans bots at <10071.925781, 83.491043, 9763.986328>
+13:32:26.644 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Basebuilding
+13:32:46.644 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Basebuilding
+13:34:58.773 [AI Patrol] Spawning 3 Shamans bots at <9005.900391, 98.180000, 5685.631836>
+13:43:21.550 [AI Patrol] Spawning 3 Shamans bots at <7728.721191, 236.180939, 7510.677734>
+14:11:07.000 [BaseRaiding] ExpansionSafeMedium (<8165.167480, 160.659897, 6565.955078>) Code set by player "Shadouuz" (ID = "VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=" at <8163.652832, 160.470703, 6566.080078>) and the code is 1881
+14:46:21.074 [AI Patrol] Spawning 3 Shamans bots at <10271.642578, 70.529999, 5658.028809>
+14:46:32.578 [AI Patrol] Spawning 3 Shamans bots at <9996.737305, 73.465210, 4841.863770>
+14:57:47.644 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Basebuilding
+14:58:07.644 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Medical
+15:51:59.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+15:51:59.515 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+15:51:59.515 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+15:51:59.515 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+15:51:59.515 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+15:52:02.734 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Basebuilding
+15:52:12.734 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Basebuilding
+17:19:46.765 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Basebuilding
+17:19:56.765 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Basebuilding

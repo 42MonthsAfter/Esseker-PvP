@@ -1,0 +1,5 @@
+18:34:02.421 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: FPTxJGSjXP2Epw35F27xm7XT1u45ydTe_YIMN0O6fpk=
+18:34:02.421 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:34:02.429 [Expansion Quests] - CompleteQuest - Player with UID FPTxJGSjXP2Epw35F27xm7XT1u45ydTe_YIMN0O6fpk= has completed quest 14
+18:39:09.148 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Military
+18:39:29.148 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Basebuilding

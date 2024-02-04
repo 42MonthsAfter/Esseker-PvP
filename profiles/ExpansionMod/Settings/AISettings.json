@@ -12,7 +12,7 @@
     "SniperProneDistanceThreshold": 0.0,
     "Manners": 0,
     "MemeLevel": 1,
-    "CanRecruitFriendly": 1,
+    "CanRecruitFriendly": 0,
     "CanRecruitGuards": 0,
     "PreventClimb": [],
     "PlayerFactions": []

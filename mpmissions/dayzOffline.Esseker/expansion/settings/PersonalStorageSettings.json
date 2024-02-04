@@ -1,7 +1,7 @@
 {
     "m_Version": 1,
     "Enabled": 0,
-    "UsePersonalStorageCase": 1,
+    "UsePersonalStorageCase": 0,
     "MaxItemsPerStorage": 15,
     "ExcludedClassNames": [
         "SurvivorBase",

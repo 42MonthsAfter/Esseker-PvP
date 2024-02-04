@@ -1,0 +1,5 @@
+17:09:35.570 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+17:09:35.570 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+17:09:35.589 [Expansion Quests] - CompleteQuest - Player with UID spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= has completed quest 14
+17:14:44.929 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Basebuilding
+17:14:54.925 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Military

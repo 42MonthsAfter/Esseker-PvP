@@ -1,0 +1,20 @@
+12:02:53.109 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:02:53.109 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:02:53.109 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:02:53.113 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:02:53.113 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:08:00.421 [MissionAirdrop] An airdrop is heading towards "Kula" (pos=<4978.740234, 0.000000, 4995.410156> type=Random_Kula) with a ExpansionAirdropContainer_Military
+12:08:10.421 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Military
+12:19:41.019 [AI Patrol] Spawning 3 Shamans bots at <10189.589844, 96.686058, 9733.903320>
+12:58:48.250 [AI Patrol] Spawning 3 Shamans bots at <9129.169922, 105.857506, 5790.241699>
+13:08:09.445 [Killfeed] Shadouuz got killed by Survivor (Shamans) with AUR AX from a distance of 20 m.
+13:09:10.472 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): these ai are insane
+13:11:07.109 [Killfeed] Shadouuz got killed.
+13:11:22.445 [AI Patrol] Spawning 3 Shamans bots at <11842.314453, 77.943169, 8061.860352>
+13:32:08.441 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Basebuilding
+13:32:18.441 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Military
+17:41:50.406 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: k1tdi-Va_yaRRR2jnYWwwp4HAKwcVHaYLApjTeW9hX8=
+17:41:50.406 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:41:50.414 [Expansion Quests] - CompleteQuest - Player with UID k1tdi-Va_yaRRR2jnYWwwp4HAKwcVHaYLApjTeW9hX8= has completed quest 14
+17:41:57.445 [MissionAirdrop] An airdrop is heading towards "Kula" (pos=<4978.740234, 0.000000, 4995.410156> type=Random_Kula) with a ExpansionAirdropContainer_Military
+17:42:27.445 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Military

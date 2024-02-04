@@ -356,21 +356,12 @@
     ],
     "StartingClothing": {
         "EnableCustomClothing": 1,
-        "SetRandomHealth": 1,
+        "SetRandomHealth": 0,
         "Headgear": [],
         "Glasses": [],
         "Masks": [],
         "Tops": [
-            "TShirt_Green",
-            "TShirt_Blue",
-            "TShirt_Black",
-            "TShirt_Beige",
-            "TShirt_Red",
-            "TShirt_OrangeWhiteStripes",
-            "TShirt_White",
-            "TShirt_Red",
-            "TShirt_Grey",
-            "TShirt_RedBlackStripes"
+            "DOC_TSHIRT_42"
         ],
         "Vests": [],
         "Gloves": [],
@@ -395,19 +386,14 @@
             "AthleticShoes_Black"
         ],
         "Armbands": [],
-        "Backpacks": [
-            "TaloonBag_Blue",
-            "TaloonBag_Green",
-            "TaloonBag_Orange",
-            "TaloonBag_Violet"
-        ]
+        "Backpacks": []
     },
     "EnableSpawnSelection": 0,
     "SpawnOnTerritory": 0,
     "StartingGear": {
         "EnableStartingGear": 1,
-        "ApplyEnergySources": 1,
-        "SetRandomHealth": 1,
+        "ApplyEnergySources": 0,
+        "SetRandomHealth": 0,
         "UpperGear": [
             {
                 "ClassName": "Rag",

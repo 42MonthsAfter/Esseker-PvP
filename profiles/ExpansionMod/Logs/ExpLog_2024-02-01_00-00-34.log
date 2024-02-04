@@ -1,0 +1,8 @@
+00:07:52.040 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:07:52.040 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:07:52.040 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:07:52.040 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:07:52.041 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:12:54.409 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Military
+00:13:04.407 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Basebuilding
+00:39:07.079 [AI Patrol] Spawning 3 Shamans bots at <10189.308594, 73.656090, 9868.540039>

@@ -35,9 +35,30 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
-		<ce folder="expansion_ce">
+	<ce folder="expansion_ce">
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
+	</ce>
+	<ce folder="ModTypes/42MADocsGuns">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MADocsTextures">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAModPack">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAVanillaClothing">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAVehicleParts">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAVehicles">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/FlipTransport">
+		<file name="types.xml" type="types" />
 	</ce>
 </economycore>

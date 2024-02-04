@@ -1,0 +1,59 @@
+08:04:30.494 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: VSXOkjiyJHkOJ8eEW12pjidlZCOSnPiu7EpURft8gro=
+08:04:30.494 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+08:04:30.500 [Expansion Quests] - CompleteQuest - Player with UID VSXOkjiyJHkOJ8eEW12pjidlZCOSnPiu7EpURft8gro= has completed quest 14
+08:09:31.527 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Basebuilding
+08:10:41.523 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Military
+08:41:17.421 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+08:41:17.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+08:41:17.429 [Expansion Quests] - CompleteQuest - Player with UID 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= has completed quest 14
+09:01:41.986 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+09:01:41.986 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+09:01:41.986 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+09:01:41.986 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+09:01:41.988 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+09:09:02.921 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=1 ownerUID= ownerName=)
+09:09:02.921 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) created a party named Sharkparty (SHRK)
+09:09:03.921 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+09:21:38.148 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=1 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+10:01:53.800 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:01:53.800 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+10:01:53.800 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:01:53.800 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:01:53.800 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:02:01.527 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Medical
+10:02:11.527 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Military
+10:10:17.312 [AI Patrol] Spawning 3 Shamans bots at <9789.724609, 79.694847, 5609.057617>
+10:43:42.433 [AI Patrol] Spawning 3 Shamans bots at <10131.671875, 73.654236, 9837.202148>
+11:01:15.828 [Killfeed] zXGoovis_AndachairXz got killed by Survivor (Shamans) with AUR A1 from a distance of 1 m.
+11:18:33.937 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<89f3ca90> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive LandMineTrap<8658c620>
+11:18:33.937 [ExplosionDamageSystem] Overriding LandMineTrap<8658c620> damage dealt to ExpansionSafeLarge<89f3ca90> at <10100.643555, 78.873795, 9896.080078> 16.587 -> 16.5985
+11:18:33.937 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+11:18:33.937 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+11:18:33.937 [BaseBuildingRaiding] They dealt 16.5985 * 17 = 282.175 damage with LandMineExplosion from LandMineTrap
+11:18:33.937 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14784.5 to 14502.3
+11:18:33.937 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:18:33.941 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<89f3ca90> at <10100.643555, 78.873795, 9896.080078> has been hit by explosive LandMineTrap<8658c620>
+11:18:33.941 [ExplosionDamageSystem] Overriding LandMineTrap<8658c620> damage dealt to ExpansionSafeLarge<89f3ca90> at <10100.643555, 78.873795, 9896.080078> 16.587 -> 16.5985
+11:18:33.941 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+11:18:33.941 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <10100.6, 78.87, 9896.08>
+11:18:33.945 [BaseBuildingRaiding] They dealt 16.5985 * 17 = 282.175 damage with LandMineExplosion from LandMineTrap
+11:18:33.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14502.3 to 14220.2
+11:18:33.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:22:06.617 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+11:22:06.617 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+11:22:06.617 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+11:22:06.617 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+11:22:06.617 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+11:22:06.617 [AI Patrol] Spawning 3 Shamans bots at <10366.743164, 70.845222, 5635.404785>
+11:22:49.093 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): whats good homie
+11:24:36.218 [AI Patrol] Spawning 3 Shamans bots at <10119.231445, 73.459999, 4892.304688>
+11:28:27.531 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer
+11:28:47.531 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Medical
+11:35:37.882 [Territory] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) created territory Brotherhood of The Withering Flesh at <10098.147461, 85.272141, 9890.804688>
+11:35:43.789 [Killfeed] Shadouuz got killed by Survivor (Shamans) with AUR A1 from a distance of 221 m.
+11:36:42.179 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): wow them ai just one tapped me good
+11:37:15.671 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): some of them are dead on shots
+11:38:02.078 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): o hai
+11:38:41.234 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): all good bud. best of luck out there
+11:38:49.382 [Chat - Global]("zXGoovis_AndachairXz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): scared the tits off me
+11:39:08.781 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): same i thought i snuck up on the ai

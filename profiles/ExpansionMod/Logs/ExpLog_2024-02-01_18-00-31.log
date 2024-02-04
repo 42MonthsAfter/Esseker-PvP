@@ -1,0 +1,28 @@
+19:24:32.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+19:24:32.484 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+19:24:32.484 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+19:24:32.484 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+19:24:32.484 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+19:29:32.867 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer
+19:29:52.859 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Medical
+20:16:23.226 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=1 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+20:16:23.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+20:16:23.242 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+20:16:23.242 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+20:16:23.242 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+20:16:23.242 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+20:16:24.210 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:33:06.484 [AI Patrol] Spawning 3 Shamans bots at <7700.789063, 239.608719, 7694.627930>
+20:55:31.859 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer
+20:56:01.859 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer
+21:04:12.484 [Killfeed] Sharkparty got killed by Survivor (Shamans) with AUR AX from a distance of 28 m.
+21:04:50.734 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=1 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+21:04:51.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:14:57.789 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=1 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+22:40:33.632 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: k1tdi-Va_yaRRR2jnYWwwp4HAKwcVHaYLApjTeW9hX8=
+22:40:33.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:40:33.632 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: k1tdi-Va_yaRRR2jnYWwwp4HAKwcVHaYLApjTeW9hX8=
+22:40:33.632 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: k1tdi-Va_yaRRR2jnYWwwp4HAKwcVHaYLApjTeW9hX8=
+22:40:33.632 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: k1tdi-Va_yaRRR2jnYWwwp4HAKwcVHaYLApjTeW9hX8=
+22:40:38.859 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Medical
+22:40:48.859 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military

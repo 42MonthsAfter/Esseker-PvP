@@ -988,6 +988,25 @@
             <btn name="kN" />
         </btn>
     </input>
+    <input name="PvZmoD_CZ_RefreshJsonVariables">
+        <btn name="kNumpad4" />
+    </input>
+    <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_CZ">
+        <btn name="kSpace" />
+    </input>
+    <input name="UAPVEZOpenAdminMenu" />
+    <input name="UATogglePoliceLights">
+        <btn name="kP" />
+    </input>
+    <input name="UAToggleNeonLights">
+        <btn name="k4" />
+    </input>
+    <input name="UAToggleFogLights">
+        <btn name="k5" />
+    </input>
+    <input name="UATransportBeep">
+        <btn name="k2" />
+    </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />
     </input>

@@ -1,0 +1,7 @@
+08:52:35.261 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+08:52:35.261 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+08:52:35.261 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+08:52:35.261 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+08:52:35.261 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+08:57:41.097 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Medical
+08:57:51.093 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Military

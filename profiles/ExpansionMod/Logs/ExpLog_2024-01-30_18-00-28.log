@@ -1,0 +1,80 @@
+18:27:17.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:27:17.015 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:27:17.015 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:27:17.015 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:27:17.015 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:27:17.015 [AI Patrol] Spawning 3 Shamans bots at <10294.029297, 70.529999, 5529.772461>
+18:32:19.656 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Medical
+18:32:29.656 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Basebuilding
+18:40:38.867 [AI Patrol] Spawning 3 Shamans bots at <9735.869141, 86.399620, 5685.395508>
+18:41:35.242 [AI Patrol] Spawning 3 Shamans bots at <10025.217773, 73.459999, 4821.683594>
+19:18:11.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:18:11.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:18:11.578 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:18:11.578 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:18:11.578 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:33:24.835 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:33:24.835 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:33:24.835 [AI Patrol] Spawning 3 Shamans bots at <11780.916016, 77.207779, 8101.433105>
+19:33:24.851 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 14
+19:37:58.132 [Killfeed] Chuck_N_Biskits got killed by Survivor (Shamans) with LE-MAS from a distance of 22 m.
+19:40:46.296 [Killfeed] Chuck_N_Biskits got killed by Survivor (Shamans) with LE-MAS from a distance of 26 m.
+19:53:17.804 [AI Patrol] Spawning 3 Shamans bots at <10115.248047, 74.389954, 9887.219727>
+19:58:03.656 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Basebuilding
+19:58:43.656 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Military
+19:59:40.648 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:59:40.648 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:59:40.648 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:59:40.648 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:59:40.648 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+20:15:20.617 [AI Patrol] Spawning 3 Shamans bots at <7603.416504, 254.357590, 7640.450684>
+20:21:45.718 [Killfeed] Chuck_N_Biskits got killed by Survivor (Shamans) with AUR A1 from a distance of 4 m.
+20:22:11.687 [AI Patrol] Spawning 3 Shamans bots at <12773.620117, 86.599236, 7069.493652>
+20:23:22.984 [Killfeed] Chuck_N_Biskits got killed by Survivor (Shamans) with M16-A2 from a distance of 20 m.
+20:29:13.070 [Killfeed] Chuck_N_Biskits got killed by Survivor (Shamans) with M4-A1 from a distance of 4 m.
+20:39:41.671 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ho ho ho. now i have a gun
+20:41:21.867 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): best of luck. i want to try for one too. what say we leave eachother alone for a few days and try to establish ourselves?
+20:41:44.585 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i am hungry for pvp and bases. PNW is goingto be insane
+20:42:51.960 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): the deer isle map these guys run is good for that. only PvP and AI in certain spots and no raiding PvE bases
+20:45:11.171 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): just took out 3 ai finally. had to throw myself at them till i got one and scooped a gun
+20:45:57.609 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): fantastic idea lol. thanks
+20:47:06.703 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): same, is best plan
+20:48:22.656 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): canada
+20:49:26.171 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): sweet
+20:50:55.671 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): good to meet ya blue! i just made it to the military base so im farming guns as soon as the suns up again haha. these bots have no chance
+20:51:07.054 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): 60 rounds, and a can do attitude
+20:51:51.984 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): im in the prison building having a nap next to the ai bodies lol
+20:52:30.843 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): haha im putting it ON the dead soldiers. once they go so does the loot
+20:55:34.171 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): its easy. need an axe a saw and a hammer or hatchet, nails. go to town lol
+21:03:15.265 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): im about to head off, but im down to help with building some time. i might be back on tonight even
+21:05:44.984 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): lol
+21:05:50.578 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): good shot tho
+21:06:06.515 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hahah
+21:06:22.687 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): its all freshly loot cycled. its all good, ill get one off the ai soon hahaha
+21:06:47.039 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): no worries lol
+21:07:08.664 [Chat - Global]("Chuck_N_Biskits"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): yeah give it ten minutes and it should fill back up. theres a pile over here 
+21:22:16.492 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "BITCHES AND HOES" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+21:22:16.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:22:16.507 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+21:22:16.507 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:22:16.507 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:22:16.507 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:22:17.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:22:50.468 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): Coming in hot dude
+21:27:31.679 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Military
+21:28:21.679 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Medical
+21:41:18.726 [BaseRaiding] ExpansionSafeLarge (<10100.643555, 78.873795, 9896.080078>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <10101.872070, 78.913895, 9895.265625>) and the code is 1776
+22:10:43.000 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): just posted a couple hunts.  find them on the discord
+22:10:59.421 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): https://discord.gg/NM2tB8ZU
+22:24:21.890 [VehicleDeleted] OffroadHatchback_Blue (id=4320CBBB6D4A288EF8FC22AC73C8A9C0 pos=<7778.407227, 130.441254, 6873.542969>)
+22:29:01.718 [BaseRaiding] ExpansionSafeMini (<8163.819824, 160.487015, 6566.104004>) Code set by player "Shadouuz" (ID = "VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=" at <8162.534180, 160.353485, 6565.983887>) and the code is 1881
+22:29:17.750 [BaseRaiding] ExpansionSafeMini (<8163.868652, 160.558914, 6565.647461>) Code set by player "Shadouuz" (ID = "VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=" at <8162.682129, 160.446335, 6565.440918>) and the code is 1881
+22:35:25.812 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "BITCHES AND HOES" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:37:13.437 [AI Patrol] Spawning 3 Shamans bots at <9029.530273, 202.251099, 7594.455078>
+22:56:33.296 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+22:56:33.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:56:33.296 [Expansion Quests] - CompleteQuest - Player with UID M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo= has completed quest 14
+22:57:00.046 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Military
+22:57:10.046 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+23:21:31.617 [Killfeed] Shadouuz got killed.
+23:38:30.453 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): got merched by some zombies tryin to grab a mil drop in the dark lol

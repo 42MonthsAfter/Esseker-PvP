@@ -1,0 +1,61 @@
+18:01:47.707 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:01:47.707 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:01:47.707 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:01:47.707 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:01:47.707 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:03:57.058 [AI Patrol] Spawning 3 Shamans bots at <10659.074219, 59.849998, 5444.825195>
+18:06:48.480 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Basebuilding
+18:06:58.480 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer
+18:08:27.992 [Killfeed] Shadouuz commited suicide with Combat Knife.
+18:10:32.722 [Killfeed] Shadouuz got killed.
+18:11:31.273 [AI Patrol] Spawning 3 Shamans bots at <9992.106445, 77.717552, 9819.113281>
+18:17:45.710 [Killfeed] Shadouuz got killed by an Infected.
+18:18:19.265 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:18:19.265 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:18:19.265 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:18:19.265 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:18:19.265 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+18:23:57.429 [Killfeed] Shadouuz commited suicide with MK II.
+18:30:01.273 [Killfeed] Shadouuz got killed by Survivor (Shamans) with AUR A1 from a distance of 2 m.
+18:30:43.421 [AI Patrol] Spawning 3 Shamans bots at <11893.135742, 80.916298, 8044.988281>
+18:44:59.796 [AI Patrol] Spawning 3 Shamans bots at <10066.945313, 73.459999, 4807.342773>
+18:49:14.218 [AI Patrol] Spawning 3 Shamans bots at <8746.119141, 89.127617, 5785.000000>
+19:25:13.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:25:13.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:25:13.390 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:25:13.398 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:25:13.398 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+19:32:57.484 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Military
+19:33:27.484 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer
+20:59:38.312 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+20:59:38.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:59:38.312 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+20:59:38.312 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+20:59:38.312 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+20:59:51.484 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Military
+20:59:56.484 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Basebuilding
+21:09:47.656 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): not sure found a gun rack with like 40 kams on it
+21:09:59.710 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): died 2 secs later to ai
+21:10:40.921 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): have yet to see a trap
+21:10:49.710 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): are there cars anywhere
+21:11:26.484 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): nope have seen one yet
+21:11:47.421 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): not that i have seen
+21:18:00.281 [Chat - Global]("Shadouuz"(id=VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=)): are there cars in this server?
+22:25:33.484 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Basebuilding
+22:25:43.484 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+22:57:46.546 [BaseRaiding] ExpansionSafeMini (<11169.360352, 147.311081, 5827.511230>) Code set by player "Shadouuz" (ID = "VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=" at <11168.253906, 147.404800, 5827.325684>) and the code is 1881
+22:59:37.632 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+22:59:37.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:59:37.640 [Expansion Quests] - CompleteQuest - Player with UID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= has completed quest 14
+23:01:51.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:01:51.515 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:01:51.515 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:01:51.515 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:01:51.515 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:50:18.992 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+23:50:18.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:50:18.992 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+23:50:18.992 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+23:50:18.992 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+23:52:43.484 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Military
+23:53:03.484 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Basebuilding

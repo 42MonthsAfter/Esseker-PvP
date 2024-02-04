@@ -14,20 +14,60 @@
             "CategoryName": "General",
             "Rules": [
                 {
-                    "RuleParagraph": "Full Map PvP",
-                    "RuleText": "In short, you aren't safe anywhere. Act accordingly."
+                    "RuleParagraph": "No Greifing",
+                    "RuleText": "Getting your kicks at the expense of others is considered griefing. Lowering flags is considered griefing and will result in a ban."
                 },
                 {
-                    "RuleParagraph": "Base Raiding",
-                    "RuleText": "Bases can be raided 24/7. Secure your shit."
+                    "RuleParagraph": "No Hate Speech",
+                    "RuleText": "All are welcome here. Any hate speech will result in an immediate ban."
                 },
                 {
-                    "RuleParagraph": "Base Building",
-                    "RuleText": "There are no rules other than you can not block off access to loot, including military and medical areas."
+                    "RuleParagraph": "Join the Discord",
+                    "RuleText": "A full list of rules is posted in the Discord at http://discord.42MonthsAfter.com"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Building Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "One Base Per Player / Group",
+                    "RuleText": "Groups & individual players are allowed one (1) base at a time."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Raiding Rules",
+            "Rules": [
+            {
+                "RuleParagraph": "Base Raiding Rules",
+                "RuleText": "Base raiding is allowed 24/7 by any means possible. Secure your shit."
+            }
+            ]
+        },
+        {
+            "CategoryName": "Vehicles",
+            "Rules": [
+                {
+                    "RuleParagraph": "Us at Your Own Risk",
+                    "RuleText": "DayZ vehicles are a mess, always have been, there for all are use at your own risk."
                 },
                 {
-                    "RuleParagraph": "Vehicles",
-                    "RuleText": "All vehicles are use at your own risk. Admins will not replace lost, glitched, or despawned vehicles. Don't ask."
+                    "RuleParagraph": "Admin Help",
+                    "RuleText": "Admins will NOT replace lost vehicles due to lag, crashes, getting stuck, etc. See rule above."
+                },
+                {
+                    "RuleParagraph": "Zombie Damage",
+                    "RuleText": "Zombies can damage vehicles, based on chance, so don't just drive over them without being prepared to lose your car to damage."
+                }
+            ]
+        },
+        {
+            "CategoryName": "PvP Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "The whole map is PvP",
+                    "RuleText": "Anything goes in PvP including kill on sight. Be warned."
                 }
             ]
         }
@@ -132,8 +172,8 @@
     ],
     "Links": [
         {
-            "Name": "Wedsite",
-            "URL": "http://www.42MonthsAfter.com",
+            "Name": "Homepage",
+            "URL": "http://www.42MonthsAfter.com/",
             "IconName": "Homepage",
             "IconColor": -14473430
         },
@@ -145,31 +185,25 @@
         },
         {
             "Name": "Discord",
-            "URL": "http://discord.42MonthsAfter.com",
+            "URL": "http://discord.42MonthsAfter.com/",
             "IconName": "Discord",
             "IconColor": -9270822
         },
         {
-            "Name": "Steam",
-            "URL": "https://steamcommunity.com/profiles/76561199112746320/myworkshopfiles",
-            "IconName": "Steam",
-            "IconColor": -14006434
-        },
-        {
             "Name": "Reddit",
-            "URL": "https://www.reddit.com/user/42_Months_After",
+            "URL": "http://www.reddit.com/user/42_Months_After",
             "IconName": "Reddit",
             "IconColor": -12386303
         },
         {
             "Name": "GitHub",
-            "URL": "https://github.com/42MonthsAfter",
+            "URL": "http://github.com/42MonthsAfter",
             "IconName": "GitHub",
             "IconColor": -16777216
         },
         {
             "Name": "YouTube",
-            "URL": "https://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
+            "URL": "http://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
             "IconName": "YouTube",
             "IconColor": -65536
         }

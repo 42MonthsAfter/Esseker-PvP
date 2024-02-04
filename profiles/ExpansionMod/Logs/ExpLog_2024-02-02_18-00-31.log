@@ -1,0 +1,29 @@
+19:51:41.851 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:51:41.851 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+19:51:41.851 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:51:41.851 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:51:41.851 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:56:43.000 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer
+19:57:03.000 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Military
+20:12:46.289 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+20:12:46.289 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:12:46.289 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+20:12:46.289 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+20:12:46.289 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+21:29:14.031 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "BITCHES AND HOES" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+21:29:14.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+21:29:14.039 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+21:29:14.039 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+21:29:14.039 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+21:29:14.039 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+21:29:15.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:29:22.062 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Basebuilding
+21:29:52.062 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Military
+21:53:03.835 [AI Patrol] Spawning 3 Shamans bots at <11863.719727, 82.119736, 7919.398926>
+21:59:56.437 [Killfeed] Captain Chaos got killed by an Infected.
+21:59:58.546 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "BITCHES AND HOES" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:42:17.187 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VSXOkjiyJHkOJ8eEW12pjidlZCOSnPiu7EpURft8gro=
+22:42:17.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:42:17.187 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VSXOkjiyJHkOJ8eEW12pjidlZCOSnPiu7EpURft8gro=
+22:42:17.187 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VSXOkjiyJHkOJ8eEW12pjidlZCOSnPiu7EpURft8gro=
+22:42:17.187 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VSXOkjiyJHkOJ8eEW12pjidlZCOSnPiu7EpURft8gro=

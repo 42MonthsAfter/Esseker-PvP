@@ -1,0 +1,12 @@
+12:10:20.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+12:10:20.820 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:10:20.820 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+12:10:20.820 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+12:10:20.820 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+12:11:52.031 [VehicleEnter] Player [Admin] Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] entered vehicle Interceptor (id=435646B0754E8B84C126BFB5647EE531 pos=<12136.328125, 76.044571, 7766.260254>) as driver
+12:11:54.855 [VehicleEngine] Player [Admin] Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] started vehicle Interceptor (id=435646B0754E8B84C126BFB5647EE531 pos=<12136.328125, 76.044601, 7766.260254>)
+12:12:39.550 [VehicleEngine] Player [Admin] Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] stopped vehicle Interceptor (id=435646B0754E8B84C126BFB5647EE531 pos=<11932.909180, 78.765190, 7906.763184>)
+12:12:47.656 [VehicleEngine] Player [Admin] Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] started vehicle Interceptor (id=435646B0754E8B84C126BFB5647EE531 pos=<11932.909180, 78.765182, 7906.763184>)
+12:13:11.687 [VehicleLeave] Player [Admin] Bunker [uid=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=] left vehicle Interceptor (id=435646B0754E8B84C126BFB5647EE531 pos=<11775.180664, 83.810661, 7898.365234>)
+12:15:27.691 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Military
+12:15:57.687 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Medical

@@ -1,0 +1,15 @@
+00:46:05.434 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:46:05.435 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:46:05.435 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:46:05.435 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:46:05.436 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=
+00:51:14.420 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Basebuilding
+00:51:24.415 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Basebuilding
+02:24:56.087 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ib8MvsbG_9WHDblZodXwzqLuWHhLii5H019rmn-3duQ=
+02:24:56.087 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+02:24:56.094 [AI Patrol] Spawning 3 Shamans bots at <9995.314453, 83.571373, 9736.379883>
+02:24:56.346 [Expansion Quests] - CompleteQuest - Player with UID ib8MvsbG_9WHDblZodXwzqLuWHhLii5H019rmn-3duQ= has completed quest 14
+02:24:57.694 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Medical
+02:25:07.695 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Basebuilding
+02:31:58.145 [Killfeed] Willz5150 got killed.
+03:15:36.100 [AI Patrol] Spawning 3 Shamans bots at <11997.389648, 79.979630, 7968.733887>

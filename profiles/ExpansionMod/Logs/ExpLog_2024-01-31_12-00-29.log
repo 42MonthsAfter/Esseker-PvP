@@ -1,0 +1,24 @@
+12:01:43.761 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:01:43.761 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:01:43.761 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:01:43.761 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:01:43.761 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+12:06:51.050 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Military
+12:07:01.050 [MissionAirdrop] An airdrop is heading towards "Esseker East" (pos=<10912.320313, 0.000000, 5564.363770> type=Random_Esseker East) with a ExpansionAirdropContainer_Military
+12:47:26.417 [AI Patrol] Spawning 3 Shamans bots at <7753.549805, 242.138229, 7557.299805>
+12:53:17.878 [Killfeed] Shadouuz got killed by Survivor (Shamans) with M4-A1 from a distance of 64 m.
+16:09:39.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+16:09:39.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+16:09:39.945 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+16:09:39.945 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+16:09:39.945 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+16:09:46.054 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Military
+16:10:16.054 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Military
+17:02:30.820 [AI Patrol] Spawning 3 Shamans bots at <9807.955078, 86.030365, 5727.876465>
+17:03:46.808 [AI Patrol] Spawning 3 Shamans bots at <10295.553711, 70.740959, 5615.631836>
+17:05:02.234 [AI Patrol] Spawning 3 Shamans bots at <9777.798828, 73.617294, 4918.407227>
+17:17:11.515 [Killfeed] Shadouuz got killed by Survivor (Shamans) with LE-MAS from a distance of 12 m.
+17:18:36.843 [Killfeed] Shadouuz got killed.
+17:19:51.648 [Killfeed] Shadouuz got killed.
+17:36:31.054 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Basebuilding
+17:36:41.054 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer

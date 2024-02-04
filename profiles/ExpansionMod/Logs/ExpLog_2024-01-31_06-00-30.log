@@ -1,0 +1,14 @@
+09:34:48.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+09:34:48.750 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+09:34:48.750 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+09:34:48.750 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+09:34:48.750 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=
+09:39:39.121 [AI Patrol] Spawning 3 Shamans bots at <9838.876953, 76.431168, 5653.007813>
+09:39:51.867 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Military
+09:40:11.867 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Military
+09:42:17.804 [AI Patrol] Spawning 3 Shamans bots at <9917.553711, 73.039268, 4939.655762>
+09:45:53.582 [BaseRaiding] ExpansionSafeMedium (<8936.336914, 81.650002, 5348.830566>) Code set by player "Shadouuz" (ID = "VXVWRxyBjn40MbUcPUJ8wIFyfsMKJctqRCgopKOdvzA=" at <8936.448242, 81.662498, 5350.194824>) and the code is 1881
+11:06:07.875 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Military
+11:06:17.875 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Military
+11:18:09.007 [AI Patrol] Spawning 3 Shamans bots at <7671.168945, 245.690002, 7558.781250>
+11:48:44.687 [AI Patrol] Spawning 3 Shamans bots at <9124.638672, 194.074036, 7027.920410>
