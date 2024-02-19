@@ -1,0 +1,54 @@
+00:52:42.201 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Medical
+00:52:52.199 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Basebuilding
+01:02:10.443 [AI Patrol] Spawning 3 Shamans bots at <9927.406250, 81.515938, 9746.499023>
+01:11:35.824 [AI Patrol] Spawning 3 Shamans bots at <7564.622559, 254.629028, 7670.377930>
+01:40:09.709 [AI Patrol] Spawning 3 Shamans bots at <9045.420898, 98.502403, 5711.137695>
+01:57:12.405 [AI Patrol] Spawning 3 Shamans bots at <9918.593750, 73.618973, 4862.995605>
+02:00:05.492 [AI Patrol] Spawning 3 Shamans bots at <10362.217773, 69.102898, 5573.159180>
+02:18:57.199 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Military
+02:19:07.199 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Basebuilding
+02:20:41.255 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10025.013672, 73.500351, 4800.363770>) as driver
+02:20:55.979 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10025.013672, 73.500351, 4800.363770>)
+02:24:15.624 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10025.013672, 73.500351, 4800.363770>) as driver
+02:24:30.598 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10025.013672, 73.500351, 4800.363770>)
+02:27:55.175 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8384.380859, 82.448868, 5352.407715>)
+02:28:05.846 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8384.380859, 82.448868, 5352.407715>)
+02:29:29.443 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8384.380859, 82.448868, 5352.407715>) as driver
+02:29:33.390 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8384.380859, 82.448868, 5352.407715>)
+02:33:01.445 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6611.391113, 131.018753, 5371.533203>)
+02:33:20.139 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6611.391113, 131.018814, 5371.533203>)
+02:54:15.811 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6611.391113, 131.018768, 5371.533203>) as driver
+02:54:28.368 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6611.391113, 131.018829, 5371.533203>)
+02:56:11.923 [AI Patrol] Spawning 3 Shamans bots at <4907.494629, 171.162094, 5048.934570>
+03:00:57.722 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<4245.515625, 205.240860, 5139.045898>)
+03:01:14.313 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<4245.515625, 205.240875, 5139.045898>) as driver
+03:01:16.342 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<4245.515137, 205.240906, 5139.045898>)
+03:19:08.575 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<5024.717285, 222.727127, 6251.089844>)
+03:19:12.960 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<5024.717285, 222.727127, 6251.089844>)
+03:19:27.338 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<5024.717285, 222.727127, 6251.089844>) as driver
+03:19:31.666 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<5024.717285, 222.727142, 6251.089844>)
+03:35:07.513 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8168.518555, 81.976448, 5418.754395>)
+03:35:09.915 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8168.518555, 81.976448, 5418.754395>)
+03:45:55.199 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Basebuilding
+03:46:05.199 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Military
+03:55:05.100 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8168.518555, 81.976448, 5418.753906>) as driver
+03:55:20.271 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8168.518555, 81.976433, 5418.753906>)
+04:06:00.120 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.109375, 154.633591, 6916.481934>)
+04:06:08.974 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633530, 6916.481934>)
+04:07:57.699 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633560, 6916.481934>) as driver
+04:07:59.189 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633499, 6916.481934>)
+04:08:19.307 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633560, 6916.481934>)
+04:08:22.784 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633499, 6916.481934>)
+04:08:42.453 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633545, 6916.481934>) as driver
+04:09:01.913 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633499, 6916.481934>)
+04:09:33.685 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633591, 6916.481934>) as driver
+04:09:36.058 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8122.108887, 154.633514, 6916.481934>)
+04:10:27.785 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.293945, 146.537537, 6940.847656>)
+04:20:42.717 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646179, 6941.169434>) as driver
+04:21:33.130 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646332, 6941.169922>)
+04:21:36.652 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646301, 6941.169922>)
+04:21:41.389 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646347, 6941.169922>)
+04:21:46.154 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646301, 6941.169922>)
+04:21:53.364 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646271, 6941.169922>)
+04:22:10.604 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646271, 6941.169922>)
+04:22:13.545 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646362, 6941.169922>)

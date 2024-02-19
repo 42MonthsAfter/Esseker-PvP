@@ -1,0 +1,32 @@
+22:37:05.585 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Medical
+22:37:15.585 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer
+22:39:54.500 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<7096.635742, 228.092361, 9646.116211>) as driver
+22:39:59.796 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] started vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<7096.635742, 228.092361, 9646.116211>)
+22:41:06.828 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<7277.426270, 261.646637, 9368.299805>)
+22:42:08.796 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<7277.426270, 261.646667, 9368.299805>) as driver
+22:44:08.796 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] stopped vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<8337.642578, 233.327454, 8583.972656>)
+22:44:15.460 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] started vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<8337.642578, 233.327454, 8583.972656>)
+22:44:23.765 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] stopped vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<8339.581055, 233.392883, 8583.145508>)
+22:44:26.804 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<8339.581055, 233.392868, 8583.145508>)
+22:52:39.343 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<8339.581055, 233.392899, 8583.145508>) as driver
+22:52:43.390 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] started vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<8339.581055, 233.392868, 8583.145508>)
+22:55:44.640 [AI Patrol] Spawning 3 Shamans bots at <11787.033203, 76.894470, 8105.143555>
+22:55:57.000 [AI Patrol] Spawning 3 Shamans bots at <12116.399414, 81.931282, 7849.476563>
+23:00:49.625 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<12126.444336, 111.288055, 8117.955566>)
+23:08:46.539 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<12126.385742, 111.264351, 8117.879883>) as driver
+23:08:54.484 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] stopped vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<12126.385742, 111.264320, 8117.879883>)
+23:09:13.406 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] started vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<12126.385742, 111.264320, 8117.879883>)
+23:11:22.234 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] stopped vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11919.596680, 83.120773, 8214.072266>)
+23:12:04.664 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11919.596680, 83.120804, 8214.072266>)
+23:16:31.476 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11919.596680, 83.120804, 8214.072266>) as driver
+23:16:33.632 [VehicleEngine] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] started vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11919.596680, 83.120804, 8214.072266>)
+23:20:43.554 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11949.066406, 82.985161, 8105.041992>)
+23:21:45.546 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11949.066406, 82.985176, 8105.041992>) as driver
+23:22:07.476 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11931.319336, 80.974358, 8150.105469>)
+23:22:42.828 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11931.319336, 80.974365, 8150.105469>) as driver
+23:24:12.375 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11963.987305, 82.990402, 8089.254883>)
+23:24:31.367 [VehicleEnter] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] entered vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<11963.987305, 82.990402, 8089.254883>) as driver
+23:24:57.156 [AI Patrol] Spawning 3 Shamans bots at <12761.633789, 86.001862, 7075.247559>
+23:26:25.945 [VehicleLeave] Player Ragacious [uid=M-L4cErkePQ_fswl0bbOCcMnyNPSO1GQOQxakOK0cLo=] left vehicle PONTIAC (rust) (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<12125.882813, 77.506378, 7815.343750>)
+23:27:28.070 [Killfeed] Ragacious got killed by Survivor (Shamans) with M4-A1 from a distance of 84 m.
+23:32:47.085 [VehicleDestroyed] PONTIAC_rust (id=2E9EA7C71B4041E241DB7092A8AB8E95 pos=<12125.895508, 77.504730, 7815.326172>)

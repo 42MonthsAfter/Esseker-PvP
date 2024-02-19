@@ -1,0 +1,6 @@
+05:52:37.296 [AI Patrol] Spawning 3 Shamans bots at <7601.507324, 254.674835, 7634.470215>
+05:56:10.322 [VehicleEnter] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646378, 6941.169922>) as driver
+05:56:12.480 [VehicleEngine] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646393, 6941.169922>)
+05:56:16.783 [VehicleLeave] Player mikluzz [uid=3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<8052.655762, 146.646393, 6941.169922>)
+05:57:45.472 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Military
+05:57:55.468 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Military

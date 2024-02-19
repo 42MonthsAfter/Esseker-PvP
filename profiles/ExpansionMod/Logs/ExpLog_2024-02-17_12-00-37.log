@@ -1,0 +1,22 @@
+15:45:34.597 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=1 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+15:49:27.476 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10117.359375, 129.750656, 7928.949707>) as driver
+15:49:30.382 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10117.359375, 129.750656, 7928.949707>)
+15:50:40.351 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Medical
+15:51:20.351 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer
+16:06:08.480 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10117.359375, 129.750656, 7928.949707>) as driver
+16:06:10.742 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10117.359375, 129.750656, 7928.949707>)
+16:07:13.367 [AI Patrol] Spawning 3 Shamans bots at <11880.913086, 80.343422, 8047.412109>
+16:08:29.558 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<11667.960938, 107.448921, 7652.990234>)
+16:08:33.386 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<11667.960938, 107.448868, 7652.990234>)
+16:09:02.851 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<11667.960938, 107.448929, 7652.990234>) as driver
+16:09:05.031 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<11667.960938, 107.448837, 7652.990234>)
+16:11:37.562 [AI Patrol] Spawning 3 Shamans bots at <10318.730469, 70.368423, 5499.782715>
+16:13:32.250 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10297.833008, 84.867508, 6023.758301>)
+16:13:35.476 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10297.833008, 84.867523, 6023.758301>)
+16:14:58.437 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10297.944336, 84.558968, 6021.873535>) as driver
+16:15:00.792 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10297.944336, 84.558960, 6021.873535>)
+16:15:21.921 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10312.221680, 92.684906, 6054.084961>)
+16:15:25.218 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10312.221680, 92.684898, 6054.084961>)
+16:27:12.226 [AI Patrol] Spawning 3 Shamans bots at <9037.335938, 104.026199, 5774.706055>
+16:47:39.718 [AI Patrol] Spawning 3 Shamans bots at <10063.979492, 73.459999, 4690.224121>
+17:16:09.687 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=1 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)

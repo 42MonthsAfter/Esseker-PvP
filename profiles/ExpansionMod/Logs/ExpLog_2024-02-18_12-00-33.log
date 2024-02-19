@@ -1,0 +1,74 @@
+13:46:36.644 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Medical
+13:47:06.640 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Basebuilding
+14:14:07.386 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) joinded the party "Goochieeeee" (id=3 ownerUID= ownerName=)
+14:14:07.386 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) created a party named Goochieeeee ()
+14:16:50.445 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) invited the player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=)to the party named Goochieeeee
+14:17:07.746 [Party] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=) joinded the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+14:23:36.218 [AI Patrol] Spawning 3 Shamans bots at <6209.745117, 257.039917, 9759.313477>
+14:24:55.835 [AI Patrol] Spawning 3 Shamans bots at <7647.209961, 245.883881, 7556.882324>
+14:46:48.839 [AI Patrol] Spawning 3 Shamans bots at <10222.846680, 89.780701, 9773.774414>
+14:49:44.949 [AI Patrol] Spawning 3 Shamans bots at <7010.524414, 247.224228, 7870.954102>
+15:06:23.453 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<4a0bf0f0> at <7679.27, 246.27, 7566.49> EXPLOSION range 20 dropoff 5
+15:06:23.453 [ExplosionDamageSystem] Queued FlashGrenade<4a0bf0f0> FlashGrenade_Ammo for ExpansionSafeLarge<72fad6d0> - count: 1
+15:06:23.488 [ExplosionDamageSystem] ExpansionSafeLarge<72fad6d0> at <7679.08, 246.21, 7563.6> was not hit by FlashGrenade_Ammo from FlashGrenade<4a0bf0f0> at <7679.27, 246.27, 7566.49> - applying direct EXPLOSION damage coef 1
+15:06:23.488 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<72fad6d0> at <7679.083984, 246.210434, 7563.598633> has been hit by explosive FlashGrenade<4a0bf0f0>
+15:06:23.488 [ExplosionDamageSystem] Dequeued FlashGrenade<4a0bf0f0> FlashGrenade_Ammo for ExpansionSafeLarge<72fad6d0> - count: 0
+15:06:23.488 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+15:06:23.488 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <7679.08, 246.21, 7563.6>
+15:06:23.488 [BaseBuildingRaiding] They dealt 5 * 17 = 85 damage with FlashGrenade_Ammo from FlashGrenade
+15:06:23.492 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20000 to 19915
+15:06:23.492 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+15:06:56.855 [VehicleEnter] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.471191, 245.627701, 7614.122559>) as driver
+15:06:59.710 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] started vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.471191, 245.627686, 7614.122559>)
+15:07:10.531 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] stopped vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.471191, 245.627701, 7614.122559>)
+15:07:13.710 [VehicleLeave] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.471191, 245.627686, 7614.122559>)
+15:10:09.820 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) invited the player "MR-PMB77" (id=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=)to the party named Goochieeeee
+15:10:15.941 [Party] Player "MR-PMB77" (id=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=) joinded the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+15:10:24.773 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<4a0a3eb0> at <7707.61, 245.76, 7554.79> EXPLOSION range 20 dropoff 5
+15:13:06.664 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<4a0b2ff0> at <7707.17, 245.73, 7604.68> EXPLOSION range 20 dropoff 5
+15:13:53.640 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Military
+15:14:13.640 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer
+15:37:48.167 [VehicleEnter] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.563965, 245.627686, 7614.166016>) as driver
+15:37:51.515 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] started vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.563965, 245.627686, 7614.166016>)
+15:38:08.445 [VehicleEnter] Player EAVOOO [uid=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.563965, 245.627686, 7614.166016>) as passenger
+15:38:34.320 [VehicleEnter] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<7688.272949, 245.628006, 7612.346680>) as passenger
+15:41:43.390 [VehicleLeave] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6935.699707, 228.388260, 7652.636230>)
+15:41:44.351 [VehicleLeave] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6935.699707, 228.388260, 7652.636230>)
+15:41:44.843 [VehicleLeave] Player EAVOOO [uid=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6935.699707, 228.388260, 7652.636230>)
+15:43:55.058 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) left the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+15:44:45.851 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) joinded the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+15:49:45.437 [VehicleEnter] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6935.715820, 228.443085, 7652.642090>) as driver
+15:49:47.320 [VehicleEnter] Player EAVOOO [uid=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6935.716309, 228.443130, 7652.641602>) as passenger
+15:49:53.867 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] started vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6935.717773, 228.443314, 7652.640137>)
+15:50:02.648 [VehicleEnter] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6935.719727, 228.443512, 7652.638184>) as passenger
+15:50:15.140 [VehicleLeave] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6923.516602, 227.249603, 7646.117188>)
+15:50:27.484 [VehicleEnter] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6923.516602, 227.249603, 7646.117676>) as driver
+15:55:51.843 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] stopped vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6131.906738, 127.106010, 6179.899902>)
+15:56:02.117 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] started vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6131.906738, 127.106026, 6179.899902>)
+15:56:54.937 [AI Patrol] Spawning 3 Shamans bots at <4700.528320, 176.830215, 5104.675781>
+15:58:12.773 [VehicleLeave] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<4869.140625, 173.971756, 5148.923828>)
+15:58:14.007 [VehicleLeave] Player EAVOOO [uid=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<4869.140625, 173.971771, 5148.923828>)
+15:58:15.671 [VehicleLeave] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<4869.140625, 173.971771, 5148.923828>)
+16:02:06.687 [VehicleEnter] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<4869.140625, 173.971741, 5148.923828>) as driver
+16:02:12.890 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] started vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<4869.140625, 173.971741, 5148.923828>)
+16:02:25.164 [VehicleEnter] Player EAVOOO [uid=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<4869.140625, 173.971771, 5148.923828>) as passenger
+16:02:29.128 [VehicleEnter] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<4869.140625, 173.971756, 5148.923828>) as passenger
+16:04:47.140 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] stopped vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6430.469727, 139.346710, 5413.862793>)
+16:04:50.699 [VehicleLeave] Player EAVOOO [uid=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6430.469727, 139.346710, 5413.862793>)
+16:04:51.800 [VehicleLeave] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6430.469727, 139.346710, 5413.862793>)
+16:04:56.957 [VehicleLeave] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6430.469727, 139.346710, 5413.862793>)
+16:16:17.851 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) left the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+16:16:39.046 [Party] Player "MR-PMB77" (id=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=) left the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+16:17:01.042 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) joinded the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+16:21:33.324 [Party] Player "MR-PMB77" (id=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=) joinded the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+16:29:24.437 [Party] Player "MR-PMB77" (id=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=) left the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+16:40:33.640 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Medical
+16:40:43.640 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Military
+16:41:34.804 [AI Patrol] Spawning 3 Shamans bots at <10010.103516, 73.459999, 4718.756348>
+16:41:43.750 [AI Patrol] Spawning 3 Shamans bots at <9824.598633, 79.796974, 5562.807617>
+16:43:09.062 [AI Patrol] Spawning 3 Shamans bots at <10325.707031, 69.947945, 5488.786621>
+16:52:02.679 [VehicleEnter] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10355.578125, 73.500351, 4858.171875>) as driver
+16:52:05.539 [VehicleEngine] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10355.578125, 73.500351, 4858.171875>)
+16:53:08.925 [VehicleLeave] Player shiftyj03 [uid=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<9897.604492, 73.500343, 4773.018066>)
+16:56:37.085 [Party] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=) left the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+17:09:30.929 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) left the party "Goochieeeee" (id=3 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
