@@ -1,0 +1,12 @@
+18:21:01.414 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: EmLelcSnKOlFwzP9O8ou_EoQxfd6Ek973AD99RlCuZM=
+18:26:08.132 [MissionAirdrop] An airdrop is heading towards "Novi Grad" (pos=<12044.428711, 0.000000, 8104.010254> type=Random_Novi Grad) with a ExpansionAirdropContainer_Military
+18:33:30.265 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2vJQ9H4xRPpkXTcG0tr3wO1Jw_2JVRlhmfWyPHeIIos=
+18:33:30.265 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 2vJQ9H4xRPpkXTcG0tr3wO1Jw_2JVRlhmfWyPHeIIos=
+18:45:02.921 [Safezone] Player "TheEmptyLord" (id=EmLelcSnKOlFwzP9O8ou_EoQxfd6Ek973AD99RlCuZM= pos=<10039.563477, 158.729156, 7998.142090>) Entered the safezone
+18:45:45.562 [Expansion Quests] - CompleteQuest - Player with UID EmLelcSnKOlFwzP9O8ou_EoQxfd6Ek973AD99RlCuZM= has completed quest 99
+18:46:30.554 [AI Patrol] Spawning 3 Shamans bots at <10052.299805, 78.515755, 9774.247070>
+21:07:24.625 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+21:07:25.132 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer
+21:13:13.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+21:13:13.039 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+22:34:05.156 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Basebuilding

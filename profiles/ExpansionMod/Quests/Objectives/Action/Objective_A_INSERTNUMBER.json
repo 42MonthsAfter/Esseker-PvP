@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Collect Your Own Blood",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionCollectBloodSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

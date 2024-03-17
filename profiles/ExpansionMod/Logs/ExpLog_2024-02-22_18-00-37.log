@@ -1,0 +1,170 @@
+18:01:38.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8E2LsKxdHWCviXJQrDTrreBl0RBjz2xvzeFvgSyBOsE=
+18:01:38.601 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:01:38.601 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8E2LsKxdHWCviXJQrDTrreBl0RBjz2xvzeFvgSyBOsE=
+18:01:44.867 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+18:01:44.871 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=
+18:01:44.871 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 2
+18:01:44.871 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=
+18:01:44.878 [AI Patrol] Spawning 3 Shamans bots at <7702.237305, 245.690002, 7617.725098>
+18:01:45.843 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:02:42.105 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=
+18:02:42.105 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:02:42.105 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=
+18:06:43.917 [MissionAirdrop] An airdrop is heading towards "Kula" (pos=<4978.740234, 0.000000, 4995.410156> type=Random_Kula) with a ExpansionAirdropContainer_Basebuilding
+18:09:03.191 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+18:09:03.195 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:09:03.195 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:09:03.199 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:09:04.167 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:09:37.792 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) invited the player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=)to the party named theboys
+18:09:39.433 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+18:09:40.433 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:11:31.585 [AI Patrol] Spawning 3 Shamans bots at <9117.523438, 93.857964, 5592.375000>
+18:12:45.820 [AI Patrol] Spawning 3 Shamans bots at <6814.977051, 238.228027, 7826.095703>
+18:22:54.820 [AI Patrol] Spawning 3 Shamans bots at <10122.531250, 80.068939, 9769.046875>
+18:27:02.828 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+18:27:07.718 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<7786.087891, 87.975250, 5775.114746>) as driver
+18:27:10.257 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<7786.089355, 87.975334, 5775.116211>)
+18:28:36.109 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6642.316406, 100.704102, 6060.994629>)
+18:28:40.492 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6642.316895, 100.704102, 6060.995605>)
+18:29:27.257 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6642.315918, 100.704124, 6060.991211>) as driver
+18:29:29.265 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6642.317383, 100.704102, 6060.993164>)
+18:29:44.242 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6582.265625, 103.880554, 6083.511719>)
+18:30:33.500 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6582.266113, 103.880463, 6083.514160>) as driver
+18:30:35.601 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6582.266113, 103.880455, 6083.514160>)
+18:31:12.593 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6276.158691, 132.586151, 6076.218750>)
+18:31:20.054 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6276.158203, 132.585953, 6076.222656>) as driver
+18:31:22.359 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6276.158203, 132.585968, 6076.222656>)
+18:31:32.812 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6252.535645, 133.508957, 6071.040039>)
+18:31:36.203 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6252.535156, 133.508957, 6071.040527>)
+18:31:55.976 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6252.533203, 133.508850, 6071.046387>) as driver
+18:31:58.328 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6252.533203, 133.508850, 6071.046387>)
+18:32:12.976 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6262.365234, 133.860718, 6091.673340>)
+18:32:16.359 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6262.361816, 133.860687, 6091.673340>)
+18:37:32.031 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+18:40:35.867 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+18:40:35.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=
+18:40:35.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:40:35.875 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=
+18:40:36.851 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:42:08.312 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+18:42:08.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=
+18:42:08.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:42:08.320 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=
+18:42:09.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:59:56.218 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6229.604492, 133.452896, 6094.468750>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6226.731445, 133.424667, 6093.026367>)
+19:00:12.617 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6224.241211, 133.420547, 6094.981934>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6226.731445, 133.424667, 6093.026367>)
+19:02:41.062 [Safezone] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= pos=<10035.319336, 153.323288, 7935.053711>) Entered the safezone
+19:03:03.000 [Safezone] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<10033.610352, 154.450974, 7939.120117>) Entered the safezone
+19:03:56.843 [Expansion Quests] - CompleteQuest - Player with UID w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= has completed quest 99
+19:04:08.820 [Expansion Quests] - CompleteQuest - Player with UID ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= has completed quest 99
+19:05:04.023 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:05:25.851 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+19:05:46.921 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+19:19:59.656 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:19:59.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:19:59.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:19:59.656 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:20:00.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:24:11.570 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:27:08.898 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:27:08.906 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:27:08.906 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:27:08.906 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:27:09.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:31:13.960 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Basebuilding
+19:35:40.757 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6262.366699, 133.860703, 6091.673340>) as driver
+19:35:42.804 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6262.366699, 133.860703, 6091.673340>)
+19:36:55.476 [AI Patrol] Spawning 3 Shamans bots at <5078.004395, 160.194656, 5151.190430>
+19:39:45.304 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:40:26.710 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:40:26.710 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:40:26.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:40:26.710 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:40:27.687 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:41:30.773 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6430.469727, 139.346710, 5413.862793>) as driver
+19:41:33.179 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6430.469727, 139.346710, 5413.862793>)
+19:41:39.054 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Cougar Rust kamo (id=9FBFD19823434FEAF004B0A97719D442 pos=<6430.469727, 139.346710, 5413.862793>)
+19:46:27.640 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6455.527344, 133.526123, 5373.165039>) as driver
+19:46:30.578 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6455.524902, 133.526169, 5373.165039>)
+19:46:51.750 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6523.023926, 129.244110, 5466.825195>)
+19:49:55.007 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6523.023438, 129.244080, 5466.826172>) as driver
+19:49:57.187 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6523.020996, 129.244217, 5466.829102>)
+19:54:02.554 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6242.383789, 133.442062, 6079.929688>)
+19:54:06.156 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6242.383789, 133.442062, 6079.929688>)
+20:12:03.562 [Safezone] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<10177.918945, 133.443787, 7946.170410>) Entered the safezone
+20:12:03.562 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+20:12:03.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=
+20:12:03.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+20:12:04.539 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+20:12:05.289 [BaseRaiding] ExpansionWall6x3 (<6263.049805, 133.432968, 6072.664063>) Code set by player "Sharkparty" (ID = "2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=" at <6261.946289, 133.415024, 6074.956055>) and the code is 196500
+20:12:07.031 [Safezone] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= pos=<10155.195313, 145.859482, 7980.592773>) Entered the safezone
+20:12:07.031 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+20:12:07.046 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=
+20:12:07.046 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+20:12:08.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+20:23:04.585 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= for quest 1
+20:23:36.078 [Expansion Quests] - CancelQuestServer - Player with UID w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= has cancelled quest 1
+20:23:48.367 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= for quest 31
+20:23:50.453 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= for quest 31
+20:24:21.671 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= for quest 2
+20:24:28.976 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= for quest 2
+20:25:19.812 [Safezone] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= pos=<10213.896484, 120.705536, 7871.185547>) Left the safezone
+20:25:30.695 [Safezone] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<10218.511719, 118.469490, 7847.464844>) Left the safezone
+20:27:45.328 [AI Patrol] Spawning 3 Shamans bots at <11756.425781, 83.919998, 7909.957520>
+20:57:32.656 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6230.503418, 133.452072, 6093.566406>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6226.731445, 133.424667, 6093.026367>)
+20:57:38.320 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6226.731445, 133.424652, 6093.026367>) as driver
+20:57:40.867 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6226.731445, 133.424652, 6093.026367>)
+20:57:55.921 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.289063, 133.419525, 6092.980957>)
+20:57:59.898 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.289063, 133.419525, 6092.980957>)
+20:58:08.265 [Safezone] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= pos=<10229.515625, 151.490326, 7945.298340>) Entered the safezone
+20:58:21.734 [Safezone] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<10228.729492, 150.407730, 7943.065918>) Entered the safezone
+20:59:16.187 [Expansion Quests] - CompleteQuest - Player with UID ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= has completed quest 2
+20:59:18.898 [Expansion Quests] - CompleteQuest - Player with UID w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= has completed quest 2
+20:59:33.132 [Expansion Quests] - CompleteQuest - Player with UID ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= has completed quest 31
+20:59:49.757 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= for quest 32
+21:00:55.515 [ATM] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) has deposited 100 on his ATM account.
+21:01:05.929 [Market] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) has send a requested to purchase vitaminbottle x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>).
+21:01:06.031 [Market] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) has bought vitaminbottle x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>) for a price of 460.
+21:01:26.265 [ATM] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) has deposited 140 on his ATM account.
+21:02:50.492 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Basebuilding
+21:04:04.242 [Safezone] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<10055.237305, 169.794586, 8070.897949>) Left the safezone
+21:05:19.968 [Safezone] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= pos=<10083.612305, 176.713486, 8096.435547>) Left the safezone
+21:16:05.195 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6224.009277, 133.429672, 6095.204590>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.289063, 133.419525, 6092.980957>)
+21:17:38.171 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+21:24:37.343 [Safezone] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= pos=<10071.796875, 159.625900, 8040.274902>) Entered the safezone
+21:25:10.554 [Safezone] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<10064.472656, 159.280807, 8034.211914>) Entered the safezone
+21:27:08.062 [Expansion Quests] - CompleteQuest - Player with UID w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= has completed quest 31
+21:27:19.078 [ATM] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) has withdrawn 140 from his ATM account.
+21:27:24.656 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= for quest 32
+21:28:42.523 [ATM] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) has deposited 640 on his ATM account.
+21:31:37.921 [Expansion Quests] - CancelQuestServer - Player with UID w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= has cancelled quest 32
+21:31:43.023 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= for quest 9
+21:31:59.750 [Expansion Quests] - CancelQuestServer - Player with UID w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= has cancelled quest 9
+21:32:28.953 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= for quest 32
+21:59:57.171 [Safezone] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<10052.261719, 169.104874, 8066.690430>) Left the safezone
+21:59:58.242 [Safezone] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= pos=<10046.583008, 169.386856, 8066.034180>) Left the safezone
+22:04:46.515 [AI Patrol] Spawning 3 Shamans bots at <8320.510742, 138.285339, 9124.402344>
+22:18:26.148 [BaseRaiding] ExpansionSafeLarge (<8408.488281, 125.275566, 9122.916016>) Code set by player "kinda nice" (ID = "ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=" at <8406.664063, 125.320648, 9122.678711>) and the code is 1818
+22:37:52.500 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer
+22:43:53.921 [Territory] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) created territory theboys at <8406.994141, 125.279755, 9127.599609>
+22:44:23.406 [BaseRaiding] ExpansionSafeMini (<8408.615234, 125.275208, 9122.479492>) Code set by player "kinda nice" (ID = "ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=" at <8406.860352, 125.320091, 9122.473633>) and the code is 1818
+22:45:18.218 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8E2LsKxdHWCviXJQrDTrreBl0RBjz2xvzeFvgSyBOsE=
+22:45:18.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:45:18.218 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8E2LsKxdHWCviXJQrDTrreBl0RBjz2xvzeFvgSyBOsE=
+23:04:48.429 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=
+23:04:48.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:06:39.468 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) invited the player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=)to the party named theboys
+23:06:44.234 [Party] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+23:06:45.242 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+23:29:59.234 [VehicleEnter] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<11798.491211, 83.878632, 7861.645020>) as driver
+23:30:02.429 [VehicleEngine] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<11798.491211, 83.878624, 7861.645020>)
+23:30:08.593 [Territory] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw= pos=<11796.412109, 85.585579, 7868.938965>) was invited to join the territory theboys at <8406.994141, 125.279755, 9127.599609> by the player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=)
+23:30:10.023 [Territory] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U= pos=<8477.593750, 119.575821, 9129.519531>) was invited to join the territory theboys at <8406.994141, 125.279755, 9127.599609> by the player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=)
+23:32:05.539 [Safezone] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw= pos=<10200.716797, 124.865768, 7889.103516>) Entered the safezone
+23:32:25.171 [Safezone] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw= pos=<9930.732422, 142.315231, 7849.917480>) Left the safezone
+23:36:38.125 [VehicleEngine] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8391.389648, 124.888641, 9124.295898>)
+23:36:46.140 [VehicleLeave] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8391.389648, 124.888634, 9124.295898>)
+23:58:14.710 [Party] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+23:58:39.500 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+23:58:43.765 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)

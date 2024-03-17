@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 21,
+    "ID": 42,
+    "Type": 1,
+    "Title": "Kill 5 Zombies with an IJ",
+    "Descriptions": [
+        "Your good at the silent killing, but that's easier than making a lot of noise, isn't it? How about you try killing 5 zombies with an IJ?",
+        "Might be easier if you got yourself a silencer.",
+        "Well done. Think you are down for making more noise next time?."
+    ],
+    "ObjectiveText": "Kill 5 Zombies with an IJ",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AR70",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_AR70_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AR70_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 27,
+            "ID": 42,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

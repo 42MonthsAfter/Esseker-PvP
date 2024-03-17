@@ -1,0 +1,49 @@
+10:48:21.234 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+10:48:21.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+10:48:21.242 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+10:48:21.242 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+10:48:22.207 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+10:53:30.710 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Military
+11:04:18.992 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6228.572266, 133.439224, 6094.440918>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.289063, 133.419525, 6092.980957>)
+11:04:24.496 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.289063, 133.419510, 6092.980957>) as driver
+11:04:26.804 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.289063, 133.419525, 6092.980957>)
+11:04:44.578 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6255.480957, 133.508804, 6072.374023>)
+11:05:16.742 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6255.480957, 133.508789, 6072.374023>) as driver
+11:05:19.023 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6255.480957, 133.508804, 6072.374023>)
+11:05:39.929 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6287.046387, 133.419937, 6052.819336>)
+11:05:58.289 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6287.046387, 133.419937, 6052.819336>) as driver
+11:06:00.519 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6287.046387, 133.419968, 6052.819336>)
+11:07:07.097 [AI Patrol] Spawning 3 Shamans bots at <5116.577637, 156.926041, 5092.799316>
+11:09:36.062 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+11:10:43.742 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+11:10:43.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+11:10:43.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+11:10:43.750 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+11:10:44.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+11:10:59.890 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6557.223633, 126.346184, 5503.446289>) as driver
+11:11:02.015 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6557.224121, 126.346169, 5503.446289>)
+11:11:39.734 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6443.943848, 126.795334, 5509.686523>)
+11:11:43.492 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6443.943848, 126.795334, 5509.686523>)
+11:29:34.562 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.165527, 121.768326, 5559.003906>) as driver
+11:29:36.898 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.165527, 121.768333, 5559.003906>)
+11:29:41.988 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.165527, 121.768333, 5559.003906>)
+11:29:47.023 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.165527, 121.768326, 5559.003906>)
+11:31:32.187 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.165527, 121.768333, 5559.003906>) as driver
+11:31:34.703 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.166016, 121.768326, 5559.003906>)
+11:32:03.734 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.387207, 121.768326, 5559.731934>)
+11:32:07.039 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle UAZ469 (Rust) (id=A340A8CCC94D3C65AA6CCA85F31A2FE4 pos=<6406.387207, 121.768333, 5559.731934>)
+11:36:45.429 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6443.943848, 126.795326, 5509.686523>) as driver
+11:36:50.031 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6443.943848, 126.795326, 5509.686523>)
+11:36:55.023 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6443.943848, 126.795326, 5509.686523>)
+11:37:11.609 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6443.943848, 126.795326, 5509.686523>) as driver
+11:41:06.953 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6280.792969, 131.520187, 6078.653809>)
+11:41:10.531 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6280.792969, 131.520203, 6078.653809>)
+11:41:26.964 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6280.792969, 131.520187, 6078.653809>) as driver
+11:41:29.414 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6280.792969, 131.520203, 6078.653809>)
+11:41:42.855 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6255.273926, 133.490921, 6073.537598>)
+11:41:55.984 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6255.273926, 133.490921, 6073.537598>) as driver
+11:41:58.210 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6255.273926, 133.490936, 6073.537598>)
+11:42:34.777 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6238.173340, 133.423798, 6088.212402>)
+11:42:38.769 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6238.173340, 133.423813, 6088.212402>)
+11:54:43.972 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6237.575195, 133.357727, 6091.707520>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6238.173828, 133.423798, 6088.212402>)
+11:55:36.609 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)

@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 21,
+    "ID": 13,
+    "Type": 1,
+    "Title": "Collect 6 Flashlights",
+    "Descriptions": [
+        "In case you haven't noticed yet, it's dark AF at night around these parts. I could use your help getting me some flashlights to help brighten up the Holler.",
+        "Seriously, I'm scared of the dark. Get out there and get back to me.",
+        "Look at you, getting anything done I ask. I'm going to have to up the stakes on the next one."
+    ],
+    "ObjectiveText": "Collect 6 Flashlights",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_FNS9",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_FNS9_mag_18Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_FNS9_mag_18Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 13,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

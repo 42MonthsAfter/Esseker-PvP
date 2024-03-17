@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 99,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the Safe Zone",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10170.6,  
+        133.123,
+        7950.31
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "The Holler",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

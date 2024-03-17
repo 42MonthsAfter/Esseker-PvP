@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 6,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Pakshu",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5011.7, 
+        208.628, 
+        8730.02
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Pakshu",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

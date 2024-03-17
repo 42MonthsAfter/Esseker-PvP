@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 21,
+    "ID": 38,
+    "Type": 1,
+    "Title": "Kill 20 Military Zombies",
+    "Descriptions": [
+        "This one shouldn't be too hard for badass like yourself. Knock out some military zombies and get back to me.",
+        "Seriously? This is almost easier than the ones before. What's wrong with you?",
+        "Rolling murder machine. Well done! Take this for your troubles."
+    ],
+    "ObjectiveText": "Kill 20 Military Zombies",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AK9",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_AK9_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AK9_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 27,
+            "ID": 38,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

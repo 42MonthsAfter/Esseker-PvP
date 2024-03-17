@@ -1,0 +1,6 @@
+11:55:08.890 [Party] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=) joinded the party "decoratedshamus" (id=3 ownerUID=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8= ownerName=decoratedshamus)
+11:55:08.906 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=
+11:55:08.906 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 3
+11:55:08.906 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=
+11:55:09.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+11:59:12.132 [Party] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=) left the party "decoratedshamus" (id=3 ownerUID=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8= ownerName=decoratedshamus)

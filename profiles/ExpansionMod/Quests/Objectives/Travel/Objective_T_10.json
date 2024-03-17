@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 10,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visti Kamen Quarry",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        11150.5, 
+        134.64, 
+        9102.13
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Visit Kamen Quarry",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

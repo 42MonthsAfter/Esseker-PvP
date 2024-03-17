@@ -16,7 +16,23 @@
     "EnableServerMarkers": 1,
     "ShowNameOnServerMarkers": 1,
     "ShowDistanceOnServerMarkers": 1,
-    "ServerMarkers": [],
+    "ServerMarkers": [
+        {
+            "m_UID": "TheHoller",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "The Holler",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                10131.0,
+                132.59869384765626,
+                7960.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
     "EnableHUDCompass": 1,
     "NeedCompassItemForHUDCompass": 1,
     "NeedGPSItemForHUDCompass": 1,

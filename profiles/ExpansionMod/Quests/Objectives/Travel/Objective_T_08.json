@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Adela Airfield",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10017.7, 
+        73.46,  
+        4806.62
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Adela Airfield",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

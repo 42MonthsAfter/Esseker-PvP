@@ -2,18 +2,18 @@
     "ConfigVersion": 21,
     "ID": 19,
     "Type": 1,
-    "Title": "Where Kings Walk",
+    "Title": "Collect 6 Cans of KVASS",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "So here is the deal, I got dumped. My girlfriend wrote me from Canada to break things off. Can you believe that? Any chance you can round up some beer so I can drink away my sorrows?",
+        "No I can't show you a picture of her. Yes, she is totally real. Whats your problem?",
+        "Time to put on some old sad bastard music and throw back some room temp brews. You're the best."
     ],
-    "ObjectiveText": "PLACEHOLDER",
+    "ObjectiveText": "Collect 6 Cans of KVASS",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
-    "CancelQuestOnPlayerDeath": 0,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
@@ -21,18 +21,35 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 500,
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_Glock18Honor",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_Glock18Honor_mag_17Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_Glock18Honor_mag_17Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
         1
     ],
@@ -42,25 +59,22 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 4,
-            "ObjectiveType": 2
+            "ConfigVersion": 27,
+            "ID": 19,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        17,
-        18
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

@@ -1,0 +1,115 @@
+18:02:00.371 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:02:00.371 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:02:00.371 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:07:02.867 [MissionAirdrop] An airdrop is heading towards "Pilana Sawmill" (pos=<9112.919922, 0.000000, 8000.439941> type=Random_Pilana Sawmill) with a ExpansionAirdropContainer_Basebuilding
+18:07:47.554 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Bob" (id=3 ownerUID= ownerName=)
+18:07:47.554 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) created a party named Bob (Boob)
+18:07:48.554 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 3
+18:17:41.359 [AI Patrol] Spawning 3 Shamans bots at <7726.876465, 245.690002, 7624.263672>
+18:32:38.007 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+18:32:38.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:32:38.015 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:32:38.015 [Expansion Quests] - Create new quest instance for quest: 35 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:32:38.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:34:42.562 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): hey cap leave your group and join mine
+18:34:58.382 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Bob" (id=3 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+18:35:11.382 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) invited the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)to the party named Sharkparty
+18:35:34.164 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+18:35:35.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:36:07.375 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I hopped into a vc on 42
+18:36:23.398 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): ok I'm in another vc right now but I'll join you in a bit
+18:36:36.414 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): you should see my base marker on your map now
+18:36:38.984 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Ok, no wories.
+18:37:13.523 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Im on the way.  These wolves are terrible.
+18:37:25.585 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): want me to come pick you up?
+18:37:55.554 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Nah.  Im checking out the countryside now lol
+18:38:22.718 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): k, careful there's AI here too
+18:38:45.796 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I got a Kar and pistol lol
+18:39:12.750 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): as long as you're wandering around you might as well go to holler
+18:39:26.625 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): get a quest so you can get a better gun
+18:39:57.382 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): On my way to the holler then
+18:41:26.382 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Are AI at all military?
+18:43:00.460 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): I'm not sure
+18:43:21.507 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): they werent at that mili youre at now when I was there earlier
+18:43:33.875 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): They are there now lol
+18:43:41.335 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): oh damn
+18:44:03.218 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I bounced right out of there.
+18:45:40.648 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): they probably wander around like in Alteria
+18:45:57.460 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): but I havent seen them here in Gulash
+18:46:29.820 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I noticed the loot is higher here than alteria.
+18:49:35.703 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): yeah
+18:50:50.085 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10040.034180, 149.300949, 7918.923828>) Entered the safezone
+18:51:43.906 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): its still not super high though, I just today found NVGs
+18:53:17.851 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6249.146484, 133.481781, 6074.738281>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6251.120117, 133.528198, 6072.679199>)
+18:55:06.890 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 99
+18:57:12.328 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Its not bad at all.  The holler definitely needs some lights though.
+18:57:30.820 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): for sure
+18:58:40.906 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6251.120117, 133.528183, 6072.679199>) as driver
+18:58:43.296 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6251.120117, 133.528183, 6072.679199>)
+18:58:49.867 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6251.120117, 133.528168, 6072.679199>)
+18:59:04.593 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6251.120117, 133.528168, 6072.679199>) as driver
+18:59:07.460 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6251.120117, 133.528168, 6072.679199>)
+18:59:21.460 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6278.409668, 132.108429, 6077.467773>)
+18:59:33.757 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6278.409180, 132.108429, 6077.467773>) as driver
+18:59:36.289 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6278.409668, 132.108414, 6077.467773>)
+19:00:16.757 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): do you have a specific vehicle you want?
+19:00:29.343 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): I know where most of them are
+19:02:13.898 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<7862.514648, 89.243813, 5711.441406>)
+19:02:18.757 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<7862.514648, 89.243820, 5711.441406>)
+19:02:44.601 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<7864.698242, 89.319557, 5709.405762>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<7862.514648, 89.243797, 5711.441406>)
+19:07:13.781 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Ill drive anything.
+19:10:50.718 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= for quest 31
+19:12:17.843 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10258.681641, 136.264664, 7879.684570>) Left the safezone
+19:13:39.500 [AI Patrol] Spawning 3 Shamans bots at <11679.024414, 79.357414, 8012.767578>
+19:15:28.414 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Im heading east to kill some zombies then Im gonna turn in my quest on my way back to your spot.
+19:15:44.242 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): sounds good
+19:15:56.109 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): careful in novi grad, I've seen AI there
+19:20:30.359 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Ai
+19:27:57.250 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): gotta log for a bit brb
+19:28:16.132 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:35:02.867 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+19:46:19.210 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+19:46:19.218 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:46:19.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:46:19.218 [Expansion Quests] - Create new quest instance for quest: 35 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:46:20.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:47:01.312 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): you good?
+19:50:22.500 [AI Patrol] Spawning 3 Shamans bots at <9754.365234, 86.399017, 5688.965820>
+19:51:46.773 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I am now.  I took out AI and a bunch of zombies lol
+19:52:30.687 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): nice, that should be a good haul
+19:53:31.265 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Well I picked up an AUR but I can't get it to take the mag.
+20:02:37.390 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): When my blood stabilizes Ill be heading back your way
+20:12:19.570 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): ok
+20:12:28.820 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): pick up any barbed wire you see
+20:12:43.695 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): will do
+20:13:26.234 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): oooo someone left a land mine here
+20:13:39.484 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): How fun
+20:21:22.539 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10230.260742, 156.837936, 7957.375488>) Entered the safezone
+20:21:50.062 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 31
+20:22:40.203 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= for quest 32
+20:26:07.328 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<10027.472656, 137.347336, 7845.963379>) Left the safezone
+20:34:50.710 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<7865.859863, 89.454704, 5710.002930>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<7862.514648, 89.243797, 5711.441406>)
+20:40:15.765 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<7862.514648, 89.243797, 5711.441406>) as driver
+20:40:18.093 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<7862.514648, 89.243782, 5711.441406>)
+20:42:04.992 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<7715.425781, 148.676468, 6691.451172>) as passenger
+20:44:14.937 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6278.891113, 131.883011, 6079.141113>)
+20:44:21.765 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6278.891113, 131.883057, 6079.141113>)
+20:44:31.101 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6278.891113, 131.883011, 6079.141113>) as driver
+20:44:33.453 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6278.891113, 131.883011, 6079.141113>)
+20:44:48.070 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6243.371582, 133.525879, 6076.266113>)
+20:44:51.375 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6243.371582, 133.525879, 6076.266113>)
+20:45:01.445 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6247.321289, 133.527466, 6072.371582>) was invited to join the territory Calgacus at <6245.524902, 133.328598, 6085.719238> by the player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)
+20:53:05.156 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+20:55:17.007 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6243.371582, 133.525879, 6076.266113>) as driver
+20:55:19.578 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6243.371582, 133.525879, 6076.266113>)
+20:55:52.101 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.904785, 133.428650, 6093.451660>)
+20:55:55.578 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.904785, 133.428650, 6093.451660>)
+21:00:12.343 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6228.792480, 133.446960, 6094.747070>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.904785, 133.428650, 6093.451660>)
+21:07:16.257 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+23:41:45.468 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+23:41:45.468 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:41:45.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:41:45.468 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:41:45.867 [MissionAirdrop] An airdrop is heading towards "Esseker Zoo" (pos=<8981.879883, 0.000000, 5334.158203> type=Random_Esseker Zoo) with a ExpansionAirdropContainer_Medical
+23:41:46.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:59:11.046 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)

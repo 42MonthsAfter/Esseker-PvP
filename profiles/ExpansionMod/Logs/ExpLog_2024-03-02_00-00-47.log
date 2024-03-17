@@ -1,0 +1,4 @@
+00:05:36.934 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+00:05:36.934 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+00:05:36.937 [AI Patrol] Spawning 3 Shamans bots at <10143.704102, 74.989189, 9891.315430>
+00:10:43.303 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Basebuilding

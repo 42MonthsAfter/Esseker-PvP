@@ -1,0 +1,25 @@
+{
+    "m_Version": 12,
+    "DisplayName": "AMMO & MAGAZINES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Ammo_Boxes:0",
+        "Assault_Rifle_Mags:0",
+        "Submachine_Gun_Mags:0",
+        "Sniper_Rifles_Mags:0",
+        "Shotgun_Mags:0",
+        "Rifle_Mags:0",
+        "Pistol_Mags:0",
+        "Cosmetics:0"
+    ],
+    "Items": {}
+}

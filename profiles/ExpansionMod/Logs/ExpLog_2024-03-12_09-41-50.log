@@ -1,0 +1,6 @@
+11:12:08.050 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=
+11:17:15.492 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Military
+11:28:35.351 [Party] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=) joinded the party "decoratedshamus" (id=3 ownerUID= ownerName=)
+11:28:35.351 [Party] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=) created a party named decoratedshamus ()
+11:28:36.351 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 3
+11:40:13.492 [Party] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=) left the party "decoratedshamus" (id=3 ownerUID=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8= ownerName=decoratedshamus)

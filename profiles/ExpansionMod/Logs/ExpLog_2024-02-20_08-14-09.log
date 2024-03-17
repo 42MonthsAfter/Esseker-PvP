@@ -1,0 +1,23 @@
+08:58:21.355 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+08:58:21.355 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+08:58:21.359 [AI Patrol] Spawning 3 Shamans bots at <10503.504883, 62.120049, 5421.732910>
+09:00:20.806 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10312.221680, 92.684860, 6054.084961>) as driver
+09:00:23.111 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<10312.221680, 92.684868, 6054.084961>)
+09:01:18.953 [AI Patrol] Spawning 3 Shamans bots at <10058.975586, 73.459999, 4820.215332>
+09:01:35.275 [AI Patrol] Spawning 3 Shamans bots at <8983.340820, 98.033585, 5705.960449>
+09:01:59.996 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<9921.502930, 79.149963, 5760.123535>)
+09:02:03.667 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Interceptor (id=5532EB8998407BA22B2DDEB03938B446 pos=<9921.502930, 79.149979, 5760.123535>)
+09:03:23.607 [MissionAirdrop] An airdrop is heading towards "Kula" (pos=<4978.740234, 0.000000, 4995.410156> type=Random_Kula) with a ExpansionAirdropContainer
+09:07:10.390 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: kfDhTUDzjcMnJhZc1gwdYwvHGRAj8FY7Y-YwNDv-PiQ=
+09:07:10.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+09:11:32.273 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID= ownerName=)
+09:11:32.273 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) created a party named Sharkparty (SHRK)
+09:11:33.273 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+09:18:30.328 [AI Patrol] Spawning 3 Shamans bots at <8295.566406, 146.871140, 9150.388672>
+09:23:34.000 [Killfeed] SrLimoncio got killed by Survivor (Shamans) with M4-A1 from a distance of 59 m.
+09:31:14.554 [Killfeed] SrLimoncio got killed by Survivor (Shamans) with Pioneer from a distance of 17 m.
+09:40:31.488 [Killfeed] SrLimoncio got killed by Survivor (Shamans) with Pioneer from a distance of 8 m.
+09:45:56.988 [Killfeed] SrLimoncio got killed by Survivor (Shamans) with Pioneer from a distance of 13 m.
+09:52:02.867 [Killfeed] SrLimoncio got killed by Survivor (Shamans) with M4-A1 from a distance of 52 m.
+09:52:36.351 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): lol bro you are relentless
+10:27:48.605 [MissionAirdrop] An airdrop is heading towards "Posestra" (pos=<7953.347656, 0.000000, 6708.730469> type=Random_Posestra) with a ExpansionAirdropContainer_Military

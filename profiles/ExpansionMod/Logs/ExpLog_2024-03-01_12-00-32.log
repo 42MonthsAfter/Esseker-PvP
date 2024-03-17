@@ -1,0 +1,16 @@
+12:37:38.562 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: MIvhIIzfkaybUnjSkMCnvLzQUHnE8aiVDFQApFkOLws=
+12:42:47.925 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+12:51:04.691 [AI Patrol] Spawning 3 Shamans bots at <7569.839844, 257.838684, 7620.577637>
+14:09:32.945 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Medical
+16:06:07.773 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 2vJQ9H4xRPpkXTcG0tr3wO1Jw_2JVRlhmfWyPHeIIos=
+16:06:12.953 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Basebuilding
+16:42:20.718 [AI Patrol] Spawning 3 Shamans bots at <8311.037109, 141.140228, 9133.190430>
+17:21:05.773 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+17:21:05.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+17:21:05.789 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+17:21:05.789 [Expansion Quests] - Create new quest instance for quest: 35 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+17:21:06.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:24:08.500 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6229.050293, 133.453094, 6094.923828>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.904785, 133.428650, 6093.451660>)
+17:29:28.792 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6222.428711, 133.429382, 6094.570313>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=31E878D415478C474878A581AD43ED14 pos=<6225.904785, 133.428650, 6093.451660>)
+17:32:26.957 [MissionAirdrop] An airdrop is heading towards "Pakshu" (pos=<4896.549805, 0.000000, 8645.272461> type=Random_Pakshu) with a ExpansionAirdropContainer_Basebuilding
+17:35:29.324 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)

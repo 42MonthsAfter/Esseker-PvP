@@ -1,0 +1,7 @@
+09:14:43.734 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+09:14:43.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+09:14:43.750 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+09:14:43.750 [Expansion Quests] - Create new quest instance for quest: 35 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+09:14:44.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+09:16:54.871 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+09:19:46.011 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Basebuilding

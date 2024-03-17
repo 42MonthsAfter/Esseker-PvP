@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 5,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Esseker Industrial Zone",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8228.28, 
+        90.7967, 
+        5725.04 
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Esseker Industrial Zone",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

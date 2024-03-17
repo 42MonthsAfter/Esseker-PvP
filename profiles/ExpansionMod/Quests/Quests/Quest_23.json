@@ -2,50 +2,79 @@
     "ConfigVersion": 21,
     "ID": 23,
     "Type": 1,
-    "Title": "Quest chain example [Part 2]",
+    "Title": "Bring Me 3 Lake Trout",
     "Descriptions": [
-        "You can now always cancle this quest in the quest log and accept it there again if needed! You can now go to location B to contine the quest chain example.",
-        "Go to location B.",
-        "You reached location B and now you can accept the last quest when you complete this one!"
+        "Stepping it up a bit. Let's see how you are when it comes to larger fishing game. I need me some trout, perferably of the lake varaity.",
+        "I know they are tougher than minows, but come one. This can't be that difficult.",
+        "Master angeler! Let's see if I can't make things a little tougher for you next time."
     ],
-    "ObjectiveText": "Go to location B",
-    "FollowUpQuest": 24,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "ObjectiveText": "Bring Me 3 Lake Trout",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
-    "NeedToSelectReward": 0,
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_MK23Socom",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_MK23Socom_mag_12Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_MK23Socom_mag_12Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
+    ],
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
-    "QuestGiverIDs": [],
-    "QuestTurnInIDs": [],
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 6,
-            "ObjectiveType": 3
+            "ConfigVersion": 27,
+            "ID": 23,
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        22
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS",
+    "DisplayName": "VEHICLE PARTS",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -12,10 +12,7 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Vehicle_Parts"
+        "Vehicle_Parts:0"
     ],
-    "Items": {
-        "tirerepairkit": 1,
-        "canistergasoline": 1
-    }
+    "Items": {}
 }

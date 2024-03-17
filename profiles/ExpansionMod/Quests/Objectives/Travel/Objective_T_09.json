@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 9,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Maksimilian Resort",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8352.49, 
+        234.568, 
+        8644.69
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Visit Maksimilian Resort",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

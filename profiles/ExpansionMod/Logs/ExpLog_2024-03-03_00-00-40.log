@@ -1,0 +1,6 @@
+00:02:00.990 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 8mPB6N0-mT6in6H3zBdW4O4uHSYQVHazaD8ihNwcuos=
+00:07:06.105 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Medical
+02:12:25.325 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+02:12:27.103 [MissionAirdrop] An airdrop is heading towards "Gargata" (pos=<9701.620117, 0.000000, 8687.152344> type=Random_Gargata) with a ExpansionAirdropContainer_Basebuilding
+03:40:51.103 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+03:41:14.923 [AI Patrol] Spawning 3 Shamans bots at <10617.746094, 59.849998, 5411.337402>

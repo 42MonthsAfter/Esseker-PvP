@@ -1,0 +1,117 @@
+00:07:38.382 [Party] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+00:07:38.388 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=
+00:07:38.389 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+00:07:38.389 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=
+00:07:39.358 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:10:41.577 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+00:10:41.583 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=
+00:10:41.583 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:10:41.583 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=
+00:10:42.553 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:10:49.411 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) joinded the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+00:10:49.417 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=
+00:10:49.417 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:10:49.417 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=
+00:10:50.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:12:46.533 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Basebuilding
+00:24:04.721 [VehicleEnter] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8391.388672, 124.888626, 9124.295898>) as driver
+00:24:09.220 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8391.389648, 124.888626, 9124.295898>)
+00:25:37.589 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8399.812500, 124.889946, 9103.165039>)
+00:25:41.205 [VehicleLeave] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8399.812500, 124.889931, 9103.165039>)
+00:30:00.725 [VehicleEnter] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8399.826172, 124.889954, 9103.105469>) as driver
+00:30:05.772 [VehicleEngine] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8399.826172, 124.889946, 9103.105469>)
+00:31:01.278 [VehicleEngine] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8398.443359, 124.888634, 9109.708008>)
+00:31:06.081 [VehicleLeave] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8398.443359, 124.888634, 9109.708008>)
+00:32:20.124 [VehicleEnter] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8398.443359, 124.888626, 9109.708008>) as driver
+00:32:25.991 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8398.443359, 124.888618, 9109.708008>)
+00:32:45.229 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8415.494141, 125.234985, 9097.623047>) as passenger
+00:32:51.543 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8415.494141, 125.234909, 9097.623047>)
+00:33:06.471 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+00:33:06.481 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:33:06.481 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:33:06.481 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:33:07.449 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:33:32.096 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8420.942383, 125.149696, 9097.300781>) as passenger
+00:34:20.313 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6242.382813, 133.442154, 6079.923828>) as driver
+00:34:22.565 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6242.382813, 133.442154, 6079.923828>)
+00:34:49.264 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6262.236816, 133.859909, 6093.622070>)
+00:34:52.993 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle ToyotaHilux rust (id=0B4A24DCE145C063699A07AEE1E850F6 pos=<6262.239746, 133.859909, 6093.622070>)
+00:36:09.976 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<7998.572754, 174.987564, 8938.477539>)
+00:36:27.006 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<7998.833008, 174.769379, 8939.248047>) as passenger
+00:37:07.857 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+00:39:14.939 [AI Patrol] Spawning 3 Shamans bots at <7765.006836, 240.428940, 7635.918945>
+00:40:00.885 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9231.160156, 203.097855, 8042.645996>)
+00:40:35.695 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9232.561523, 203.083191, 8040.996582>)
+00:40:40.937 [VehicleLeave] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9232.561523, 203.083801, 8040.997559>)
+00:41:12.468 [VehicleEnter] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9230.405273, 203.126694, 8041.872559>) as driver
+00:41:18.460 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9230.405273, 203.126694, 8041.872559>)
+00:41:36.360 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9230.621094, 203.122055, 8041.753418>)
+00:41:46.623 [VehicleLeave] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9230.620117, 203.121994, 8041.752441>)
+00:42:24.765 [VehicleAttachments] Player kinda nice (uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) detached M35a2 Double Wheel Rust (type=M35a2_WheelDouble_Rust) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<9230.925781, 203.105484, 8041.931641>)
+00:43:01.016 [VehicleEnter] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9231.176758, 203.099396, 8041.990723>) as driver
+00:43:04.038 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9231.194336, 203.085754, 8041.999512>)
+00:43:49.989 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9237.327148, 202.863373, 8032.883301>) as passenger
+00:45:59.169 [AI Patrol] Spawning 3 Shamans bots at <9119.401367, 100.871346, 5727.732422>
+00:48:40.810 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8044.931152, 84.702057, 5504.997559>)
+00:48:52.086 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8046.086914, 84.227966, 5499.198730>) as passenger
+00:49:23.723 [VehicleLeave] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8102.304199, 89.391304, 5597.452637>)
+00:49:27.258 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8102.303711, 89.391289, 5597.453125>)
+00:50:35.317 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8102.303711, 89.391289, 5597.453125>) as passenger
+00:51:24.050 [VehicleEnter] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8102.301270, 89.391182, 5597.453125>) as driver
+00:51:28.422 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8102.298828, 89.390854, 5597.454102>)
+00:53:25.190 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8159.762207, 91.151787, 5599.821289>)
+00:53:50.419 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8151.584961, 91.784828, 5607.062988>) as passenger
+00:54:45.744 [VehicleEngine] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8109.576660, 91.058281, 5654.260254>)
+01:02:38.380 [VehicleLeave] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8109.594727, 91.058792, 5654.261719>)
+01:02:40.753 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8109.594727, 91.058777, 5654.261719>)
+01:02:48.079 [VehicleEnter] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8109.594727, 91.058777, 5654.261719>) as passenger
+01:02:50.474 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8109.595215, 91.058784, 5654.261719>) as driver
+01:02:53.790 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8109.595215, 91.058792, 5654.261719>)
+01:07:07.999 [AI Patrol] Spawning 3 Shamans bots at <10342.706055, 70.205452, 5598.701660>
+01:07:10.579 [AI Patrol] Spawning 3 Shamans bots at <9974.898438, 73.470001, 4915.025879>
+01:07:57.595 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9518.122070, 91.924072, 5723.349609>)
+01:08:00.879 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9518.121094, 91.924797, 5723.342773>)
+01:08:03.670 [VehicleLeave] Player Rhinoshaft [uid=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9518.121094, 91.924965, 5723.342285>)
+01:15:30.603 [Party] Player "Rhinoshaft" (id=w0d2i6JERzFZQoH9iYe26V_c-jfekw4sRV-sWCyfK9U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+01:23:50.990 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9518.121094, 91.925224, 5723.338379>) as driver
+01:23:57.087 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9518.120117, 91.927216, 5723.331055>)
+01:26:07.313 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8582.406250, 82.331726, 5831.917969>)
+01:26:27.249 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8582.406250, 82.331726, 5831.917969>) as driver
+01:26:29.897 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8582.406250, 82.331734, 5831.917969>)
+01:35:53.732 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8394.111328, 124.888634, 9128.147461>)
+01:35:57.263 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8394.111328, 124.888634, 9128.147461>)
+01:36:24.052 [VehicleAttachments] Player kinda nice (uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) detached M35a2 Rust Hood (type=M35a2_Doors_hood_Rust) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<8394.111328, 124.888626, 9128.147461>)
+01:39:02.582 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+01:54:10.384 [AI Patrol] Spawning 3 Shamans bots at <10064.149414, 84.490448, 9758.949219>
+01:58:40.362 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8394.111328, 124.888634, 9128.147461>) as driver
+01:58:43.399 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8394.111328, 124.888626, 9128.147461>)
+01:59:26.652 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+01:59:26.658 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+01:59:26.658 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+01:59:26.658 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+01:59:27.633 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+02:01:17.436 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9575.560547, 82.542091, 9588.014648>)
+02:01:22.802 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9575.560547, 82.542084, 9588.014648>)
+02:11:34.592 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9575.560547, 82.542076, 9588.014648>) as driver
+02:11:36.601 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9575.560547, 82.542084, 9588.014648>)
+02:13:15.157 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9563.171875, 82.548615, 9581.105469>)
+02:13:19.046 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9563.171875, 82.548630, 9581.105469>)
+02:13:38.984 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+02:13:38.985 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+02:13:39.359 [VehicleAttachments] Player kinda nice (uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) detached Barrel (type=Barrel_Green) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<9563.171875, 82.548622, 9581.105469>)
+02:13:45.791 [VehicleAttachments] Player kinda nice (uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) detached Barrel (type=Barrel_Green) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<9563.171875, 82.548622, 9581.105469>)
+02:13:57.019 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+02:14:24.410 [VehicleAttachments] Player kinda nice (uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) detached Barrel (type=Barrel_Yellow) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<9563.171875, 82.548622, 9581.105469>)
+02:15:07.118 [Party] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+02:17:41.903 [VehicleEnter] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9563.171875, 82.548615, 9581.105469>) as driver
+02:18:07.671 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] started vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9563.171875, 82.548645, 9581.105469>)
+02:18:20.275 [VehicleEnter] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] entered vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<9560.477539, 82.548630, 9580.443359>) as passenger
+02:21:38.801 [VehicleLeave] Player RanchManDressing [uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8421.500977, 123.084984, 9118.089844>)
+02:21:39.924 [VehicleEngine] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] stopped vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8421.546875, 123.077606, 9118.085938>)
+02:21:42.514 [VehicleLeave] Player kinda nice [uid=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=] left vehicle M35a2 Rust (id=09759334AE48252168D0E7B2845DED9A pos=<8421.652344, 123.060684, 9118.076172>)
+02:23:22.398 [VehicleAttachments] Player RanchManDressing (uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) detached Headlight Bulb (type=HeadlightH7) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<8421.673828, 123.057259, 9118.074219>)
+02:24:17.096 [VehicleAttachments] Player RanchManDressing (uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) detached Car Radiator (type=CarRadiator) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<8421.673828, 123.057259, 9118.074219>)
+02:24:18.188 [Party] Player "kinda nice" (id=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U=) left the party "theboys" (id=2 ownerUID=ycHdZvpSorODkIzj3ewqoOFSiH8sVlVfkFoTI2jpQ7U= ownerName=kinda nice)
+02:25:30.797 [VehicleAttachments] Player RanchManDressing (uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) detached M35a2 Rust Trunk lid (type=M35a2_Doors_trunk_Rust) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<8421.800781, 123.036484, 9118.090820>)
+02:25:36.523 [VehicleAttachments] Player RanchManDressing (uid=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) detached M35a2 Double Wheel Rust (type=M35a2_WheelDouble_Rust) from vehicle M35a2 Rust(id=09759334AE48252168D0E7B2845DED9A pos=<8421.820313, 123.033310, 9118.088867>)
+02:34:43.933 [Territory] Player "RanchManDressing" (id=41rlZzRmepEe17jh6X-WfKPmj2qDIq4SQDwZR3KaNLw=) created territory swaziland at <9567.997070, 82.893990, 9584.760742>

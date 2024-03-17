@@ -1,0 +1,85 @@
+12:42:24.273 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<10118.707031, 129.872391, 7932.801270>) Entered the safezone
+12:42:24.273 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+12:42:24.281 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+12:42:24.281 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+12:42:24.281 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+12:42:24.281 [AI Patrol] Spawning 3 Shamans bots at <10713.507813, 183.025330, 7520.810547>
+12:42:25.250 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:43:24.277 [Expansion Quests] - CompleteQuest - Player with UID 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= has completed quest 99
+12:47:33.906 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Military
+12:48:43.292 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10122.830078, 129.900345, 7928.484863>) as driver
+12:48:45.816 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10122.830078, 129.900345, 7928.484863>)
+12:48:53.796 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10121.730469, 129.900345, 7924.556152>)
+12:48:57.187 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10121.730469, 129.900345, 7924.556152>)
+12:50:10.574 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10121.730469, 129.900345, 7924.556152>) as driver
+12:50:12.707 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10121.730469, 129.900345, 7924.556152>)
+12:50:39.378 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<9925.579102, 141.837189, 7851.706055>) Left the safezone
+12:51:18.714 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<10085.684570, 133.119629, 7872.481934>) Entered the safezone
+12:51:27.074 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10122.401367, 129.900345, 7927.506836>)
+12:51:30.832 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10122.401367, 129.900345, 7927.506836>)
+12:53:26.507 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= for quest 33
+12:53:46.261 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10122.401367, 129.900345, 7927.506836>) as driver
+12:53:49.335 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<10122.401367, 129.900345, 7927.506836>)
+12:54:17.082 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<9920.853516, 142.097717, 7852.153320>) Left the safezone
+12:55:17.093 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<9242.470703, 202.751343, 8021.037109>)
+12:56:04.089 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<9242.470703, 202.751343, 8021.036621>) as driver
+12:56:06.292 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<9242.470703, 202.751328, 8021.036621>)
+12:58:42.796 [AI Patrol] Spawning 3 Shamans bots at <7722.617676, 242.055618, 7659.004883>
+13:01:26.222 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+13:01:26.226 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+13:02:29.128 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=
+13:02:29.128 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:02:29.128 [AI Patrol] Spawning 3 Shamans bots at <9769.663086, 87.722160, 5754.370605>
+13:04:04.039 [AI Patrol] Spawning 3 Shamans bots at <10639.179688, 59.849998, 5510.178711>
+13:05:54.867 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=
+13:05:54.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:05:54.867 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=
+13:06:53.476 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<4626.913086, 207.136459, 7624.438477>)
+13:06:57.542 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black_rust (id=31E878D415478C474878A581AD43ED14 pos=<4626.913086, 207.136459, 7624.438477>)
+13:07:09.695 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) joinded the party "Goochie" (id=1 ownerUID= ownerName=)
+13:07:09.699 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) created a party named Goochie ()
+13:07:10.695 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+13:07:23.726 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) invited the player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=)to the party named Goochie
+13:07:31.523 [Party] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=) joinded the party "Goochie" (id=1 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+13:07:32.523 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:08:58.953 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+13:14:27.882 [AI Patrol] Spawning 3 Shamans bots at <9836.154297, 73.470001, 4922.723633>
+13:28:29.921 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) left the party "Goochie" (id=1 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+13:28:32.437 [Party] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=) left the party "Goochie" (id=1 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+14:11:04.960 [Party] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=) joinded the party "Goochie" (id=1 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+14:11:04.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=
+14:11:04.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:11:04.968 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=
+14:11:05.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:11:13.613 [Safezone] Player "MR-PMB77" (id=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70= pos=<10129.911133, 130.798645, 7957.155273>) Entered the safezone
+14:11:13.617 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=
+14:11:13.617 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+14:11:13.617 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=
+14:11:13.617 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: 9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=
+14:12:29.792 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) joinded the party "Goochie" (id=1 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+14:12:29.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=
+14:12:29.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:12:29.820 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=
+14:12:30.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:14:15.914 [MissionAirdrop] An airdrop is heading towards "Bondstil Military Base" (pos=<7574.359863, 0.000000, 7758.710449> type=Random_Bondstil Military Base) with a ExpansionAirdropContainer_Military
+14:17:39.171 [Safezone] Player "MR-PMB77" (id=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70= pos=<10068.644531, 133.344650, 7840.171387>) Left the safezone
+14:42:05.531 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<29c6dba0> at <7563.96, 246.38, 7757.18> EXPLOSION range 20 dropoff 5
+14:42:09.882 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<e118a9c0> at <7534.28, 243.57, 7757.69> EXPLOSION range 20 dropoff 5
+14:44:48.273 [VehicleEnter] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] entered vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10937.825195, 244.565735, 6583.391113>) as driver
+14:44:51.472 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] started vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10937.825195, 244.565735, 6583.391113>)
+14:46:29.691 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] stopped vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10293.112305, 198.937897, 6454.435059>)
+14:46:36.656 [VehicleLeave] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] left vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10293.112305, 198.937866, 6454.434570>)
+14:47:23.582 [VehicleEnter] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] entered vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10293.112305, 198.937881, 6454.434570>) as driver
+14:47:26.703 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] started vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10293.112305, 198.937881, 6454.434570>)
+14:48:02.273 [VehicleEngine] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] stopped vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10293.651367, 198.856506, 6455.265137>)
+14:48:06.339 [VehicleLeave] Player MR-PMB77 [uid=9cMNk_fnYbPOltGLToF7GLaQcnud8-0tb7FTy1h7G70=] left vehicle HEMTT rust (id=AFA6D61E824F89C8640BAB8231397F41 pos=<10293.650391, 198.856537, 6455.264648>)
+14:58:13.109 [Safezone] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= pos=<10032.796875, 155.561356, 7950.246094>) Entered the safezone
+14:58:14.078 [Safezone] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo= pos=<10033.724609, 154.751053, 7941.364258>) Entered the safezone
+14:58:50.343 [Expansion Quests] - CompleteQuest - Player with UID vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= has completed quest 99
+15:01:27.445 [Expansion Quests] - CompleteQuest - Player with UID j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo= has completed quest 99
+15:02:24.011 [Safezone] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo= pos=<10223.885742, 117.854736, 7844.416504>) Left the safezone
+15:02:39.671 [Party] Player "shiftyj03" (id=j_XCfqD38ajj3FFMYhrJjQEW3kOWAKDVDCe9dqTUEeo=) left the party "Goochie" (id=1 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+15:02:44.742 [Safezone] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= pos=<10187.278320, 114.143005, 7837.137207>) Left the safezone
+15:03:17.210 [Party] Player "EAVOOO" (id=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o=) left the party "Goochie" (id=1 ownerUID=vhFDVl3jDSwqFNakKCJyQbJDogMTtyNJMYkJsygvG9o= ownerName=EAVOOO)
+15:03:29.226 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<29c8ee60> at <9931.48, 78.69, 5760.04> EXPLOSION range 20 dropoff 5
+15:03:29.234 [Killfeed] MR-PMB77 was killed by an explosion caused by 6-M7 Frag Grenade.

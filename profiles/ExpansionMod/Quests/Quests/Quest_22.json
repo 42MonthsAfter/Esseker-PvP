@@ -2,37 +2,66 @@
     "ConfigVersion": 21,
     "ID": 22,
     "Type": 1,
-    "Title": "Quest chain example [Part 1]",
+    "Title": "Bring Me 5 Minnows",
     "Descriptions": [
-        "This is a simple quest chain example quest where the player can process thrue a quests without visiting a quest NPC.",
-        "Go to location A.",
-        "You reached location A and now you can accept the next quest when you complete this one!"
+        "I'm thinking about starting a minow spawn tank, but lack the minnows. And water. And talk. Let's get started with the minnows.",
+        "How hard can it be to get these little fishes?",
+        "Well done! How long did that take you?"
     ],
-    "ObjectiveText": "Go to location A",
-    "FollowUpQuest": 23,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "ObjectiveText": "Bring Me 5 Minnows",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
-    "NeedToSelectReward": 0,
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_LugerP08",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_LugerP08_mag_8Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_LugerP08_mag_8Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
+    ],
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
         1
     ],
-    "QuestTurnInIDs": [],
+    "QuestTurnInIDs": [
+        1
+    ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 5,
-            "ObjectiveType": 3
+            "ConfigVersion": 27,
+            "ID": 22,
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,
@@ -41,11 +70,11 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

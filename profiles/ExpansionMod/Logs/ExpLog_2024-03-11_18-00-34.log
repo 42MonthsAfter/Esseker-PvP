@@ -1,0 +1,7 @@
+19:13:40.796 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: voYgN-M6qkPKqS22DTjkTAbtdXRSe2jYJ6lpDUGEgSQ=
+19:18:49.562 [MissionAirdrop] An airdrop is heading towards "Neptune Resort" (pos=<6596.615723, 0.000000, 5425.879883> type=Random_Neptune Resort) with a ExpansionAirdropContainer_Medical
+20:36:33.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+20:36:33.000 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:40:22.585 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:40:22.585 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:40:25.562 [MissionAirdrop] An airdrop is heading towards "Gulash" (pos=<6331.370117, 0.000000, 6278.273438> type=Random_Gulash) with a ExpansionAirdropContainer_Military

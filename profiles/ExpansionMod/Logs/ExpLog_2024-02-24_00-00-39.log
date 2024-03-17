@@ -1,0 +1,20 @@
+00:01:56.161 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+00:01:56.168 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:56.168 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:01:56.168 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:57.133 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:07:05.944 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Medical
+00:35:16.580 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:35:16.580 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:46:21.419 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+00:46:21.426 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:46:21.426 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:46:21.427 [Expansion Quests] - Create new quest instance for quest: 35 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:46:22.396 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:46:40.207 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) invited the player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)to the party named Sharkparty
+00:48:37.824 [Party] Player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+00:48:38.823 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+01:15:48.801 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+01:17:01.325 [Territory] Player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6251.794434, 133.360519, 6080.604492>) was invited to join the territory Calgacus at <6245.524902, 133.328598, 6085.719238> by the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)
+01:21:33.822 [Party] Player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+01:22:12.277 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Sharkparty" (id=0 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)

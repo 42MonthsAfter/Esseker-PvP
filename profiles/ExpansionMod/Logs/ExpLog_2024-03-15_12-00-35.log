@@ -1,0 +1,9 @@
+12:03:29.500 [Party] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=) joinded the party "decoratedshamus" (id=3 ownerUID=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8= ownerName=decoratedshamus)
+12:03:29.503 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=
+12:03:29.507 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 3
+12:03:29.507 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=
+12:03:30.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+12:08:30.000 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Basebuilding
+12:35:56.656 [Safezone] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8= pos=<10082.748047, 132.321289, 7873.265625>) Entered the safezone
+12:46:20.621 [Expansion Quests] - CompleteQuest - Player with UID BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8= has completed quest 99
+12:52:07.753 [Party] Player "decoratedshamus" (id=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8=) left the party "decoratedshamus" (id=3 ownerUID=BqTcAbX4ml-jmThij4dKXfD8OqFMHPZSkoxrPmWXeV8= ownerName=decoratedshamus)

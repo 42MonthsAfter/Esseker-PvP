@@ -1,7 +1,7 @@
 {
     "m_Version": 10,
-    "EnableQuests": 0,
-    "EnableQuestLogTab": 0,
+    "EnableQuests": 1,
+    "EnableQuestLogTab": 1,
     "CreateQuestNPCMarkers": 1,
     "QuestAcceptedTitle": "Quest Accepted",
     "QuestAcceptedText": "The quest %1 has been accepted!",
@@ -24,12 +24,12 @@
     "GroupQuestMode": 0,
     "AchievementCompletedTitle": "Achievement \"%1\" completed!",
     "AchievementCompletedText": "%1",
-    "WeeklyResetDay": "Wednesday",
+    "WeeklyResetDay": "Friday",
     "WeeklyResetMinute": 0,
-    "WeeklyResetHour": 8,
-    "DailyResetHour": 8,
+    "WeeklyResetHour": 6,
+    "DailyResetHour": 6,
     "DailyResetMinute": 0,
     "UseUTCTime": 0,
     "UseQuestNPCIndicators": 1,
-    "MaxActiveQuests": -1
+    "MaxActiveQuests": 1
 }

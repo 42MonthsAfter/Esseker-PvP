@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Kula",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4873.42, 
+        172.584,  
+        5102.15
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Kula",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -2,27 +2,54 @@
     "ConfigVersion": 21,
     "ID": 21,
     "Type": 1,
-    "Title": "You need the Honor",
+    "Title": "Bring Me 3 Whole Roosters",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "This is going to sound a little strange... but I need me some chickens. Dead roosters. Dead whole chickens. No, you can't ask why. Mind yo business.",
+        "Tut tut, Colonel Sanders. I'm waiting.",
+        "Yes! Now I need some alone time. Bugger off."
     ],
-    "ObjectiveText": "PLACEHOLDER",
+    "ObjectiveText": "Bring Me 3 Whole Roosters",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
-    "NeedToSelectReward": 0,
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_HK47",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_HK47_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_HK47_mag_15Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
+    ],
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
         1
     ],
@@ -32,22 +59,22 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 3,
-            "ObjectiveType": 2
+            "ConfigVersion": 27,
+            "ID": 21,
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 100,
-    "ReputationRequirement": 100,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

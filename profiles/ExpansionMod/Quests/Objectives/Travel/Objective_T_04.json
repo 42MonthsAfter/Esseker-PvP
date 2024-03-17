@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Borosh",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10079.4, 
+        73.6121, 
+        9876.47
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Borosh",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

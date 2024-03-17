@@ -1,0 +1,21 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HOLLER MARKET",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Menu",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Rare_Pelts:0",
+        "Rare_Fish:0",
+        "Good_Good:2",
+        "Medical:0"
+    ],
+    "Items": {}
+}

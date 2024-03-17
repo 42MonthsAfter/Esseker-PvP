@@ -1,0 +1,27 @@
+19:39:35.570 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+19:39:35.570 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=
+19:39:35.578 [AI Patrol] Spawning 3 Shamans bots at <9984.935547, 78.632095, 9857.523438>
+19:44:38.382 [MissionAirdrop] An airdrop is heading towards "Esseker Industrial Zone" (pos=<8053.490234, 0.000000, 5485.994141> type=Random_Esseker Industrial Zone) with a ExpansionAirdropContainer_Military
+21:10:41.375 [MissionAirdrop] An airdrop is heading towards "Kula" (pos=<4978.740234, 0.000000, 4995.410156> type=Random_Kula) with a ExpansionAirdropContainer_Military
+21:42:32.132 [AI Patrol] Spawning 3 Shamans bots at <10721.042969, 194.934021, 7493.238770>
+21:44:02.531 [Safezone] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE= pos=<10087.909180, 132.230194, 7869.870605>) Entered the safezone
+21:44:58.625 [Expansion Quests] - CompleteQuest - Player with UID 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE= has completed quest 99
+21:58:54.281 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE= for quest 52
+22:01:01.945 [Safezone] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE= pos=<10045.730469, 170.001343, 8068.746094>) Left the safezone
+22:29:44.226 [AI Patrol] Spawning 3 Shamans bots at <10731.163086, 186.126099, 7507.533691>
+22:30:30.335 [Safezone] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE= pos=<10078.896484, 160.004776, 8045.260254>) Entered the safezone
+22:32:15.984 [Expansion Quests] - CompleteQuest - Player with UID 1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE= has completed quest 52
+22:33:03.125 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>).
+22:33:03.250 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>) for a price of 40.
+22:33:03.687 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>).
+22:33:03.796 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>) for a price of 40.
+22:33:04.460 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>).
+22:33:04.570 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>) for a price of 40.
+22:33:07.718 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has send a requested to purchase ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>).
+22:33:07.789 [Market] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has bought ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<10131.799805, 0.000000, 7960.509766>) for a price of 32.
+22:35:12.375 [MissionAirdrop] An airdrop is heading towards "Esseker West" (pos=<9053.280273, 0.000000, 5508.087402> type=Random_Esseker West) with a ExpansionAirdropContainer_Military
+22:36:49.406 [ATM] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE=) has deposited 48 on his ATM account.
+22:43:20.164 [Safezone] Player "gamemaster1177" (id=1uc-dUY3DHt9Alpe4G1oMigV5EUL6miJal1_UX0GmPE= pos=<10213.135742, 120.524353, 7867.937500>) Left the safezone
+22:47:39.906 [AI Patrol] Spawning 3 Shamans bots at <11949.308594, 80.791100, 8031.627441>
+22:48:13.937 [AI Patrol] Spawning 3 Shamans bots at <12112.019531, 82.094444, 7850.368164>
+22:59:28.023 [AI Patrol] Spawning 3 Shamans bots at <10389.473633, 78.738144, 5701.383301>

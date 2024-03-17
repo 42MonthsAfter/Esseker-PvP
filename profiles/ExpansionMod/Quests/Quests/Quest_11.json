@@ -2,41 +2,66 @@
     "ConfigVersion": 21,
     "ID": 11,
     "Type": 1,
-    "Title": "Lockpick your first vehicle",
-    "Descriptions": [],
-    "ObjectiveText": "You have lockpicked your first vehicle! Reward: 500 Hryvnia",
+    "Title": "Collect 5 Packs of Pumpkin Seeds",
+    "Descriptions": [
+        "I'm looking to get a little project going, could use your help. Get out there and get me 5 packs of pumpkin seeds so I can get the art project start. Yeah, I said art, what of it?.",
+        "I seriously can't finish this project with out your help. Need me those seeds!",
+        "Amazing! I'm one step closer to be the Andy Warhol of Deer Isle."
+    ],
+    "ObjectiveText": "Collect 5 Packs of Pumpkin Seeds",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 500,
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_ArexZero",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_ArexZero_mag_18Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_ArexZero_mag_18Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
-    "QuestGiverIDs": [],
-    "QuestTurnInIDs": [],
-    "IsAchievement": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 1,
-            "ObjectiveType": 10
+            "ConfigVersion": 27,
+            "ID": 11,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
@@ -45,11 +70,11 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

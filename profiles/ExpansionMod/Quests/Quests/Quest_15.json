@@ -2,18 +2,18 @@
     "ConfigVersion": 21,
     "ID": 15,
     "Type": 1,
-    "Title": "Plant a Pumpkin",
+    "Title": "Collect 4 3 Digit Combination Locks",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Ask me how many times my bike has been stollen? Go on. Ask me. 17. 17 times. Scoop me up some combination locks so I can put an end to this nightmare.",
+        "You're going to be able to see my bike because it was stolen. I thought we covered this?",
+        "My bike will be safer that Pee-Wee's now, all because of you. Thank you!"
     ],
-    "ObjectiveText": "Plant a pumpkin seed.",
+    "ObjectiveText": "Collect 4 3 Digit Combination Locks",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
@@ -21,18 +21,35 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 500,
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_BerettaDEBlack",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_BerettaDE_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_BerettaDE_mag_15Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
         1
     ],
@@ -42,9 +59,9 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 2,
-            "ObjectiveType": 10
+            "ConfigVersion": 27,
+            "ID": 15,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
@@ -53,11 +70,11 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

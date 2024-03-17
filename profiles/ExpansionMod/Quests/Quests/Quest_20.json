@@ -2,27 +2,54 @@
     "ConfigVersion": 21,
     "ID": 20,
     "Type": 1,
-    "Title": "For the Honor",
+    "Title": "Collect 10 Yellow Construction Helmets",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Me and the boys are starting a construction company but are missing some of the gear. Can you get us some helmets? We need 10. And they need to be yellow.",
+        "Don't ask why they need to be yellow, they just do.",
+        "I can't believe you did this. I was just joking but I guess I need to pay you now for the hard work."
     ],
-    "ObjectiveText": "PLACEHOLDER",
+    "ObjectiveText": "Collect 10 Yellow Construction Helmets",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
-    "NeedToSelectReward": 0,
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_Glock18Rebel",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_Glock18Rebel_mag_17Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_Glock18Rebel_mag_17Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
+    ],
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
         1
     ],
@@ -32,22 +59,22 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 3,
-            "ObjectiveType": 2
+            "ConfigVersion": 27,
+            "ID": 20,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 100,
+    "ReputationReward": 0,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }
